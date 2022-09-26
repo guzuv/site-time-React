@@ -122,10 +122,18 @@ const Home = (props) => {
               </a>
             </div>
             <div className="home-card-content1">
-              <h3 className="home-text17 bigCard-Heading">GBA emulator.</h3>
+              <h3 className="home-text17 bigCard-Heading">among us.</h3>
               <span className="home-text18 card-Text">
-                my own GBA emulator! updating at times! thanks will for
-                suggestion! 
+                <span>
+                  amongus with multiplayer!
+                  <span
+                    dangerouslySetInnerHTML={{
+                      __html: ' ',
+                    }}
+                  />
+                </span>
+                <br></br>
+                <span>quick chat only, have fun!</span>
               </span>
               <a
                 href="https://guzuv.github.io/guzEmu/"
@@ -133,28 +141,43 @@ const Home = (props) => {
                 rel="noreferrer noopener"
                 className="home-link1 button"
               >
+                sus much?
+              </a>
+            </div>
+            <div className="home-card-content2">
+              <h3 className="home-text22 bigCard-Heading">GBA emulator.</h3>
+              <span className="home-text23 card-Text">
+                my own GBA emulator! updating at times! thanks will for
+                suggestion! 
+              </span>
+              <a
+                href="https://guzuv.github.io/guzEmu/"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="home-link2 button"
+              >
                 Have fun!
               </a>
             </div>
           </div>
           <div className="home-service-card1">
-            <div className="home-card-content2">
-              <h3 className="home-text19 bigCard-Heading">Doodle Jump.</h3>
-              <span className="home-text20 card-Text">
+            <div className="home-card-content3">
+              <h3 className="home-text24 bigCard-Heading">Doodle Jump.</h3>
+              <span className="home-text25 card-Text">
                 jump as high as you can! can you beat 15000 score? good luck!
               </span>
               <a
                 href="https://omackenzie.github.io/Doodle-Jump-in-JS/"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="home-link2 anchor button"
+                className="home-link3 anchor button"
               >
                 Get Jumping!
               </a>
             </div>
-            <div className="home-card-content3">
-              <h3 className="home-text21 bigCard-Heading">Doom!</h3>
-              <span className="home-text22 card-Text">
+            <div className="home-card-content4">
+              <h3 className="home-text26 bigCard-Heading">Doom!</h3>
+              <span className="home-text27 card-Text">
                 get knee deep in hell, slaughter to victory! press any key to
                 start. 
               </span>
@@ -162,41 +185,39 @@ const Home = (props) => {
                 href="https://floooh.github.io/doom-sokol/"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="home-link3 button anchor"
+                className="home-link4 button anchor"
               >
                 Rip and Tear!
+              </a>
+            </div>
+            <div className="home-card-content5">
+              <h3 className="home-text28 bigCard-Heading">minecraft.</h3>
+              <span className="home-text29">
+                <span>
+                  minecraft 1.5.2, with multiplayer and voice chat! pick
+                  multiplayer and join with a friend! press escape in-game and
+                  pick nearby to enable voice chat!
+                </span>
+                <br></br>
+                <span>if it says 404, wait 30 mins.</span>
+                <br></br>
+              </span>
+              <a
+                href="https://guzuv.repl.co"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="home-link5 button anchor"
+              >
+                get mining!
               </a>
             </div>
           </div>
         </div>
       </div>
-      <div className="home-card-content4">
-        <h3 className="home-text23 bigCard-Heading">minecraft.</h3>
-        <span className="home-text24">
-          <span className="card-Text">
-            minecraft 1.5.2, running with multiplayer and voice chat! select
-            multiplayer and join with a friend! press escape when in server and
-            select nearby to enable voice chat. It is somewhat buggy, so give it
-            some time.
-          </span>
-          <br></br>
-        </span>
-        <a
-          href="https://guzuv.repl.co/"
-          target="_blank"
-          rel="noreferrer noopener"
-          className="home-link4 button"
-        >
-          <span>
-            <span className="home-text28">get mining!</span>
-            <br></br>
-          </span>
-        </a>
-      </div>
       <div className="home-section-separator1"></div>
       <div className="home-container2">
         <div className="home-testimonials">
-          <h2 className="home-text30">peeps i feature.</h2>
+          <h2 className="home-text34">peeps i feature.</h2>
           <div className="home-cards-container1">
             <div className="home-testimonial-card">
               <div className="home-card-heading">
@@ -246,7 +267,7 @@ const Home = (props) => {
                   </svg>
                 </div>
               </div>
-              <span className="home-text31">
+              <span className="home-text35">
                 the coolest nerd i know, check him out, he posts gaming and life
                 videos.
                 <span
@@ -304,7 +325,7 @@ const Home = (props) => {
                   </svg>
                 </div>
               </div>
-              <span className="home-text32">
+              <span className="home-text36">
                 good videos, does shorts, livestreams, and gameplay! dedicated
                 and great!
               </span>
@@ -355,7 +376,7 @@ const Home = (props) => {
                   </svg>
                 </div>
               </div>
-              <span className="home-text33">
+              <span className="home-text37">
                 <span>
                   loves roblox bedwars, has some nice vids, go say hi to him!
                 </span>
@@ -368,7 +389,7 @@ const Home = (props) => {
       <div className="home-container3"></div>
       <div id="contact" className="home-contact">
         <div className="home-content-container">
-          <h2 className="home-text36 section-Heading">Contact me!</h2>
+          <h2 className="home-text40 section-Heading">Contact me!</h2>
           <div className="home-locations-container">
             <div className="home-location-1">
               <span className="home-heading4">most active on discord.</span>
@@ -388,9 +409,9 @@ const Home = (props) => {
                 >
                   <path d="M585.143 512c0-80.571-65.714-146.286-146.286-146.286s-146.286 65.714-146.286 146.286 65.714 146.286 146.286 146.286 146.286-65.714 146.286-146.286zM664 512c0 124.571-100.571 225.143-225.143 225.143s-225.143-100.571-225.143-225.143 100.571-225.143 225.143-225.143 225.143 100.571 225.143 225.143zM725.714 277.714c0 29.143-23.429 52.571-52.571 52.571s-52.571-23.429-52.571-52.571 23.429-52.571 52.571-52.571 52.571 23.429 52.571 52.571zM438.857 152c-64 0-201.143-5.143-258.857 17.714-20 8-34.857 17.714-50.286 33.143s-25.143 30.286-33.143 50.286c-22.857 57.714-17.714 194.857-17.714 258.857s-5.143 201.143 17.714 258.857c8 20 17.714 34.857 33.143 50.286s30.286 25.143 50.286 33.143c57.714 22.857 194.857 17.714 258.857 17.714s201.143 5.143 258.857-17.714c20-8 34.857-17.714 50.286-33.143s25.143-30.286 33.143-50.286c22.857-57.714 17.714-194.857 17.714-258.857s5.143-201.143-17.714-258.857c-8-20-17.714-34.857-33.143-50.286s-30.286-25.143-50.286-33.143c-57.714-22.857-194.857-17.714-258.857-17.714zM877.714 512c0 60.571 0.571 120.571-2.857 181.143-3.429 70.286-19.429 132.571-70.857 184s-113.714 67.429-184 70.857c-60.571 3.429-120.571 2.857-181.143 2.857s-120.571 0.571-181.143-2.857c-70.286-3.429-132.571-19.429-184-70.857s-67.429-113.714-70.857-184c-3.429-60.571-2.857-120.571-2.857-181.143s-0.571-120.571 2.857-181.143c3.429-70.286 19.429-132.571 70.857-184s113.714-67.429 184-70.857c60.571-3.429 120.571-2.857 181.143-2.857s120.571-0.571 181.143 2.857c70.286 3.429 132.571 19.429 184 70.857s67.429 113.714 70.857 184c3.429 60.571 2.857 120.571 2.857 181.143z"></path>
                 </svg>
-                <span className="home-text38">    Guzuvy</span>
+                <span className="home-text42">    Guzuvy</span>
               </div>
-              <span className="home-text39">
+              <span className="home-text43">
                 <span>leo@guzuv.ml</span>
                 <br></br>
                 <br></br>
@@ -419,7 +440,7 @@ const Home = (props) => {
               data-thq="thq-dropdown-toggle"
               className="home-dropdown-toggle"
             >
-              <span className="home-text44">Sub-menu Item</span>
+              <span className="home-text48">Sub-menu Item</span>
             </div>
           </li>
           <li data-thq="thq-dropdown" className="home-dropdown1 list-item">
@@ -427,7 +448,7 @@ const Home = (props) => {
               data-thq="thq-dropdown-toggle"
               className="home-dropdown-toggle1"
             >
-              <span className="home-text45">Sub-menu Item</span>
+              <span className="home-text49">Sub-menu Item</span>
             </div>
           </li>
           <li data-thq="thq-dropdown" className="home-dropdown2 list-item">
@@ -435,7 +456,7 @@ const Home = (props) => {
               data-thq="thq-dropdown-toggle"
               className="home-dropdown-toggle2"
             >
-              <span className="home-text46">Sub-menu Item</span>
+              <span className="home-text50">Sub-menu Item</span>
             </div>
           </li>
         </ul>
