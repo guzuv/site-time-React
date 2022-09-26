@@ -136,7 +136,7 @@ const Home = (props) => {
                 <span>quick chat only, have fun!</span>
               </span>
               <a
-                href="https://guzuv.github.io/guzEmu/"
+                href="https://among-us-online-fan-remake.1tim.repl.co/"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="home-link1 button"
