@@ -196,8 +196,7 @@ const Home = (props) => {
                 <span>
                   minecraft 1.5.2, with multiplayer and voice chat! pick
                   multiplayer and join with a friend! press escape in-game and
-                  pick nearby to enable voice chat! click minecraft to fix
-                  errors!
+                  pick nearby to enable voice chat! error fix may come soon!
                 </span>
                 <br></br>
               </span>
