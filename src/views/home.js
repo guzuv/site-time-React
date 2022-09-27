@@ -147,7 +147,7 @@ const Home = (props) => {
             <div className="home-card-content2">
               <h3 className="home-text22 bigCard-Heading">GBA emulator.</h3>
               <span className="home-text23 card-Text">
-                my own GBA emulator! updating at times! thanks will for
+                my own GBA emulator! updating at times! thanks Will for
                 suggestion! 
               </span>
               <a
