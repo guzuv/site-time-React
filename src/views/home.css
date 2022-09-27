@@ -369,21 +369,17 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-link5 {
-  display: contents;
-}
 .home-text28 {
   color: #ffffff;
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
-  text-decoration: none;
 }
 .home-text29 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.home-link6 {
+.home-link5 {
   color: var(--dl-color-gray-white);
   width: 80%;
   align-self: center;
@@ -952,7 +948,7 @@
   .home-link2 {
     background-color: #04bea6;
   }
-  .home-link6 {
+  .home-link5 {
     background-color: #9500ff;
   }
   .home-testimonial-card2 {
@@ -978,12 +974,12 @@
     height: 289px;
   }
   .home-text28 {
-    color: #00ffdd;
+    color: #ffffff;
   }
   .home-text29 {
     color: var(--dl-color-primary-700);
   }
-  .home-link6 {
+  .home-link5 {
     background-color: #9500ff;
   }
   .home-testimonial-card {
@@ -1031,7 +1027,7 @@
   .home-text29 {
     color: var(--dl-color-primary-700);
   }
-  .home-link6 {
+  .home-link5 {
     background-color: #bb00ff;
   }
   .home-testimonial-card {

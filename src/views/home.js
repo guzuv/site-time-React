@@ -191,14 +191,7 @@ const Home = (props) => {
               </a>
             </div>
             <div className="home-card-content5">
-              <a
-                href="https://replit.com/@guzuv/guzuv?v=1"
-                target="_blank"
-                rel="noreferrer noopener"
-                className="home-link5"
-              >
-                <h3 className="home-text28 bigCard-Heading">minecraft.</h3>
-              </a>
+              <h3 className="home-text28 bigCard-Heading">minecraft.</h3>
               <span className="home-text29">
                 <span>
                   minecraft 1.5.2, with multiplayer and voice chat! pick
@@ -209,10 +202,10 @@ const Home = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://click-stop-and-go-back-and-refresh.guzuv.repl.co"
+                href="https://guzuv.repl.co"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="home-link6 button anchor"
+                className="home-link5 button anchor"
               >
                 get mining!
               </a>
