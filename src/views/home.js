@@ -201,7 +201,7 @@ const Home = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://guzuv.repl.co"
+                href="https://hyper-network.me"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="home-link5 button anchor"
