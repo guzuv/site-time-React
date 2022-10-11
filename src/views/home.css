@@ -951,8 +951,14 @@
   .home-link5 {
     background-color: #9500ff;
   }
+  .home-testimonial-card {
+    height: 241px;
+  }
+  .home-testimonial-card1 {
+    height: 239px;
+  }
   .home-testimonial-card2 {
-    height: 219px;
+    height: 240px;
   }
 }
 @media(max-width: 1200px) {
