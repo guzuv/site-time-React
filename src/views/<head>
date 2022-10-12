@@ -9,11 +9,11 @@ const Home = (props) => {
     <div className="home-container">
       <Helmet>
         <title>leo says hi!</title>
-        <meta name="description" content="hey, we got games and fun here!" />
-        <meta property="og:title" content="leo says hi!" />
+        <meta name="description" content="hey, we got games and fun here at guzuv.ml!" />
+        <meta property="og:title" content="guzuv says hi!" />
         <meta
           property="og:description"
-          content="hey, we got games and fun here!"
+          content="hey, we got games and fun here at guzuv.ml!"
         />
       </Helmet>
       <div className="home-hero">
