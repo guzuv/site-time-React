@@ -163,7 +163,7 @@ const Home = (props) => {
               <h3 className="home-text24 bigCard-Heading">super mario 64.</h3>
               <span className="home-text25 card-Text">
                 mario 64, with saves and everything! it&apos;s a bunch of fun,
-                good luck!
+                good luck! spam space while it&apos;s loading for sound!
               </span>
               <a
                 href="https://28klotlucas2.github.io/Mario64webgl/"
