@@ -9,26 +9,22 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>leo says hi!</title>
-        <meta name="description" content="hey, we got games and fun here!" />
-        <meta property="og:title" content="leo says hi!" />
+        <title>guzuv says hi!</title>
+        <meta
+          name="description"
+          content="hey, we got games and fun here at guzuv.ml!"
+        />
+        <meta property="og:title" content="guzuv says hi!" />
         <meta
           property="og:description"
-          content="hey, we got games and fun here!"
+          content="hey, we got games and fun here at guzuv.ml!"
         />
       </Helmet>
       <div className="home-hero">
         <div className="home-hero-text-container">
           <h1 className="home-heading">welcome to guzuv&apos;s site!</h1>
           <span className="home-text">
-            <span>
-              hey, i&apos;m just a fella who might upload some videos!
-              <span
-                dangerouslySetInnerHTML={{
-                  __html: ' ',
-                }}
-              />
-            </span>
+            <span>&quot;epic quote here&quot;</span>
             <br className="section-Text"></br>
           </span>
           <a href="#services" className="home-cta-btn button">

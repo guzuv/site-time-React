@@ -8,12 +8,15 @@ const Games = (props) => {
   return (
     <div className="games-container">
       <Helmet>
-        <title>games - leo says hi!</title>
-        <meta name="description" content="hey, we got games and fun here!" />
-        <meta property="og:title" content="games - leo says hi!" />
+        <title>games - guzuv says hi!</title>
+        <meta
+          name="description"
+          content="hey, we got games and fun here at guzuv.ml!"
+        />
+        <meta property="og:title" content="games - guzuv says hi!" />
         <meta
           property="og:description"
-          content="hey, we got games and fun here!"
+          content="hey, we got games and fun here at guzuv.ml!"
         />
       </Helmet>
       <div id="services" className="games-services">
