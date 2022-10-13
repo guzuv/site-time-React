@@ -33,7 +33,7 @@ const Home = (props) => {
           </span>
           <a href="#services" className="home-cta-btn button">
             <span>
-              <span className="anchor home-text04">play Games!</span>
+              <span className="anchor">play Games!</span>
               <br></br>
             </span>
           </a>
@@ -333,7 +333,7 @@ const Home = (props) => {
                   src="https://e7.pngegg.com/pngimages/64/167/png-clipart-discord-computer-icons-logo-antopodis-logo-miscellaneous-smiley.png"
                   className="home-image4"
                 />
-                <span className="section-Text">  guzuv#0571</span>
+                <span>  guzuv#0571</span>
               </div>
             </div>
           </div>
@@ -343,34 +343,6 @@ const Home = (props) => {
           src="https://i.ibb.co/kDYJv3g/dark-hi.png"
           className="home-image5"
         />
-      </div>
-      <div data-thq="thq-dropdown" className="home-thq-dropdown list-item">
-        <ul data-thq="thq-dropdown-list" className="home-dropdown-list">
-          <li data-thq="thq-dropdown" className="home-dropdown list-item">
-            <div
-              data-thq="thq-dropdown-toggle"
-              className="home-dropdown-toggle"
-            >
-              <span className="home-text34">Sub-menu Item</span>
-            </div>
-          </li>
-          <li data-thq="thq-dropdown" className="home-dropdown1 list-item">
-            <div
-              data-thq="thq-dropdown-toggle"
-              className="home-dropdown-toggle1"
-            >
-              <span className="home-text35">Sub-menu Item</span>
-            </div>
-          </li>
-          <li data-thq="thq-dropdown" className="home-dropdown2 list-item">
-            <div
-              data-thq="thq-dropdown-toggle"
-              className="home-dropdown-toggle2"
-            >
-              <span className="home-text36">Sub-menu Item</span>
-            </div>
-          </li>
-        </ul>
       </div>
     </div>
   )
