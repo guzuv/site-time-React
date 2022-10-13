@@ -5,7 +5,6 @@
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
-  background-color: #000000;
 }
 .home-hero {
   width: 100%;
@@ -178,7 +177,6 @@
   align-items: flex-start;
   flex-direction: row;
   justify-content: center;
-  background-color: #000000;
 }
 .home-service-card {
   width: 49%;
@@ -188,7 +186,6 @@
   margin-bottom: var(--dl-space-space-fourunits);
   flex-direction: column;
   justify-content: center;
-  background-color: #000000;
 }
 .home-card-content {
   margin: var(--dl-space-space-fiveunits);
@@ -255,7 +252,6 @@
   padding-right: var(--dl-space-space-tripleunit);
   flex-direction: column;
   padding-bottom: var(--dl-space-space-fiveunits);
-  background-color: #000000;
 }
 .home-text20 {
   color: rgb(255, 255, 255);
@@ -277,19 +273,19 @@
   justify-content: space-between;
 }
 .home-testimonial-card {
-  width: 304px;
-  height: 219px;
+  width: 312px;
+  height: 242px;
   display: flex;
-  padding: var(--dl-space-space-fourunits);
   align-items: center;
   padding-top: var(--dl-space-space-doubleunit);
   border-color: var(--dl-color-gray-500);
-  border-width: 1px;
+  border-width: 3px;
   padding-left: var(--dl-space-space-doubleunit);
   border-radius: var(--dl-radius-radius-radius4);
   padding-right: var(--dl-space-space-doubleunit);
   flex-direction: column;
-  padding-bottom: var(--dl-space-space-doubleunit);
+  padding-bottom: var(--dl-space-space-halfunit);
+  background-color: rgba(0, 0, 0, 0.8);
 }
 .home-card-heading {
   width: 100%;
@@ -369,18 +365,19 @@
 }
 .home-testimonial-card1 {
   width: 312px;
-  height: 219px;
+  height: 242px;
   display: flex;
   padding: var(--dl-space-space-fourunits);
   align-items: center;
   padding-top: var(--dl-space-space-doubleunit);
   border-color: var(--dl-color-gray-500);
-  border-width: 1px;
+  border-width: 3px;
   padding-left: var(--dl-space-space-doubleunit);
   border-radius: var(--dl-radius-radius-radius4);
   padding-right: var(--dl-space-space-doubleunit);
   flex-direction: column;
   padding-bottom: var(--dl-space-space-doubleunit);
+  background-color: rgba(0, 0, 0, 0.8);
 }
 .home-card-heading1 {
   width: 100%;
@@ -466,18 +463,19 @@
   text-decoration: none;
 }
 .home-testimonial-card2 {
-  width: 328px;
-  height: 203px;
+  width: 312px;
+  height: 242px;
   display: flex;
   align-items: center;
   padding-top: var(--dl-space-space-doubleunit);
   border-color: var(--dl-color-gray-500);
-  border-width: 1px;
+  border-width: 3px;
   padding-left: var(--dl-space-space-doubleunit);
   border-radius: var(--dl-radius-radius-radius4);
   padding-right: var(--dl-space-space-doubleunit);
   flex-direction: column;
   padding-bottom: var(--dl-space-space-unit);
+  background-color: rgba(0, 0, 0, 0.8);
 }
 .home-card-heading2 {
   width: 100%;
@@ -560,7 +558,6 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  background-color: #000000;
 }
 .home-contact {
   width: 100%;
@@ -572,7 +569,6 @@
   flex-direction: row;
   padding-bottom: var(--dl-space-space-fiveunits);
   justify-content: space-between;
-  background-color: #000000;
 }
 .home-content-container {
   width: 50%;
@@ -582,10 +578,9 @@
   align-items: flex-start;
   padding-top: 36px;
   border-color: #ffffff;
-  border-width: 2px;
+  border-width: 3px;
   flex-direction: column;
   justify-content: flex-start;
-  background-color: #716e6e;
   border-left-width: 2px;
   border-right-width: 2px;
   border-bottom-width: 2px;
@@ -655,10 +650,14 @@
   border-width: 3px;
 }
 .home-image5 {
-  width: 50%;
+  width: 634px;
   height: 455px;
+  opacity: 0.5;
   align-self: flex-start;
   object-fit: cover;
+  border-color: #ffffff;
+  border-width: 3px;
+  padding-right: var(--dl-space-space-tenunits);
 }
 .home-thq-dropdown {
   cursor: pointer;
@@ -783,7 +782,6 @@
   .home-services {
     height: 397px;
     padding-top: 0px;
-    background-color: var(--dl-color-gray-black);
   }
   .home-service-card {
     height: 329px;

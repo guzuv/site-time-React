@@ -14,7 +14,6 @@
   padding-top: var(--dl-space-space-tenunits);
   flex-direction: row;
   justify-content: space-between;
-  background-color: #000000;
 }
 .games-service-card {
   width: 49%;
@@ -24,7 +23,6 @@
   margin-bottom: var(--dl-space-space-fourunits);
   flex-direction: column;
   justify-content: center;
-  background-color: #000000;
 }
 .games-card-content {
   margin: var(--dl-space-space-fiveunits);
@@ -159,7 +157,6 @@
   margin-bottom: var(--dl-space-space-fourunits);
   flex-direction: column;
   justify-content: center;
-  background-color: #000000;
 }
 .games-card-content4 {
   margin: var(--dl-space-space-fiveunits);
@@ -258,6 +255,12 @@
   background-color: #c400ff;
 }
 @media(max-width: 1600px) {
+  .games-services {
+    background-color: transparent;
+  }
+  .games-service-card {
+    background-color: transparent;
+  }
   .games-link1 {
     background-color: #ff7c00;
   }
@@ -266,6 +269,9 @@
   }
   .games-link3 {
     background-color: #1004be;
+  }
+  .games-service-card1 {
+    background-color: transparent;
   }
   .games-link6 {
     background-color: #9500ff;
@@ -301,6 +307,12 @@
   }
 }
 @media(max-width: 991px) {
+  .games-services {
+    background-color: transparent;
+  }
+  .games-service-card {
+    background-color: transparent;
+  }
   .games-link1 {
     color: var(--dl-color-gray-white);
     text-decoration: none;
@@ -312,6 +324,9 @@
   .games-link3 {
     background-color: #1b00c8;
   }
+  .games-service-card1 {
+    background-color: transparent;
+  }
   .games-text16 {
     color: var(--dl-color-primary-700);
   }
@@ -320,6 +335,12 @@
   }
 }
 @media(max-width: 767px) {
+  .games-services {
+    background-color: transparent;
+  }
+  .games-service-card {
+    background-color: transparent;
+  }
   .games-card-content {
     margin: 0px;
   }
@@ -332,6 +353,9 @@
   .games-card-content3 {
     margin: 0px;
   }
+  .games-service-card1 {
+    background-color: transparent;
+  }
   .games-card-content4 {
     margin: 0px;
   }
@@ -343,8 +367,12 @@
   }
 }
 @media(max-width: 479px) {
+  .games-services {
+    background-color: transparent;
+  }
   .games-service-card {
     width: 100%;
+    background-color: transparent;
   }
   .games-link1 {
     color: var(--dl-color-gray-white);
