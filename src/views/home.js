@@ -23,10 +23,7 @@ const Home = (props) => {
       <div className="home-hero">
         <div className="home-hero-text-container">
           <h1 className="home-heading">welcome to guzuv&apos;s site!</h1>
-          <span className="home-text">
-            <span>&quot;epic quote here&quot;</span>
-            <br className="section-Text"></br>
-          </span>
+          <span className="home-text">“epic quote here”</span>
           <a href="#services" className="home-cta-btn button">
             <span>
               <span className="anchor">play Games!</span>
@@ -43,8 +40,8 @@ const Home = (props) => {
       <div className="home-section-separator"></div>
       <div id="features" className="home-features">
         <div className="home-heading-container">
-          <h2 className="home-text06">what i do.</h2>
-          <span className="home-text07">
+          <h2 className="home-text04">what i do.</h2>
+          <span className="home-text05">
             what i do when i&apos;m not doing chores or being outdoors.
           </span>
         </div>
@@ -58,7 +55,7 @@ const Home = (props) => {
             <span className="home-heading1 card-Heading">
               playstation plays!
             </span>
-            <span className="home-text08">
+            <span className="home-text06">
               I play ps4 games, i play call of duty warzone, apex legends,
               fortnite, minecraft, and many others!
             </span>
@@ -70,7 +67,7 @@ const Home = (props) => {
               className="home-image2"
             />
             <span className="home-heading2 card-Heading">pc gaming!</span>
-            <span className="home-text09">
+            <span className="home-text07">
               <span>
                 i play on pc too! i have rust, minecraft, call of duty, and
                 others! always willing to try something new, so let me know!
@@ -85,7 +82,7 @@ const Home = (props) => {
               className="home-image3"
             />
             <span className="home-heading3 card-Heading">say hi!</span>
-            <span className="home-text12">
+            <span className="home-text10">
               <span>
                 i&apos;m on discord! i just might start a server one day,
                 contact me by scrolling down.
@@ -99,13 +96,27 @@ const Home = (props) => {
             </span>
           </div>
         </div>
+        <span className="home-text13">
+          <span>
+            ignore me, just making seo better:
+            <span
+              dangerouslySetInnerHTML={{
+                __html: ' ',
+              }}
+            />
+          </span>
+          <br></br>
+          <span>
+            guzuv guzuv guzuv guzuv guzuv guzuv guzuv games games unblocked
+          </span>
+        </span>
       </div>
       <div className="home-container1">
         <div id="services" className="home-services">
           <div className="home-service-card">
             <div className="home-card-content">
-              <h3 className="home-text15 bigCard-Heading">hey!</h3>
-              <span className="home-text16">
+              <h3 className="home-text17 bigCard-Heading">hey!</h3>
+              <span className="home-text18">
                 <span>
                   I got so many games, i had to put it somewhere else. just
                   click this epic button, and join the fun!
@@ -114,7 +125,7 @@ const Home = (props) => {
               </span>
               <Link to="/games" className="home-navlink">
                 <div className="home-container2">
-                  <span className="home-text19">click here!</span>
+                  <span className="home-text21">click here!</span>
                 </div>
               </Link>
             </div>
@@ -124,7 +135,7 @@ const Home = (props) => {
       <div className="home-section-separator1"></div>
       <div className="home-container3">
         <div className="home-testimonials">
-          <h2 className="home-text20">peeps i feature.</h2>
+          <h2 className="home-text22">peeps i feature.</h2>
           <div className="home-cards-container1">
             <div className="home-testimonial-card">
               <div className="home-card-heading">
@@ -174,7 +185,7 @@ const Home = (props) => {
                   </svg>
                 </div>
               </div>
-              <span className="home-text21">
+              <span className="home-text23">
                 the coolest nerd i know, check him out, he posts gaming and life
                 videos.
                 <span
@@ -232,7 +243,7 @@ const Home = (props) => {
                   </svg>
                 </div>
               </div>
-              <span className="home-text22">
+              <span className="home-text24">
                 good videos, does shorts, livestreams, and gameplay! dedicated
                 and great!
               </span>
@@ -283,7 +294,7 @@ const Home = (props) => {
                   </svg>
                 </div>
               </div>
-              <span className="home-text23">
+              <span className="home-text25">
                 <span>
                   loves roblox bedwars, has some nice vids, go say hi to him!
                 </span>
@@ -294,9 +305,72 @@ const Home = (props) => {
         </div>
       </div>
       <div className="home-container4"></div>
+      <div className="home-blog-post-card">
+        <img
+          alt="image"
+          src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F1AhjFyCwrwKS4%2Fsource.gif&amp;f=1&amp;nofb=1&amp;ipt=3fed2725c4625a47e87be670a16324058348f3eb7db4fc8d3e4a737b8781e129&amp;ipo=images"
+          image_src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDd8fHBvcnRyYWl0fGVufDB8fHx8MTYyNjM3ODk3Mg&amp;ixlib=rb-1.2.1&amp;h=1000"
+          className="home-image4"
+        />
+        <div className="home-container5">
+          <div className="home-container6">
+            <span className="home-text28"> </span>
+            <span className="home-text29">october 14, 2022</span>
+          </div>
+          <h1 className="home-text30">new game!</h1>
+          <span className="home-text31">
+            <span>
+              I just added a new game to my site and I think you&apos;ll really
+              enjoy it. It&apos;s called Super Mario 64 and it&apos;s an old
+              game from the Nintendo 64. You play as Mario and you run and jump
+              around into different paintings. I remember playing this game
+              years ago during a visit to a old arcade and i loved it. you win
+              by beating Bowser and saving Princess Peach.
+            </span>
+            <br></br>
+            <br></br>
+            <span>
+              Super Mario 64 is an iconic game for a few reasons. First, it was
+              one of the first 3D platformers and did really well. The controls
+              are tight, the camera is good, and the level design is excellent.
+              It&apos;s also a really beautiful game with great music. Finally,
+              it&apos;s just really fun to play.
+              <span
+                dangerouslySetInnerHTML={{
+                  __html: ' ',
+                }}
+              />
+            </span>
+            <br></br>
+            <span>
+              If you&apos;re looking for a fun game to play, you should try this
+              game out! It&apos;s on my site, so playing it is much easier, and
+              you can also use a gamepad if you want. It saves to your device,
+              so make sure to use the same one and don&apos;t lose your
+              progress!
+              <span
+                dangerouslySetInnerHTML={{
+                  __html: ' ',
+                }}
+              />
+            </span>
+            <br></br>
+          </span>
+          <div className="home-container7">
+            <div className="home-profile">
+              <img
+                alt="profile"
+                src="/playground_assets/catpic.png"
+                className="home-image5"
+              />
+            </div>
+            <span className="home-text39">me lol</span>
+          </div>
+        </div>
+      </div>
       <div id="contact" className="home-contact">
         <div className="home-content-container">
-          <h2 className="home-text26 section-Heading">Contact me!</h2>
+          <h2 className="home-text40 section-Heading">Contact me!</h2>
           <div className="home-locations-container">
             <div className="home-location-1">
               <span className="home-heading4">most active on discord.</span>
@@ -316,9 +390,9 @@ const Home = (props) => {
                 >
                   <path d="M585.143 512c0-80.571-65.714-146.286-146.286-146.286s-146.286 65.714-146.286 146.286 65.714 146.286 146.286 146.286 146.286-65.714 146.286-146.286zM664 512c0 124.571-100.571 225.143-225.143 225.143s-225.143-100.571-225.143-225.143 100.571-225.143 225.143-225.143 225.143 100.571 225.143 225.143zM725.714 277.714c0 29.143-23.429 52.571-52.571 52.571s-52.571-23.429-52.571-52.571 23.429-52.571 52.571-52.571 52.571 23.429 52.571 52.571zM438.857 152c-64 0-201.143-5.143-258.857 17.714-20 8-34.857 17.714-50.286 33.143s-25.143 30.286-33.143 50.286c-22.857 57.714-17.714 194.857-17.714 258.857s-5.143 201.143 17.714 258.857c8 20 17.714 34.857 33.143 50.286s30.286 25.143 50.286 33.143c57.714 22.857 194.857 17.714 258.857 17.714s201.143 5.143 258.857-17.714c20-8 34.857-17.714 50.286-33.143s25.143-30.286 33.143-50.286c22.857-57.714 17.714-194.857 17.714-258.857s5.143-201.143-17.714-258.857c-8-20-17.714-34.857-33.143-50.286s-30.286-25.143-50.286-33.143c-57.714-22.857-194.857-17.714-258.857-17.714zM877.714 512c0 60.571 0.571 120.571-2.857 181.143-3.429 70.286-19.429 132.571-70.857 184s-113.714 67.429-184 70.857c-60.571 3.429-120.571 2.857-181.143 2.857s-120.571 0.571-181.143-2.857c-70.286-3.429-132.571-19.429-184-70.857s-67.429-113.714-70.857-184c-3.429-60.571-2.857-120.571-2.857-181.143s-0.571-120.571 2.857-181.143c3.429-70.286 19.429-132.571 70.857-184s113.714-67.429 184-70.857c60.571-3.429 120.571-2.857 181.143-2.857s120.571-0.571 181.143 2.857c70.286 3.429 132.571 19.429 184 70.857s67.429 113.714 70.857 184c3.429 60.571 2.857 120.571 2.857 181.143z"></path>
                 </svg>
-                <span className="home-text28">    Guzuvy</span>
+                <span className="home-text42">    Guzuvy</span>
               </div>
-              <span className="home-text29">
+              <span className="home-text43">
                 <span>leo@guzuv.ml</span>
                 <br></br>
                 <br></br>
@@ -327,7 +401,7 @@ const Home = (props) => {
                 <img
                   alt="image"
                   src="https://e7.pngegg.com/pngimages/64/167/png-clipart-discord-computer-icons-logo-antopodis-logo-miscellaneous-smiley.png"
-                  className="home-image4"
+                  className="home-image6"
                 />
                 <span>  guzuv#0571</span>
               </div>
@@ -337,7 +411,7 @@ const Home = (props) => {
         <img
           alt="image"
           src="https://i.ibb.co/kDYJv3g/dark-hi.png"
-          className="home-image5"
+          className="home-image7"
         />
       </div>
     </div>
