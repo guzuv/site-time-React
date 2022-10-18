@@ -45,6 +45,9 @@ const Home = (props) => {
             what i do when i&apos;m not doing chores or being outdoors.
           </span>
         </div>
+    <!-- Ezoic Code -->
+<script src="//www.ezojs.com/basicads.js?d=guzuv.ml" type="text/javascript"></script>
+<!-- Ezoic Code -->
         <div className="home-cards-container">
           <div className="home-feature-card">
             <img
