@@ -14,6 +14,9 @@ const Testimonials = (props) => {
             <div className="testimonials-name-and-position">
               <span className="testimonials-name card-Heading">
                 {props.Name}
+<!-- Ezoic Code -->
+<script src="//www.ezojs.com/basicads.js?d=guzuv.ml" type="text/javascript"></script>
+<!-- Ezoic Code -->
               </span>
               <span className="testimonials-position card-Text">
                 {props.dorito_sniffer}
