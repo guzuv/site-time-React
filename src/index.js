@@ -10,6 +10,9 @@ const App = () => {
   return (
     <Router>
       <div>
+    <!-- Ezoic Code -->
+<script src="//www.ezojs.com/basicads.js?d=guzuv.ml" type="text/javascript"></script>
+<!-- Ezoic Code -->
         <Route component={Games} exact path="/games" />
         <Route component={Home} exact path="/" />
       </div>
