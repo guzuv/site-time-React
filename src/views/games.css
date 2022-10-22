@@ -303,3 +303,16 @@
     background-color: rgb(255, 0, 122);
   }
 }
+@media(max-width: 991px) {
+  .games-link7 {
+    color: var(--dl-color-gray-white);
+    font-size: 18px;
+    font-style: normal;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: 1.55;
+    text-transform: capitalize;
+    text-decoration: none;
+    background-color: rgb(255, 0, 122);
+  }
+}

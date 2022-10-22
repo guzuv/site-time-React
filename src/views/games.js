@@ -153,7 +153,7 @@ const Games = (props) => {
               rel="noreferrer noopener"
               className="games-link7 button"
             >
-              get mining!
+              funkin time!
             </a>
           </div>
         </div>
