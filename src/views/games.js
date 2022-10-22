@@ -89,9 +89,6 @@ const Games = (props) => {
               wahoo!
             </a>
           </div>
-              <!-- Ezoic Code -->
-<script src="//www.ezojs.com/basicads.js?d=guzuv.ml" type="text/javascript"></script>
-<!-- Ezoic Code -->
         </div>
         <div className="games-service-card1">
           <div className="games-card-content4">
@@ -138,6 +135,23 @@ const Games = (props) => {
               target="_blank"
               rel="noreferrer noopener"
               className="games-link6 button anchor"
+            >
+              get mining!
+            </a>
+          </div>
+          <div className="games-card-content7">
+            <h3 className="games-text19 bigCard-Heading">
+              friday night funkin&apos;
+            </h3>
+            <span className="games-text20">
+              <span>friday night funkin, have fun!</span>
+              <br></br>
+            </span>
+            <a
+              href="https://funkin.guzuv.repl.co"
+              target="_blank"
+              rel="noreferrer noopener"
+              className="games-link7 button"
             >
               get mining!
             </a>
