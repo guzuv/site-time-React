@@ -86,6 +86,51 @@ const October2022 = (props) => {
             <span className="october2022-text12">me lol</span>
           </div>
         </div>
+        <div className="october2022-container5">
+          <div className="october2022-container6">
+            <span className="october2022-text13"> </span>
+            <span className="october2022-text14">october 14, 2022</span>
+          </div>
+          <img
+            alt="image"
+            src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsmashboards.com%2Fattachments%2Fboyfriend-gif.302219%2F&amp;f=1&amp;nofb=1&amp;ipt=019ae4d1ef6a7eebff462a5606ca7f4ec218415748b02cc0568cdd8a26a2147f&amp;ipo=images"
+            className="october2022-image2"
+          />
+          <h1 className="october2022-text15">Fresh new game!</h1>
+          <span className="october2022-text16">
+            <span>
+              Friday Night Funkin&apos; is a rhythm game created by
+              Ninjamuffin99 and published by Newgrounds. The game has been
+              released on PC, Mac, and Linux, with a Switch port in development.
+              The player takes control of a boy named Boyfriend who must compete
+              against seven other characters in a weekly dance battle. The game
+              features original songs composed by Kawai Sprite and ParagonX9, as
+              well as remixes of popular songs.
+            </span>
+            <br></br>
+            <br></br>
+            <span>
+              Friday Night Funkin&apos; is a rhythm game that is easy to pick up
+              but difficult to master. The player must hit the correct keys in
+              time with the music in order to make Boyfriend dance. The game
+              features a variety of different characters, each with their own
+              unique dance moves. The game also features a variety of different
+              songs, ranging from original compositions to remixes of popular
+              songs. Friday Night Funkin&apos; is a great game for people of all
+              ages and is sure to get you moving and grooving.
+            </span>
+          </span>
+          <div className="october2022-container7">
+            <div className="october2022-profile1">
+              <img
+                alt="profile"
+                src="/playground_assets/catpic.png"
+                className="october2022-image3"
+              />
+            </div>
+            <span className="october2022-text21">me lol</span>
+          </div>
+        </div>
       </div>
     </div>
   )

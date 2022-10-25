@@ -111,7 +111,7 @@ const Home = (props) => {
           </span>
         </span>
       </div>
-      <div className="home-container1">
+      <div className="home-container01">
         <div id="services" className="home-services">
           <div className="home-service-card">
             <div className="home-card-content">
@@ -124,7 +124,7 @@ const Home = (props) => {
                 <br></br>
               </span>
               <Link to="/games" className="home-navlink">
-                <div className="home-container2">
+                <div className="home-container02">
                   <span className="home-text21">click here!</span>
                 </div>
               </Link>
@@ -133,7 +133,7 @@ const Home = (props) => {
         </div>
       </div>
       <div className="home-section-separator1"></div>
-      <div className="home-container3">
+      <div className="home-container03">
         <div className="home-testimonials">
           <h2 className="home-text22">peeps i feature.</h2>
           <div className="home-cards-container1">
@@ -304,65 +304,51 @@ const Home = (props) => {
           </div>
         </div>
       </div>
-      <div className="home-container4"></div>
+      <div className="home-container04"></div>
       <div className="home-blog-post-card">
         <span>Text</span>
-        <div className="home-container5">
+        <div className="home-container05">
           <img
             alt="image"
-            src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F1AhjFyCwrwKS4%2Fsource.gif&amp;f=1&amp;nofb=1&amp;ipt=3fed2725c4625a47e87be670a16324058348f3eb7db4fc8d3e4a737b8781e129&amp;ipo=images"
-            image_src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDd8fHBvcnRyYWl0fGVufDB8fHx8MTYyNjM3ODk3Mg&amp;ixlib=rb-1.2.1&amp;h=1000"
+            src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsmashboards.com%2Fattachments%2Fboyfriend-gif.302219%2F&amp;f=1&amp;nofb=1&amp;ipt=019ae4d1ef6a7eebff462a5606ca7f4ec218415748b02cc0568cdd8a26a2147f&amp;ipo=images"
+            image_src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsmashboards.com%2Fattachments%2Fboyfriend-gif.302219%2F&amp;f=1&amp;nofb=1&amp;ipt=019ae4d1ef6a7eebff462a5606ca7f4ec218415748b02cc0568cdd8a26a2147f&amp;ipo=images"
             className="home-image4"
           />
           <span className="home-text29">
-            shout out to bannon since he asked.
+            shout out to ethan since he asked.
           </span>
         </div>
-        <div className="home-container6">
-          <div className="home-container7">
+        <div className="home-container06">
+          <div className="home-container07">
             <span className="home-text30"> </span>
-            <span className="home-text31">october 14, 2022</span>
           </div>
-          <h1 className="home-text32">new game!</h1>
+          <div className="home-container08">
+            <h1 className="home-text31">new game!</h1>
+            <span className="home-text32">  october 25, 2022</span>
+          </div>
           <span className="home-text33">
             <span>
-               I just added a new game to my site and I think you&apos;ll really
-              enjoy it. It&apos;s called Super Mario 64 and it&apos;s an old
-              game from the Nintendo 64. You play as Mario and you run and jump
-              around into different paintings. I remember playing this game
-              years ago during a visit to a old arcade and i loved it. you win
-              by beating Bowser and saving Princess Peach.
-            </span>
-            <br></br>
-            <br></br>
-            <span>
-               Super Mario 64 is an iconic game for a few reasons. First, it was
-              one of the first 3D platformers and did really well. The controls
-              are tight, the camera is good, and the level design is excellent.
-              It&apos;s also a really beautiful game with great music. Finally,
-              it&apos;s just really fun to play.
-              <span
-                dangerouslySetInnerHTML={{
-                  __html: ' ',
-                }}
-              />
+              Friday Night Funkin&apos; is a rhythm game created by
+              Ninjamuffin99 and published by Newgrounds. The game has been
+              released on PC, Mac, and Linux, with a Switch port in development.
+              You take control of a boy named Boyfriend who must compete against
+              seven other characters in a weekly dance battle. The game features
+              original songs composed by Kawai Sprite and ParagonX9, as well as
+              remixes of popular songs.
             </span>
             <br></br>
             <span>
-               If you&apos;re looking for a fun game to play, you should try
-              this game out! It&apos;s on my site, so playing it is much easier,
-              and you can also use a gamepad if you want. It saves to your
-              device, so make sure to use the same one and don&apos;t lose your
-              progress!
-              <span
-                dangerouslySetInnerHTML={{
-                  __html: ' ',
-                }}
-              />
+              Friday Night Funkin&apos; is a rhythm game that is easy to pick up
+              but difficult to master. The player must hit the correct keys in
+              time with the music in order to make Boyfriend do epic rapping.
+              The game features a variety of different characters, each with
+              their own unique tracks. The game also features a variety of
+              different songs, ranging from original compositions to remixes of
+              popular songs. Friday Night Funkin&apos; is a great game for
+              people of all ages and is sure to get you tapping to the beat!
             </span>
-            <br></br>
           </span>
-          <div className="home-container8">
+          <div className="home-container09">
             <div className="home-profile">
               <img
                 alt="profile"
@@ -370,13 +356,13 @@ const Home = (props) => {
                 className="home-image5"
               />
             </div>
-            <span className="home-text41">me lol</span>
+            <span className="home-text37">me lol</span>
           </div>
         </div>
       </div>
       <div id="contact" className="home-contact">
         <div className="home-content-container">
-          <h2 className="home-text42 section-Heading">Contact me!</h2>
+          <h2 className="home-text38 section-Heading">Contact me!</h2>
           <div className="home-locations-container">
             <div className="home-location-1">
               <span className="home-heading4">most active on discord.</span>
@@ -396,9 +382,9 @@ const Home = (props) => {
                 >
                   <path d="M585.143 512c0-80.571-65.714-146.286-146.286-146.286s-146.286 65.714-146.286 146.286 65.714 146.286 146.286 146.286 146.286-65.714 146.286-146.286zM664 512c0 124.571-100.571 225.143-225.143 225.143s-225.143-100.571-225.143-225.143 100.571-225.143 225.143-225.143 225.143 100.571 225.143 225.143zM725.714 277.714c0 29.143-23.429 52.571-52.571 52.571s-52.571-23.429-52.571-52.571 23.429-52.571 52.571-52.571 52.571 23.429 52.571 52.571zM438.857 152c-64 0-201.143-5.143-258.857 17.714-20 8-34.857 17.714-50.286 33.143s-25.143 30.286-33.143 50.286c-22.857 57.714-17.714 194.857-17.714 258.857s-5.143 201.143 17.714 258.857c8 20 17.714 34.857 33.143 50.286s30.286 25.143 50.286 33.143c57.714 22.857 194.857 17.714 258.857 17.714s201.143 5.143 258.857-17.714c20-8 34.857-17.714 50.286-33.143s25.143-30.286 33.143-50.286c22.857-57.714 17.714-194.857 17.714-258.857s5.143-201.143-17.714-258.857c-8-20-17.714-34.857-33.143-50.286s-30.286-25.143-50.286-33.143c-57.714-22.857-194.857-17.714-258.857-17.714zM877.714 512c0 60.571 0.571 120.571-2.857 181.143-3.429 70.286-19.429 132.571-70.857 184s-113.714 67.429-184 70.857c-60.571 3.429-120.571 2.857-181.143 2.857s-120.571 0.571-181.143-2.857c-70.286-3.429-132.571-19.429-184-70.857s-67.429-113.714-70.857-184c-3.429-60.571-2.857-120.571-2.857-181.143s-0.571-120.571 2.857-181.143c3.429-70.286 19.429-132.571 70.857-184s113.714-67.429 184-70.857c60.571-3.429 120.571-2.857 181.143-2.857s120.571-0.571 181.143 2.857c70.286 3.429 132.571 19.429 184 70.857s67.429 113.714 70.857 184c3.429 60.571 2.857 120.571 2.857 181.143z"></path>
                 </svg>
-                <span className="home-text44">    Guzuvy</span>
+                <span className="home-text40">    Guzuvy</span>
               </div>
-              <span className="home-text45">
+              <span className="home-text41">
                 <span>leo@guzuv.ml</span>
                 <br></br>
                 <br></br>
