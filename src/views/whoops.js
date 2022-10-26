@@ -9,12 +9,12 @@ const Whoops = (props) => {
   return (
     <div className="whoops-container">
       <Helmet>
-        <title>whoops - guzuv says hi!</title>
+        <title>guzuv says hi!</title>
         <meta
           name="description"
           content="hey, we got games and fun here at guzuv.ml!"
         />
-        <meta property="og:title" content="whoops - guzuv says hi!" />
+        <meta property="og:title" content="guzuv says hi!" />
         <meta
           property="og:description"
           content="hey, we got games and fun here at guzuv.ml!"
