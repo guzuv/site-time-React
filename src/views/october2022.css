@@ -172,6 +172,10 @@
   .october2022-image {
     width: 100%;
   }
+  .october2022-text14 {
+    color: var(--dl-color-gray-500);
+    font-weight: 300;
+  }
   .october2022-image2 {
     width: 231px;
     height: 310px;

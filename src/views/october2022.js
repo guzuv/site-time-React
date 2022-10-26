@@ -89,7 +89,7 @@ const October2022 = (props) => {
         <div className="october2022-container5">
           <div className="october2022-container6">
             <span className="october2022-text13"> </span>
-            <span className="october2022-text14">october 14, 2022</span>
+            <span className="october2022-text14">october 25, 2022</span>
           </div>
           <img
             alt="image"
