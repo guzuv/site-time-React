@@ -6,9 +6,54 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
+  background-color: #000000;
+}
+.whoops-text {
+  color: #ffffff;
+  font-size: 64px;
+}
+.whoops-text1 {
+  color: #ffffff;
 }
 .whoops-navlink {
+  color: #ffffff;
+  border-color: #ffffff;
   text-decoration: none;
+  background-color: #000000;
+}
+@media(max-width: 1200px) {
+  .whoops-container {
+    background-color: #000000;
+  }
+  .whoops-text {
+    color: #ffffff;
+    font-size: 64px;
+  }
+  .whoops-text1 {
+    color: #ffffff;
+  }
+  .whoops-navlink {
+    color: #ffffff;
+    border-color: #ffffff;
+    background-color: #000000;
+  }
+}
+@media(max-width: 991px) {
+  .whoops-container {
+    background-color: #000000;
+  }
+  .whoops-text {
+    color: #ffffff;
+    font-size: 64px;
+  }
+  .whoops-text1 {
+    color: #ffffff;
+  }
+  .whoops-navlink {
+    color: #ffffff;
+    border-color: #ffffff;
+    background-color: #000000;
+  }
 }
 @media(max-width: 767px) {
   .whoops-container {
