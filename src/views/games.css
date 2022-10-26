@@ -316,3 +316,8 @@
     background-color: rgb(255, 0, 122);
   }
 }
+@media(max-width: 767px) {
+  .games-link1 {
+    width: 80%;
+  }
+}

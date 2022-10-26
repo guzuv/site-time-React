@@ -45,6 +45,9 @@
 .archive-feature-card:hover {
   transform: scale(1.02);
 }
+.archive-navlink {
+  display: contents;
+}
 .archive-text2 {
   color: rgb(0, 249, 255);
   margin-bottom: 32px;

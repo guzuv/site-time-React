@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 import { Helmet } from 'react-helmet'
 
@@ -24,7 +25,9 @@ const Archive = (props) => {
         <h1 className="archive-text1">Discover our unique features</h1>
         <div className="archive-container1">
           <div className="archive-feature-card">
-            <h2 className="archive-text2">October 2022</h2>
+            <Link to="/october2022" className="archive-navlink">
+              <h2 className="archive-text2">October 2022</h2>
+            </Link>
             <img
               alt="image"
               src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2F93j3soUou1gaHJpY4Q%2Fgiphy.gif&amp;f=1&amp;nofb=1&amp;ipt=173566f1602377b769a18407e61c9b00c8b725e386e44a587712880a7138f749&amp;ipo=images"
