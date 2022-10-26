@@ -17,7 +17,7 @@ const App = () => {
         <Route component={Archive} exact path="/archive" />
         <Route component={Games} exact path="/games" />
         <Route component={Home} exact path="/" />
-        <Route component={Whoops} path="**" />
+        <Route component={Whoops} path="/whoops" />
       </div>
     </Router>
   )
