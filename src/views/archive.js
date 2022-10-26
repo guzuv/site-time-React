@@ -9,15 +9,12 @@ const Archive = (props) => {
   return (
     <div className="archive-container">
       <Helmet>
-        <title>archive - guzuv says hi!</title>
-        <meta
-          name="description"
-          content="hey, we got games and fun here at guzuv.ml!"
-        />
-        <meta property="og:title" content="archive - guzuv says hi!" />
+        <title>guzuv's archive!</title>
+        <meta name="description" content="past blogs of mine at guzuv.ml!" />
+        <meta property="og:title" content="guzuv's archive!" />
         <meta
           property="og:description"
-          content="hey, we got games and fun here at guzuv.ml!"
+          content="past blogs of mine at guzuv.ml!"
         />
       </Helmet>
       <span className="archive-text">Welcome to the Archive!</span>
