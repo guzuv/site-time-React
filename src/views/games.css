@@ -317,7 +317,7 @@
   border-radius: 34px;
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
-  background-color: rgb(176, 59, 251);
+  background-color: #83a004;
 }
 @media(max-width: 1200px) {
   .games-text20 {
