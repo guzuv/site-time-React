@@ -22,7 +22,7 @@ const Archive = (props) => {
         <h1 className="archive-text1">Discover our unique features</h1>
         <div className="archive-container1">
           <div className="archive-feature-card">
-            <Link to="/october2022" className="archive-navlink">
+            <Link to="/oct22" className="archive-navlink">
               <h2 className="archive-text2">October 2022</h2>
             </Link>
             <img

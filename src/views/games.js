@@ -156,6 +156,23 @@ const Games = (props) => {
               funkin time!
             </a>
           </div>
+          <div className="games-card-content8">
+            <h3 className="games-text23 bigCard-Heading">1v1.lol</h3>
+            <span className="games-text24">
+              <span>
+                play with friends, and duel players around the world using this!
+              </span>
+              <br></br>
+            </span>
+            <a
+              href="https://1v1lol.oofawesome.repl.co/"
+              target="_blank"
+              rel="noreferrer noopener"
+              className="games-link8 button"
+            >
+              fortnite?
+            </a>
+          </div>
         </div>
       </div>
     </div>

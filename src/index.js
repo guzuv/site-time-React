@@ -12,7 +12,7 @@ const App = () => {
   return (
     <Router>
       <div>
-        <Route component={October2022} exact path="/october2022" />
+        <Route component={October2022} exact path="/oct22" />
         <Route component={Archive} exact path="/archive" />
         <Route component={Games} exact path="/games" />
         <Route component={Home} exact path="/" />
