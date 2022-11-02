@@ -165,7 +165,7 @@ const Games = (props) => {
               <br></br>
             </span>
             <a
-              href="https://1v1lol.oofawesome.repl.co/"
+              href="https://1v1lol.56306.repl.co/"
               target="_blank"
               rel="noreferrer noopener"
               className="games-link8 button"
