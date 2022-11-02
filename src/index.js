@@ -6,7 +6,7 @@ import './style.css'
 import October2022 from './views/october2022'
 import Archive from './views/archive'
 import Games from './views/games'
-import Home from './views/home'
+import Body from './views/body'
 
 const App = () => {
   return (
@@ -15,7 +15,7 @@ const App = () => {
         <Route component={October2022} exact path="/oct22" />
         <Route component={Archive} exact path="/archive" />
         <Route component={Games} exact path="/games" />
-        <Route component={Home} exact path="/" />
+        <Route component={Body} exact path="/" />
       </div>
     </Router>
   )
