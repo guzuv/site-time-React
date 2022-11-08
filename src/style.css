@@ -22,6 +22,7 @@
 }
 .teleport-show {
   display: flex !important;
+  transform: none !important;
 }
 .list-item {
   display: list-item;
