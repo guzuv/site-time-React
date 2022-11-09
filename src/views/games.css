@@ -181,16 +181,7 @@
   border-radius: 34px;
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
-  background-color: #770049;
-}
-.games-service-card1 {
-  width: 49%;
-  display: flex;
-  min-height: 500px;
-  align-items: center;
-  margin-bottom: var(--dl-space-space-fourunits);
-  flex-direction: column;
-  justify-content: center;
+  background-color: rgb(119, 0, 73);
 }
 .games-card-content05 {
   margin: var(--dl-space-space-fiveunits);
@@ -198,7 +189,6 @@
   padding: var(--dl-space-space-fiveunits);
   max-width: 500px;
   align-items: center;
-  padding-right: 40px;
   flex-direction: column;
   justify-content: center;
 }
@@ -222,7 +212,16 @@
   border-radius: 34px;
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
-  background-color: #ffed00;
+  background-color: #f9753f;
+}
+.games-service-card1 {
+  width: 49%;
+  display: flex;
+  min-height: 500px;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+  flex-direction: column;
+  justify-content: center;
 }
 .games-card-content06 {
   margin: var(--dl-space-space-fiveunits);
@@ -254,7 +253,7 @@
   border-radius: 34px;
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
-  background-color: #ff0000;
+  background-color: #ffed00;
 }
 .games-card-content07 {
   margin: var(--dl-space-space-fiveunits);
@@ -286,7 +285,7 @@
   border-radius: 34px;
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
-  background-color: #c400ff;
+  background-color: #ff0000;
 }
 .games-card-content08 {
   margin: var(--dl-space-space-fiveunits);
@@ -298,12 +297,12 @@
   flex-direction: column;
   justify-content: center;
 }
-.games-text21 {
+.games-text19 {
   color: #ffffff;
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.games-text22 {
+.games-text20 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -318,7 +317,7 @@
   border-radius: 34px;
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
-  background-color: #ff007a;
+  background-color: #c400ff;
 }
 .games-card-content09 {
   margin: var(--dl-space-space-fiveunits);
@@ -330,12 +329,12 @@
   flex-direction: column;
   justify-content: center;
 }
-.games-text25 {
+.games-text23 {
   color: #ffffff;
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.games-text26 {
+.games-text24 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -350,13 +349,45 @@
   border-radius: 34px;
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
+  background-color: #64ff47;
+}
+.games-card-content10 {
+  margin: var(--dl-space-space-fiveunits);
+  display: flex;
+  padding: var(--dl-space-space-fiveunits);
+  max-width: 500px;
+  align-items: center;
+  padding-right: 40px;
+  flex-direction: column;
+  justify-content: center;
+}
+.games-text27 {
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.games-text28 {
+  color: var(--dl-color-primary-700);
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.games-link10 {
+  color: var(--dl-color-gray-white);
+  width: 80%;
+  align-self: center;
+  text-align: center;
+  padding-top: var(--dl-space-space-doubleunit);
+  border-width: 0px;
+  border-radius: 34px;
+  padding-bottom: var(--dl-space-space-doubleunit);
+  text-decoration: none;
   background-color: #83a004;
 }
 @media(max-width: 1200px) {
-  .games-text22 {
+  .games-text24 {
     color: var(--dl-color-primary-700);
   }
-  .games-link08 {
+  .games-link09 {
     color: var(--dl-color-gray-white);
     font-size: 18px;
     font-style: normal;
@@ -367,10 +398,10 @@
     text-decoration: none;
     background-color: rgb(255, 0, 122);
   }
-  .games-text26 {
+  .games-text28 {
     color: var(--dl-color-primary-700);
   }
-  .games-link09 {
+  .games-link10 {
     color: var(--dl-color-gray-white);
     font-size: 18px;
     font-style: normal;
@@ -383,7 +414,7 @@
   }
 }
 @media(max-width: 991px) {
-  .games-link08 {
+  .games-link09 {
     color: var(--dl-color-gray-white);
     font-size: 18px;
     font-style: normal;
@@ -394,7 +425,7 @@
     text-decoration: none;
     background-color: rgb(255, 0, 122);
   }
-  .games-link09 {
+  .games-link10 {
     color: var(--dl-color-gray-white);
     font-size: 18px;
     font-style: normal;

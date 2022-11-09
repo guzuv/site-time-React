@@ -65,7 +65,7 @@
   border-radius: 4px;
   background-color: var(--dl-color-gray-white);
 }
-.section-Text {
+.Section-Text {
   font-size: 18px;
   font-family: Open Sans;
   font-weight: 400;
@@ -73,7 +73,7 @@
   text-transform: none;
   text-decoration: none;
 }
-.card-Text {
+.Card-Text {
   font-size: 16px;
   font-style: normal;
   font-family: Open Sans;
@@ -82,7 +82,7 @@
   text-transform: none;
   text-decoration: none;
 }
-.bigCard-Heading {
+.BigCard-Heading {
   font-size: 36px;
   font-style: normal;
   font-family: Roboto;
@@ -91,7 +91,7 @@
   text-transform: none;
   text-decoration: none;
 }
-.content {
+.Content {
   font-size: 16px;
   font-family: Arial;
   font-weight: 400;
@@ -99,7 +99,7 @@
   text-transform: none;
   text-decoration: none;
 }
-.card-Heading {
+.Card-Heading {
   font-size: 24px;
   font-style: normal;
   font-family: Roboto;
@@ -108,7 +108,7 @@
   text-transform: none;
   text-decoration: none;
 }
-.anchor {
+.Anchor {
   font-size: 18px;
   font-style: normal;
   font-family: Roboto;
@@ -117,7 +117,7 @@
   text-transform: capitalize;
   text-decoration: none;
 }
-.section-Heading {
+.Section-Heading {
   font-size: 48px;
   font-family: Roboto;
   font-weight: 700;
