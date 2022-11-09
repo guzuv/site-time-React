@@ -118,25 +118,41 @@ const Games = (props) => {
               *n64 bootup sounds*
             </a>
           </div>
+          <div className="games-card-content06">
+            <h3 className="games-text15 BigCard-Heading">
+              Mario and Luigi: PIT
+            </h3>
+            <span className="games-text16">
+              Mario and Luigi: Partners In Time, all in it&apos;s laggy glory!
+            </span>
+            <a
+              href="https://mlpc.ds-emu.repl.co/"
+              target="_blank"
+              rel="noreferrer noopener"
+              className="games-link06 button"
+            >
+              babies shall cry!
+            </a>
+          </div>
         </div>
         <div className="games-service-card1">
-          <div className="games-card-content06">
-            <h3 className="games-text15 BigCard-Heading">Doodle Jump.</h3>
-            <span className="games-text16 Card-Text">
+          <div className="games-card-content07">
+            <h3 className="games-text17 BigCard-Heading">Doodle Jump.</h3>
+            <span className="games-text18 Card-Text">
               jump as high as you can! can you beat 15000 score? good luck!
             </span>
             <a
               href="https://omackenzie.github.io/Doodle-Jump-in-JS/"
               target="_blank"
               rel="noreferrer noopener"
-              className="games-link06 Anchor button"
+              className="games-link07 Anchor button"
             >
               Get Jumping!
             </a>
           </div>
-          <div className="games-card-content07">
-            <h3 className="games-text17 BigCard-Heading">Doom!</h3>
-            <span className="games-text18 Card-Text">
+          <div className="games-card-content08">
+            <h3 className="games-text19 BigCard-Heading">Doom!</h3>
+            <span className="games-text20 Card-Text">
               get knee deep in hell, slaughter to victory! press any key to
               start. 
             </span>
@@ -144,14 +160,14 @@ const Games = (props) => {
               href="https://floooh.github.io/doom-sokol/"
               target="_blank"
               rel="noreferrer noopener"
-              className="games-link07 button Anchor"
+              className="games-link08 button Anchor"
             >
               Rip and Tear!
             </a>
           </div>
-          <div className="games-card-content08">
-            <h3 className="games-text19 BigCard-Heading">minecraft.</h3>
-            <span className="games-text20">
+          <div className="games-card-content09">
+            <h3 className="games-text21 BigCard-Heading">minecraft.</h3>
+            <span className="games-text22">
               <span>
                 minecraft 1.5.2, with multiplayer and voice chat! pick
                 multiplayer and join with a friend! press escape in-game and
@@ -163,16 +179,16 @@ const Games = (props) => {
               href="https://hyper-network.me/"
               target="_blank"
               rel="noreferrer noopener"
-              className="games-link08 button Anchor"
+              className="games-link09 button Anchor"
             >
               get mining!
             </a>
           </div>
-          <div className="games-card-content09">
-            <h3 className="games-text23 BigCard-Heading">
+          <div className="games-card-content10">
+            <h3 className="games-text25 BigCard-Heading">
               friday night funkin&apos;
             </h3>
-            <span className="games-text24">
+            <span className="games-text26">
               <span>friday night funkin, have fun!</span>
               <br></br>
             </span>
@@ -180,14 +196,14 @@ const Games = (props) => {
               href="https://funkin.guzuv.repl.co"
               target="_blank"
               rel="noreferrer noopener"
-              className="games-link09 button"
+              className="games-link10 button"
             >
               funkin time!
             </a>
           </div>
-          <div className="games-card-content10">
-            <h3 className="games-text27 BigCard-Heading">1v1.lol</h3>
-            <span className="games-text28">
+          <div className="games-card-content11">
+            <h3 className="games-text29 BigCard-Heading">1v1.lol</h3>
+            <span className="games-text30">
               <span>
                 play with friends, and duel players around the world using this!
               </span>
@@ -197,14 +213,14 @@ const Games = (props) => {
               href="https://1v1lol.56306.repl.co/"
               target="_blank"
               rel="noreferrer noopener"
-              className="games-link10 button"
+              className="games-link11 button"
             >
               fortnite?
             </a>
           </div>
-          <div className="games-card-content11">
-            <h3 className="games-text31 BigCard-Heading">run 3</h3>
-            <span className="games-text32">
+          <div className="games-card-content12">
+            <h3 className="games-text33 BigCard-Heading">run 3</h3>
+            <span className="games-text34">
               <span>
                 thanks bert for the idea! nostalgia trip and get all the dots!
               </span>
@@ -214,7 +230,7 @@ const Games = (props) => {
               href="https://lekug.github.io/tn6pS9dCf37xAhkJv/"
               target="_blank"
               rel="noreferrer noopener"
-              className="games-link11 button"
+              className="games-link12 button"
             >
               skater too cool.
             </a>
