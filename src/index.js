@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
 
 import './style.css'
+import Page from './views/page'
 import October2022 from './views/october2022'
 import Archive from './views/archive'
 import Games from './views/games'
@@ -12,6 +13,7 @@ const App = () => {
   return (
     <Router>
       <div>
+        <Route component={Page} exact path="/page" />
         <Route component={October2022} exact path="/oct22" />
         <Route component={Archive} exact path="/archive" />
         <Route component={Games} exact path="/games" />

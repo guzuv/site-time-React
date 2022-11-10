@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 
 import { Helmet } from 'react-helmet'
 
@@ -20,14 +19,27 @@ const Page = (props) => {
           content="hey, we got games and fun here at guzuv.ml!"
         />
       </Helmet>
-      <span className="page-text">Yikes!</span>
-      <span className="page-text1">
-        <span>Looks like there&apos;s nothing here!</span>
-        <br></br>
-      </span>
-      <Link to="/" className="page-navlink button">
-        back home?
-      </Link>
+      <form
+        action="https://formsubmit.co/harryserah@gmail.com"
+        method="POST"
+        enctype="application/x-www-form-urlencoded"
+        className="page-form"
+      >
+        <span className="page-text">
+          words are cool and send me this please
+        </span>
+        <input
+          type="text"
+          name="fan@gmail.com"
+          disabled="email"
+          required
+          placeholder="your email"
+          className="input"
+        />
+        <button type="submit" className="button">
+          Button
+        </button>
+      </form>
     </div>
   )
 }

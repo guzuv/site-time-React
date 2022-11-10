@@ -235,6 +235,27 @@ const Games = (props) => {
               skater too cool.
             </a>
           </div>
+          <div className="games-card-content13">
+            <h3 className="games-text37 BigCard-Heading">pixel combat 2</h3>
+            <span className="games-text38">
+              <span>
+                kudos to bert for the suggestion. Pixel combat 2, now with
+                multiplayer!
+              </span>
+              <br></br>
+            </span>
+            <a
+              href="https://debbiewatermanphd.com/uploads/5/0/5/6/5056555/custom_themes/607463927942590340/pixel-combat2.html"
+              target="_blank"
+              rel="noreferrer noopener"
+              className="games-link13 button"
+            >
+              <span>
+                <span>terrorist or not?</span>
+                <br></br>
+              </span>
+            </a>
+          </div>
         </div>
       </div>
     </div>
