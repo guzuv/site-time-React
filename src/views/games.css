@@ -509,6 +509,38 @@
   text-decoration: none;
   background-color: #59156d;
 }
+.games-card-content15 {
+  margin: var(--dl-space-space-fiveunits);
+  display: flex;
+  padding: var(--dl-space-space-fiveunits);
+  max-width: 500px;
+  align-items: center;
+  padding-right: 40px;
+  flex-direction: column;
+  justify-content: center;
+}
+.games-text46 {
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.games-text47 {
+  color: var(--dl-color-primary-700);
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.games-link15 {
+  color: var(--dl-color-gray-white);
+  width: 80%;
+  align-self: center;
+  text-align: center;
+  padding-top: var(--dl-space-space-doubleunit);
+  border-width: 0px;
+  border-radius: 34px;
+  padding-bottom: var(--dl-space-space-doubleunit);
+  text-decoration: none;
+  background-color: #5a1818;
+}
 @media(max-width: 1200px) {
   .games-text28 {
     color: var(--dl-color-primary-700);
@@ -536,7 +568,7 @@
     line-height: 1.55;
     text-transform: capitalize;
     text-decoration: none;
-    background-color: rgb(255, 0, 122);
+    background-color: #83a004;
   }
   .games-text36 {
     color: var(--dl-color-primary-700);
@@ -550,7 +582,7 @@
     line-height: 1.55;
     text-transform: capitalize;
     text-decoration: none;
-    background-color: rgb(255, 0, 122);
+    background-color: rgb(5, 88, 31);
   }
   .games-text40 {
     color: var(--dl-color-primary-700);
@@ -564,7 +596,21 @@
     line-height: 1.55;
     text-transform: capitalize;
     text-decoration: none;
-    background-color: rgb(255, 0, 122);
+    background-color: #59156d;
+  }
+  .games-text47 {
+    color: var(--dl-color-primary-700);
+  }
+  .games-link15 {
+    color: var(--dl-color-gray-white);
+    font-size: 18px;
+    font-style: normal;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: 1.55;
+    text-transform: capitalize;
+    text-decoration: none;
+    background-color: #5a1818;
   }
 }
 @media(max-width: 991px) {
@@ -588,7 +634,7 @@
     line-height: 1.55;
     text-transform: capitalize;
     text-decoration: none;
-    background-color: rgb(255, 0, 122);
+    background-color: #83a004;
   }
   .games-link13 {
     color: var(--dl-color-gray-white);
@@ -599,7 +645,7 @@
     line-height: 1.55;
     text-transform: capitalize;
     text-decoration: none;
-    background-color: rgb(255, 0, 122);
+    background-color: rgb(5, 88, 31);
   }
   .games-link14 {
     color: var(--dl-color-gray-white);
@@ -610,7 +656,24 @@
     line-height: 1.55;
     text-transform: capitalize;
     text-decoration: none;
-    background-color: rgb(255, 0, 122);
+    background-color: #59156d;
+  }
+  .games-card-content15 {
+    padding-bottom: 40px;
+  }
+  .games-text47 {
+    color: var(--dl-color-primary-700);
+  }
+  .games-link15 {
+    color: var(--dl-color-gray-white);
+    font-size: 18px;
+    font-style: normal;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: 1.55;
+    text-transform: capitalize;
+    text-decoration: none;
+    background-color: #5a1818;
   }
 }
 @media(max-width: 767px) {

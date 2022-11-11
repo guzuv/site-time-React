@@ -294,6 +294,7 @@
   display: flex;
   min-height: 500px;
   align-items: center;
+  margin-bottom: var(--dl-space-space-fourunits);
   flex-direction: column;
   justify-content: center;
 }

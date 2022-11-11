@@ -270,6 +270,26 @@ const Games = (props) => {
               </span>
             </a>
           </div>
+          <div className="games-card-content15">
+            <h3 className="games-text46 BigCard-Heading">tunnel rush!</h3>
+            <span className="games-text47">
+              <span>
+                dean gave me this idea. how long can you go, i was 3548m!
+              </span>
+              <br></br>
+            </span>
+            <a
+              href="https://guzuv.github.io/tunnelrushing/"
+              target="_blank"
+              rel="noreferrer noopener"
+              className="games-link15 button"
+            >
+              <span>
+                <span>breakneck speeds!</span>
+                <br></br>
+              </span>
+            </a>
+          </div>
         </div>
       </div>
     </div>
