@@ -274,7 +274,8 @@ const Games = (props) => {
             <h3 className="games-text46 BigCard-Heading">tunnel rush!</h3>
             <span className="games-text47">
               <span>
-                dean gave me this idea. how long can you go, i was 3548m!
+                dean gave me this idea. how long can you go, i was 3548m! it
+                will be blank, then it will load.
               </span>
               <br></br>
             </span>

@@ -680,4 +680,7 @@
   .games-link01 {
     width: 80%;
   }
+  .games-text47 {
+    color: var(--dl-color-primary-700);
+  }
 }
