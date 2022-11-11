@@ -190,7 +190,7 @@ const Games = (props) => {
               <br></br>
             </span>
             <a
-              href="https://hyper-network.me/"
+              href="https://g.deev.is/eaglercraft/"
               target="_blank"
               rel="noreferrer noopener"
               className="games-link10 button Anchor"

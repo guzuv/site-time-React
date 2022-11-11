@@ -23,7 +23,21 @@ const Home = (props) => {
       <div className="home-hero">
         <div className="home-hero-text-container">
           <h1 className="home-heading">welcome to guzuv&apos;s site!</h1>
-          <span className="home-text">“epic quote here”</span>
+          <span className="home-text">
+            <span>“epic quote here”</span>
+            <br></br>
+            <br></br>
+            <span>Patch notes:</span>
+            <br></br>
+            <span>-new game</span>
+            <br></br>
+            <span>-fixed minecraft!</span>
+            <br></br>
+            <a href="#blog" className="home-link">
+              -new blog!
+            </a>
+            <br></br>
+          </span>
           <a href="#services" className="home-cta-btn button">
             <span>
               <span className="Anchor">play Games!</span>
@@ -40,8 +54,8 @@ const Home = (props) => {
       <div className="home-section-separator"></div>
       <div id="features" className="home-features">
         <div className="home-heading-container">
-          <h2 className="home-text04">what i do.</h2>
-          <span className="home-text05">
+          <h2 className="home-text14">what i do.</h2>
+          <span className="home-text15">
             what i do when i&apos;m not doing chores or being outdoors.
           </span>
         </div>
@@ -55,7 +69,7 @@ const Home = (props) => {
             <span className="home-heading1 Card-Heading">
               playstation plays!
             </span>
-            <span className="home-text06">
+            <span className="home-text16">
               I play ps4 games, i play call of duty warzone, apex legends,
               fortnite, minecraft, and many others!
             </span>
@@ -67,7 +81,7 @@ const Home = (props) => {
               className="home-image2"
             />
             <span className="home-heading2 Card-Heading">pc gaming!</span>
-            <span className="home-text07">
+            <span className="home-text17">
               <span>
                 i play on pc too! i have rust, minecraft, call of duty, and
                 others! always willing to try something new, so let me know!
@@ -82,7 +96,7 @@ const Home = (props) => {
               className="home-image3"
             />
             <span className="home-heading3 Card-Heading">say hi!</span>
-            <span className="home-text10">
+            <span className="home-text20">
               <span>
                 i&apos;m on discord! i just might start a server one day,
                 contact me by scrolling down.
@@ -96,7 +110,7 @@ const Home = (props) => {
             </span>
           </div>
         </div>
-        <span className="home-text13">
+        <span className="home-text23">
           <span>
             ignore me, just making seo better:
             <span
@@ -111,31 +125,82 @@ const Home = (props) => {
           </span>
         </span>
       </div>
-      <div className="home-container01">
-        <div id="services" className="home-services">
-          <div className="home-service-card">
-            <div className="home-card-content">
-              <h3 className="home-text17 BigCard-Heading">hey!</h3>
-              <span className="home-text18">
-                <span>
-                  I got so many games, i had to put it somewhere else. just
-                  click this epic button, and join the fun!
-                </span>
-                <br></br>
-              </span>
-              <Link to="/games" className="home-navlink">
-                <div className="home-container02">
-                  <span className="home-text21">click here!</span>
-                </div>
-              </Link>
+      <div className="home-container01"></div>
+      <div className="home-section-separator1"></div>
+      <div className="home-container02"></div>
+      <div className="home-blog-post-card">
+        <span>Text</span>
+        <div className="home-container03">
+          <img
+            alt="cross"
+            src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbestanimations.com%2FSigns%26Shapes%2FWorship%2FChristian%2Fcross-animated-gif-29.gif&amp;f=1&amp;nofb=1&amp;ipt=4b26f7f921ce9a0068d158f4275040b882126fbdb75cf7f29231599ff145006d&amp;ipo=images"
+            className="home-pasted-image"
+          />
+        </div>
+        <span className="home-text28">
+          shout out to Alex Halmer for inspiring me.
+        </span>
+        <div id="blog" className="home-container04">
+          <div className="home-container05">
+            <span className="home-text29"> </span>
+          </div>
+          <div className="home-container06">
+            <h1 className="home-text30">remember them all.</h1>
+            <span className="home-text31">  november 11, 2022</span>
+          </div>
+          <span className="home-text32">
+            <span>
+              Remembrance day is a Canadian tradition that dates back to the
+              First World War. Every year on November 11th, Canadians across the
+              country pause to remember the men and women who have served, and
+              continue to serve, our country. From the Vimy Ridge Memorial in
+              France to the National War Memorial in Ottawa, there are many ways
+              to honour our veterans.
+            </span>
+            <br></br>
+            <span>
+              For many of us, Remembrance Day is a time to reflect on the
+              sacrifices made by our family members and friends. It is also an
+              opportunity to teach our friends about the importance of
+              remembrance and the value of freedom. No matter how we choose to
+              honour our veterans, we can all agree that their service is
+              deserving of our utmost respect.
+            </span>
+          </span>
+          <div className="home-container07">
+            <div className="home-profile">
+              <img
+                alt="profile"
+                src="/playground_assets/catpic.png"
+                className="home-image4"
+              />
             </div>
+            <span className="home-text36">me lol</span>
           </div>
         </div>
       </div>
-      <div className="home-section-separator1"></div>
-      <div className="home-container03">
+      <div id="services" className="home-services">
+        <div className="home-service-card">
+          <div className="home-card-content">
+            <h3 className="home-text37 BigCard-Heading">hey!</h3>
+            <span className="home-text38">
+              <span>
+                I got so many games, i had to put it somewhere else. just click
+                this epic button, and join the fun!
+              </span>
+              <br></br>
+            </span>
+            <Link to="/games" className="home-navlink">
+              <div className="home-container08">
+                <span className="home-text41">click here!</span>
+              </div>
+            </Link>
+          </div>
+        </div>
+      </div>
+      <div className="home-container09">
         <div className="home-testimonials">
-          <h2 className="home-text22">peeps i feature.</h2>
+          <h2 className="home-text42">peeps i feature.</h2>
           <div className="home-cards-container1">
             <div className="home-testimonial-card">
               <div className="home-card-heading">
@@ -185,7 +250,7 @@ const Home = (props) => {
                   </svg>
                 </div>
               </div>
-              <span className="home-text23">
+              <span className="home-text43">
                 the coolest nerd i know, check him out, he posts gaming and life
                 videos.
                 <span
@@ -243,7 +308,7 @@ const Home = (props) => {
                   </svg>
                 </div>
               </div>
-              <span className="home-text24">
+              <span className="home-text44">
                 good videos, does shorts, livestreams, and gameplay! dedicated
                 and great!
               </span>
@@ -294,7 +359,7 @@ const Home = (props) => {
                   </svg>
                 </div>
               </div>
-              <span className="home-text25">
+              <span className="home-text45">
                 <span>
                   loves roblox bedwars, has some nice vids, go say hi to him!
                 </span>
@@ -304,65 +369,9 @@ const Home = (props) => {
           </div>
         </div>
       </div>
-      <div className="home-container04"></div>
-      <div className="home-blog-post-card">
-        <span>Text</span>
-        <div className="home-container05">
-          <img
-            alt="image"
-            src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsmashboards.com%2Fattachments%2Fboyfriend-gif.302219%2F&amp;f=1&amp;nofb=1&amp;ipt=019ae4d1ef6a7eebff462a5606ca7f4ec218415748b02cc0568cdd8a26a2147f&amp;ipo=images"
-            image_src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsmashboards.com%2Fattachments%2Fboyfriend-gif.302219%2F&amp;f=1&amp;nofb=1&amp;ipt=019ae4d1ef6a7eebff462a5606ca7f4ec218415748b02cc0568cdd8a26a2147f&amp;ipo=images"
-            className="home-image4"
-          />
-          <span className="home-text29">
-            shout out to ethan since he asked.
-          </span>
-        </div>
-        <div className="home-container06">
-          <div className="home-container07">
-            <span className="home-text30"> </span>
-          </div>
-          <div className="home-container08">
-            <h1 className="home-text31">new game!</h1>
-            <span className="home-text32">  october 25, 2022</span>
-          </div>
-          <span className="home-text33">
-            <span>
-              Friday Night Funkin&apos; is a rhythm game created by
-              Ninjamuffin99 and published by Newgrounds. The game has been
-              released on PC, Mac, and Linux, with a Switch port in development.
-              You take control of a boy named Boyfriend who must compete against
-              seven other characters in a weekly dance battle. The game features
-              original songs composed by Kawai Sprite and ParagonX9, as well as
-              remixes of popular songs.
-            </span>
-            <br></br>
-            <span>
-              Friday Night Funkin&apos; is a rhythm game that is easy to pick up
-              but difficult to master. The player must hit the correct keys in
-              time with the music in order to make Boyfriend do epic rapping.
-              The game features a variety of different characters, each with
-              their own unique tracks. The game also features a variety of
-              different songs, ranging from original compositions to remixes of
-              popular songs. Friday Night Funkin&apos; is a great game for
-              people of all ages and is sure to get you tapping to the beat!
-            </span>
-          </span>
-          <div className="home-container09">
-            <div className="home-profile">
-              <img
-                alt="profile"
-                src="/playground_assets/catpic.png"
-                className="home-image5"
-              />
-            </div>
-            <span className="home-text37">me lol</span>
-          </div>
-        </div>
-      </div>
       <div id="contact" className="home-contact">
         <div className="home-content-container">
-          <h2 className="home-text38 Section-Heading">Contact me!</h2>
+          <h2 className="home-text48 Section-Heading">Contact me!</h2>
           <div className="home-locations-container">
             <div className="home-location-1">
               <span className="home-heading4">most active on discord.</span>
@@ -382,9 +391,9 @@ const Home = (props) => {
                 >
                   <path d="M585.143 512c0-80.571-65.714-146.286-146.286-146.286s-146.286 65.714-146.286 146.286 65.714 146.286 146.286 146.286 146.286-65.714 146.286-146.286zM664 512c0 124.571-100.571 225.143-225.143 225.143s-225.143-100.571-225.143-225.143 100.571-225.143 225.143-225.143 225.143 100.571 225.143 225.143zM725.714 277.714c0 29.143-23.429 52.571-52.571 52.571s-52.571-23.429-52.571-52.571 23.429-52.571 52.571-52.571 52.571 23.429 52.571 52.571zM438.857 152c-64 0-201.143-5.143-258.857 17.714-20 8-34.857 17.714-50.286 33.143s-25.143 30.286-33.143 50.286c-22.857 57.714-17.714 194.857-17.714 258.857s-5.143 201.143 17.714 258.857c8 20 17.714 34.857 33.143 50.286s30.286 25.143 50.286 33.143c57.714 22.857 194.857 17.714 258.857 17.714s201.143 5.143 258.857-17.714c20-8 34.857-17.714 50.286-33.143s25.143-30.286 33.143-50.286c22.857-57.714 17.714-194.857 17.714-258.857s5.143-201.143-17.714-258.857c-8-20-17.714-34.857-33.143-50.286s-30.286-25.143-50.286-33.143c-57.714-22.857-194.857-17.714-258.857-17.714zM877.714 512c0 60.571 0.571 120.571-2.857 181.143-3.429 70.286-19.429 132.571-70.857 184s-113.714 67.429-184 70.857c-60.571 3.429-120.571 2.857-181.143 2.857s-120.571 0.571-181.143-2.857c-70.286-3.429-132.571-19.429-184-70.857s-67.429-113.714-70.857-184c-3.429-60.571-2.857-120.571-2.857-181.143s-0.571-120.571 2.857-181.143c3.429-70.286 19.429-132.571 70.857-184s113.714-67.429 184-70.857c60.571-3.429 120.571-2.857 181.143-2.857s120.571-0.571 181.143 2.857c70.286 3.429 132.571 19.429 184 70.857s67.429 113.714 70.857 184c3.429 60.571 2.857 120.571 2.857 181.143z"></path>
                 </svg>
-                <span className="home-text40">    Guzuvy</span>
+                <span className="home-text50">    Guzuvy</span>
               </div>
-              <span className="home-text41">
+              <span className="home-text51">
                 <span>leo@guzuv.ml</span>
                 <br></br>
                 <br></br>
@@ -393,7 +402,7 @@ const Home = (props) => {
                 <img
                   alt="image"
                   src="https://e7.pngegg.com/pngimages/64/167/png-clipart-discord-computer-icons-logo-antopodis-logo-miscellaneous-smiley.png"
-                  className="home-image6"
+                  className="home-image5"
                 />
                 <span>  guzuv#0571</span>
               </div>
@@ -403,7 +412,7 @@ const Home = (props) => {
         <img
           alt="image"
           src="https://i.ibb.co/kDYJv3g/dark-hi.png"
-          className="home-image7"
+          className="home-image6"
         />
       </div>
     </div>

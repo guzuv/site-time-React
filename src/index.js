@@ -8,6 +8,7 @@ import October2022 from './views/october2022'
 import Archive from './views/archive'
 import Games from './views/games'
 import Home from './views/home'
+import November2022 from './views/november2022'
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
         <Route component={Archive} exact path="/archive" />
         <Route component={Games} exact path="/games" />
         <Route component={Home} exact path="/" />
+        <Route component={November2022} exact path="/november2022" />
       </div>
     </Router>
   )
