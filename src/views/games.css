@@ -684,3 +684,65 @@
     color: var(--dl-color-primary-700);
   }
 }
+@media(max-width: 479px) {
+  .games-services {
+    height: 100%;
+  }
+  .games-service-card {
+    width: 479px;
+    height: auto;
+    min-height: auto;
+  }
+  .games-link {
+    width: 100%;
+  }
+  .games-link01 {
+    width: auto;
+  }
+  .games-link02 {
+    width: auto;
+  }
+  .games-link03 {
+    width: auto;
+  }
+  .games-link04 {
+    width: auto;
+  }
+  .games-link05 {
+    width: auto;
+  }
+  .games-link06 {
+    width: auto;
+  }
+  .games-link07 {
+    width: auto;
+  }
+  .games-service-card1 {
+    width: auto;
+    min-height: auto;
+  }
+  .games-link08 {
+    width: 100%;
+  }
+  .games-link09 {
+    width: auto;
+  }
+  .games-link10 {
+    width: auto;
+  }
+  .games-link11 {
+    width: auto;
+  }
+  .games-link12 {
+    width: auto;
+  }
+  .games-link13 {
+    width: auto;
+  }
+  .games-link14 {
+    width: auto;
+  }
+  .games-link15 {
+    width: auto;
+  }
+}

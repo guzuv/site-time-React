@@ -820,8 +820,15 @@
   }
 }
 @media(max-width: 479px) {
+  .home-container04 {
+    width: 479px;
+    height: 1036px;
+  }
   .home-container07 {
     padding-left: 0px;
     padding-right: 0px;
+  }
+  .home-services {
+    height: 616px;
   }
 }
