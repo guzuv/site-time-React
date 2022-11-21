@@ -38,7 +38,7 @@ const Home = (props) => {
             </a>
             <br></br>
           </span>
-          <a href="#services" className="home-cta-btn button">
+          <a href="#actual games" className="home-cta-btn button">
             <span>
               <span className="Anchor">play Games!</span>
               <br></br>
@@ -179,7 +179,7 @@ const Home = (props) => {
           </div>
         </div>
       </div>
-      <div className="home-service-card">
+      <div id="actual games" className="home-service-card">
         <div className="home-card-content">
           <h3 className="home-text37 BigCard-Heading">hey!</h3>
           <span className="home-text38">

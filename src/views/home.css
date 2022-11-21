@@ -862,8 +862,6 @@
   }
   .home-contact {
     height: 100%;
-    flex-direction: column;
-    justify-content: flex-start;
   }
   .home-image5 {
     width: auto;

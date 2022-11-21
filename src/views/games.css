@@ -542,6 +542,10 @@
   background-color: #5a1818;
 }
 @media(max-width: 1200px) {
+  .games-service-card1 {
+    width: auto;
+    min-height: auto;
+  }
   .games-text28 {
     color: var(--dl-color-primary-700);
   }
