@@ -38,9 +38,14 @@ const Home = (props) => {
             </a>
             <br></br>
           </span>
-          <a href="#actual games" className="home-cta-btn button">
+          <a
+            href="https://koora.live"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="home-cta-btn button"
+          >
             <span>
-              <span className="Anchor">play Games!</span>
+              <span className="Anchor">Watch the cup</span>
               <br></br>
             </span>
           </a>
