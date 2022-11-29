@@ -149,147 +149,173 @@ const Games = (props) => {
             </a>
           </div>
         </div>
-        <div className="games-service-card1">
-          <div className="games-card-content08">
-            <h3 className="games-text19 BigCard-Heading">Doodle Jump.</h3>
-            <span className="games-text20 Card-Text">
-              jump as high as you can! can you beat 15000 score? good luck!
-            </span>
-            <a
-              href="https://omackenzie.github.io/Doodle-Jump-in-JS/"
-              target="_blank"
-              rel="noreferrer noopener"
-              className="games-link08 Anchor button"
-            >
-              Get Jumping!
-            </a>
-          </div>
-          <div className="games-card-content09">
-            <h3 className="games-text21 BigCard-Heading">Doom!</h3>
-            <span className="games-text22 Card-Text">
-              get knee deep in hell, slaughter to victory! press any key to
-              start. 
-            </span>
-            <a
-              href="https://floooh.github.io/doom-sokol/"
-              target="_blank"
-              rel="noreferrer noopener"
-              className="games-link09 button Anchor"
-            >
-              Rip and Tear!
-            </a>
-          </div>
-          <div className="games-card-content10">
-            <h3 className="games-text23 BigCard-Heading">minecraft.</h3>
-            <span className="games-text24">
-              <span>
-                minecraft 1.5.2, with multiplayer and voice chat! pick
-                multiplayer and join with a friend! press escape in-game and
-                pick nearby to enable voice chat! error fix may come soon!
+        <div className="games-container1">
+          <div className="games-service-card1">
+            <div className="games-card-content08">
+              <h3 className="games-text19 BigCard-Heading">Doodle Jump.</h3>
+              <span className="games-text20 Card-Text">
+                jump as high as you can! can you beat 15000 score? good luck!
               </span>
-              <br></br>
-            </span>
-            <a
-              href="https://precisionclient.vercel.app/"
-              target="_blank"
-              rel="noreferrer noopener"
-              className="games-link10 button Anchor"
-            >
-              get mining!
-            </a>
-          </div>
-          <div className="games-card-content11">
-            <h3 className="games-text27 BigCard-Heading">
-              friday night funkin&apos;
-            </h3>
-            <span className="games-text28">
-              <span>friday night funkin, have fun!</span>
-              <br></br>
-            </span>
-            <a
-              href="https://funkin.guzuv.repl.co"
-              target="_blank"
-              rel="noreferrer noopener"
-              className="games-link11 button"
-            >
-              funkin time!
-            </a>
-          </div>
-          <div className="games-card-content12">
-            <h3 className="games-text31 BigCard-Heading">1v1.lol</h3>
-            <span className="games-text32">
-              <span>
-                play with friends, and duel players around the world using this!
+              <a
+                href="https://omackenzie.github.io/Doodle-Jump-in-JS/"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link08 Anchor button"
+              >
+                Get Jumping!
+              </a>
+            </div>
+            <div className="games-card-content09">
+              <h3 className="games-text21 BigCard-Heading">Doom!</h3>
+              <span className="games-text22 Card-Text">
+                get knee deep in hell, slaughter to victory! press any key to
+                start. 
               </span>
-              <br></br>
-            </span>
-            <a
-              href="https://1v1lol.56306.repl.co/"
-              target="_blank"
-              rel="noreferrer noopener"
-              className="games-link12 button"
-            >
-              fortnite?
-            </a>
-          </div>
-          <div className="games-card-content13">
-            <h3 className="games-text35 BigCard-Heading">run 3</h3>
-            <span className="games-text36">
-              <span>
-                thanks bert for the idea! nostalgia trip and get all the dots!
-              </span>
-              <br></br>
-            </span>
-            <a
-              href="https://lekug.github.io/tn6pS9dCf37xAhkJv/"
-              target="_blank"
-              rel="noreferrer noopener"
-              className="games-link13 button"
-            >
-              skater too cool.
-            </a>
-          </div>
-          <div className="games-card-content14">
-            <h3 className="games-text39 BigCard-Heading">pixel combat 2</h3>
-            <span className="games-text40">
-              <span>
-                kudos to bert for the suggestion. Pixel combat 2, now with
-                multiplayer!
-              </span>
-              <br></br>
-            </span>
-            <a
-              href="https://debbiewatermanphd.com/uploads/5/0/5/6/5056555/custom_themes/607463927942590340/pixel-combat2.html"
-              target="_blank"
-              rel="noreferrer noopener"
-              className="games-link14 button"
-            >
-              <span>
-                <span>terrorist or not?</span>
+              <a
+                href="https://floooh.github.io/doom-sokol/"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link09 button Anchor"
+              >
+                Rip and Tear!
+              </a>
+            </div>
+            <div className="games-card-content10">
+              <h3 className="games-text23 BigCard-Heading">minecraft.</h3>
+              <span className="games-text24">
+                <span>
+                  minecraft 1.5.2, with multiplayer and voice chat! pick
+                  multiplayer and join with a friend! press escape in-game and
+                  pick nearby to enable voice chat! error fix may come soon!
+                </span>
                 <br></br>
               </span>
-            </a>
-          </div>
-          <div className="games-card-content15">
-            <h3 className="games-text46 BigCard-Heading">tunnel rush!</h3>
-            <span className="games-text47">
-              <span>
-                dean gave me this idea. how long can you go, i was 3548m! it
-                will be blank, then it will load.
-              </span>
-              <br></br>
-            </span>
-            <a
-              href="https://guzuv.github.io/tunnelrushing/"
-              target="_blank"
-              rel="noreferrer noopener"
-              className="games-link15 button"
-            >
-              <span>
-                <span>breakneck speeds!</span>
+              <a
+                href="https://precisionclient.vercel.app/"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link10 button Anchor"
+              >
+                get mining!
+              </a>
+            </div>
+            <div className="games-card-content11">
+              <h3 className="games-text27 BigCard-Heading">
+                friday night funkin&apos;
+              </h3>
+              <span className="games-text28">
+                <span>friday night funkin, have fun!</span>
                 <br></br>
               </span>
-            </a>
+              <a
+                href="https://funkin.guzuv.repl.co"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link11 button"
+              >
+                funkin time!
+              </a>
+            </div>
+            <div className="games-card-content12">
+              <h3 className="games-text31 BigCard-Heading">1v1.lol</h3>
+              <span className="games-text32">
+                <span>
+                  play with friends, and duel players around the world using
+                  this!
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://1v1lol.56306.repl.co/"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link12 button"
+              >
+                fortnite?
+              </a>
+            </div>
+            <div className="games-card-content13">
+              <h3 className="games-text35 BigCard-Heading">run 3</h3>
+              <span className="games-text36">
+                <span>
+                  thanks bert for the idea! nostalgia trip and get all the dots!
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://lekug.github.io/tn6pS9dCf37xAhkJv/"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link13 button"
+              >
+                skater too cool.
+              </a>
+            </div>
+            <div className="games-card-content14">
+              <h3 className="games-text39 BigCard-Heading">pixel combat 2</h3>
+              <span className="games-text40">
+                <span>
+                  kudos to bert for the suggestion. Pixel combat 2, now with
+                  multiplayer!
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://debbiewatermanphd.com/uploads/5/0/5/6/5056555/custom_themes/607463927942590340/pixel-combat2.html"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link14 button"
+              >
+                <span>
+                  <span>terrorist or not?</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
+            <div className="games-card-content15">
+              <h3 className="games-text46 BigCard-Heading">tunnel rush!</h3>
+              <span className="games-text47">
+                <span>
+                  dean gave me this idea. how long can you go, i was 3548m! it
+                  will be blank, then it will load.
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://guzuv.github.io/tunnelrushing/"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link15 button"
+              >
+                <span>
+                  <span>breakneck speeds!</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
+            <div className="games-card-content16">
+              <h3 className="games-text53 BigCard-Heading">
+                Fireboy And Watergirl
+              </h3>
+              <span className="games-text54">
+                <span>
+                  A 2 player classic, fireboy and water girl, get gems, dodge
+                  the opposites, and sabotage your friends!
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://3kh0githubio-replit.harryjulies.repl.co/projects/fireboywatergirlforesttemple/index.html"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link16 button"
+              >
+                <span>
+                  <span>Opposites Attract!</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
           </div>
         </div>
       </div>
