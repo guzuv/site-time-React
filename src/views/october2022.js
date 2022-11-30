@@ -21,23 +21,18 @@ const October2022 = (props) => {
       </Helmet>
       <div className="october2022-blog-post-card">
         <div className="october2022-container1">
+          <div className="october2022-container2">
+            <span className="october2022-text"> </span>
+            <span className="october2022-text01">october 14, 2022</span>
+          </div>
+          <h1 className="october2022-text02">new game!</h1>
           <img
             alt="image"
             src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F1AhjFyCwrwKS4%2Fsource.gif&amp;f=1&amp;nofb=1&amp;ipt=3fed2725c4625a47e87be670a16324058348f3eb7db4fc8d3e4a737b8781e129&amp;ipo=images"
             image_src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDd8fHBvcnRyYWl0fGVufDB8fHx8MTYyNjM3ODk3Mg&amp;ixlib=rb-1.2.1&amp;h=1000"
             className="october2022-image"
           />
-          <span className="october2022-text">
-            shout out to bannon since he asked.
-          </span>
-        </div>
-        <div className="october2022-container2">
-          <div className="october2022-container3">
-            <span className="october2022-text01"> </span>
-            <span className="october2022-text02">october 14, 2022</span>
-          </div>
-          <h1 className="october2022-text03">new game!</h1>
-          <span className="october2022-text04">
+          <span className="october2022-text03">
             <span>
                I just added a new game to my site and I think you&apos;ll really
               enjoy it. It&apos;s called Super Mario 64 and it&apos;s an old
@@ -75,7 +70,7 @@ const October2022 = (props) => {
             </span>
             <br></br>
           </span>
-          <div className="october2022-container4">
+          <div className="october2022-container3">
             <div className="october2022-profile">
               <img
                 alt="profile"
@@ -83,52 +78,52 @@ const October2022 = (props) => {
                 className="october2022-image1"
               />
             </div>
-            <span className="october2022-text12">me lol</span>
+            <span className="october2022-text11">me lol</span>
           </div>
-        </div>
-        <div className="october2022-container5">
-          <div className="october2022-container6">
-            <span className="october2022-text13"> </span>
-            <span className="october2022-text14">october 25, 2022</span>
-          </div>
-          <img
-            alt="image"
-            src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsmashboards.com%2Fattachments%2Fboyfriend-gif.302219%2F&amp;f=1&amp;nofb=1&amp;ipt=019ae4d1ef6a7eebff462a5606ca7f4ec218415748b02cc0568cdd8a26a2147f&amp;ipo=images"
-            className="october2022-image2"
-          />
-          <h1 className="october2022-text15">Fresh new game!</h1>
-          <span className="october2022-text16">
-            <span>
-              Friday Night Funkin&apos; is a rhythm game created by
-              Ninjamuffin99 and published by Newgrounds. The game has been
-              released on PC, Mac, and Linux, with a Switch port in development.
-              The player takes control of a boy named Boyfriend who must compete
-              against seven other characters in a weekly dance battle. The game
-              features original songs composed by Kawai Sprite and ParagonX9, as
-              well as remixes of popular songs.
-            </span>
-            <br></br>
-            <br></br>
-            <span>
-              Friday Night Funkin&apos; is a rhythm game that is easy to pick up
-              but difficult to master. The player must hit the correct keys in
-              time with the music in order to make Boyfriend dance. The game
-              features a variety of different characters, each with their own
-              unique dance moves. The game also features a variety of different
-              songs, ranging from original compositions to remixes of popular
-              songs. Friday Night Funkin&apos; is a great game for people of all
-              ages and is sure to get you moving and grooving.
-            </span>
-          </span>
-          <div className="october2022-container7">
-            <div className="october2022-profile1">
-              <img
-                alt="profile"
-                src="/playground_assets/catpic.png"
-                className="october2022-image3"
-              />
+          <div className="october2022-container4">
+            <div className="october2022-container5">
+              <span className="october2022-text12"> </span>
+              <span className="october2022-text13">october 25, 2022</span>
             </div>
-            <span className="october2022-text21">me lol</span>
+            <img
+              alt="image"
+              src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsmashboards.com%2Fattachments%2Fboyfriend-gif.302219%2F&amp;f=1&amp;nofb=1&amp;ipt=019ae4d1ef6a7eebff462a5606ca7f4ec218415748b02cc0568cdd8a26a2147f&amp;ipo=images"
+              className="october2022-image2"
+            />
+            <h1 className="october2022-text14">Fresh new game!</h1>
+            <span className="october2022-text15">
+              <span>
+                Friday Night Funkin&apos; is a rhythm game created by
+                Ninjamuffin99 and published by Newgrounds. The game has been
+                released on PC, Mac, and Linux, with a Switch port in
+                development. The player takes control of a boy named Boyfriend
+                who must compete against seven other characters in a weekly
+                dance battle. The game features original songs composed by Kawai
+                Sprite and ParagonX9, as well as remixes of popular songs.
+              </span>
+              <br></br>
+              <br></br>
+              <span>
+                Friday Night Funkin&apos; is a rhythm game that is easy to pick
+                up but difficult to master. The player must hit the correct keys
+                in time with the music in order to make Boyfriend dance. The
+                game features a variety of different characters, each with their
+                own unique dance moves. The game also features a variety of
+                different songs, ranging from original compositions to remixes
+                of popular songs. Friday Night Funkin&apos; is a great game for
+                people of all ages and is sure to get you moving and grooving.
+              </span>
+            </span>
+            <div className="october2022-container6">
+              <div className="october2022-profile1">
+                <img
+                  alt="profile"
+                  src="/playground_assets/catpic.png"
+                  className="october2022-image3"
+                />
+              </div>
+              <span className="october2022-text20">me lol</span>
+            </div>
           </div>
         </div>
       </div>

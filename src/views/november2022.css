@@ -131,6 +131,15 @@
   }
 }
 @media(max-width: 479px) {
+  .november2022-pasted-image {
+    width: auto;
+    height: auto;
+    align-self: center;
+  }
+  .november2022-container2 {
+    width: auto;
+    height: auto;
+  }
   .november2022-container5 {
     padding-left: 0px;
     padding-right: 0px;
