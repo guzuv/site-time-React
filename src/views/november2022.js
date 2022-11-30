@@ -20,25 +20,24 @@ const November2022 = (props) => {
         />
       </Helmet>
       <div className="november2022-blog-post-card">
-        <span>Text</span>
         <div className="november2022-container1">
           <img
             alt="cross"
             src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbestanimations.com%2FSigns%26Shapes%2FWorship%2FChristian%2Fcross-animated-gif-29.gif&amp;f=1&amp;nofb=1&amp;ipt=4b26f7f921ce9a0068d158f4275040b882126fbdb75cf7f29231599ff145006d&amp;ipo=images"
           />
         </div>
-        <span className="november2022-text01">
+        <span className="november2022-text">
           shout out to Alex Halmer for inspiring me.
         </span>
         <div className="november2022-container2">
           <div className="november2022-container3">
-            <span className="november2022-text02"> </span>
+            <span className="november2022-text1"> </span>
           </div>
           <div className="november2022-container4">
-            <h1 className="november2022-text03">remember them all.</h1>
-            <span className="november2022-text04">  november 11, 2022</span>
+            <h1 className="november2022-text2">remember them all.</h1>
+            <span className="november2022-text3">  november 11, 2022</span>
           </div>
-          <span className="november2022-text05">
+          <span className="november2022-text4">
             <span>
               Remembrance day is a Canadian tradition that dates back to the
               First World War. Every year on November 11th, Canadians across the
@@ -65,7 +64,7 @@ const November2022 = (props) => {
                 className="november2022-image"
               />
             </div>
-            <span className="november2022-text09">me lol</span>
+            <span className="november2022-text8">me lol</span>
           </div>
         </div>
       </div>
