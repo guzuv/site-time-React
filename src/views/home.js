@@ -38,12 +38,7 @@ const Home = (props) => {
             </a>
             <br></br>
           </span>
-          <a
-            href="https://koora.live"
-            target="_blank"
-            rel="noreferrer noopener"
-            className="home-cta-btn button"
-          >
+          <a href="#actual games" className="home-cta-btn button">
             <span>
               <span className="Anchor">Watch the cup</span>
               <br></br>
@@ -188,12 +183,12 @@ const Home = (props) => {
           <h3 className="home-text36 BigCard-Heading">hey!</h3>
           <span className="home-text37">
             <span>
-              I got so many blogs ;), i had to put it somewhere else. just click
+              I got so many games, i had to put it somewhere else. just click
               this epic button, and join the fun!
             </span>
             <br></br>
           </span>
-          <Link to="/archive" className="home-navlink">
+          <Link to="/games" className="home-navlink">
             <div className="home-container08">
               <span className="home-text40">click here!</span>
             </div>

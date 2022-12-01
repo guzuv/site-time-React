@@ -23,15 +23,15 @@ const October2022 = (props) => {
         <div className="october2022-container1">
           <div className="october2022-container2">
             <span className="october2022-text"> </span>
-            <span className="october2022-text01">october 14, 2022</span>
           </div>
-          <h1 className="october2022-text02">new game!</h1>
           <img
             alt="image"
             src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F1AhjFyCwrwKS4%2Fsource.gif&amp;f=1&amp;nofb=1&amp;ipt=3fed2725c4625a47e87be670a16324058348f3eb7db4fc8d3e4a737b8781e129&amp;ipo=images"
             image_src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDd8fHBvcnRyYWl0fGVufDB8fHx8MTYyNjM3ODk3Mg&amp;ixlib=rb-1.2.1&amp;h=1000"
             className="october2022-image"
           />
+          <h1 className="october2022-text01">new game!</h1>
+          <span className="october2022-text02">october 14, 2022</span>
           <span className="october2022-text03">
             <span>
                I just added a new game to my site and I think you&apos;ll really
@@ -83,14 +83,14 @@ const October2022 = (props) => {
           <div className="october2022-container4">
             <div className="october2022-container5">
               <span className="october2022-text12"> </span>
-              <span className="october2022-text13">october 25, 2022</span>
             </div>
             <img
               alt="image"
               src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsmashboards.com%2Fattachments%2Fboyfriend-gif.302219%2F&amp;f=1&amp;nofb=1&amp;ipt=019ae4d1ef6a7eebff462a5606ca7f4ec218415748b02cc0568cdd8a26a2147f&amp;ipo=images"
               className="october2022-image2"
             />
-            <h1 className="october2022-text14">Fresh new game!</h1>
+            <h1 className="october2022-text13">Fresh new game!</h1>
+            <span className="october2022-text14">october 25, 2022</span>
             <span className="october2022-text15">
               <span>
                 Friday Night Funkin&apos; is a rhythm game created by

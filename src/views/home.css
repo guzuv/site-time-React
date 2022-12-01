@@ -845,6 +845,13 @@
   .home-card-content {
     max-width: auto;
   }
+  .home-text37 {
+    color: var(--dl-color-primary-700);
+  }
+  .home-text40 {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+  }
   .home-testimonials {
     width: auto;
     height: auto;
