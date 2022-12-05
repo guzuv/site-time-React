@@ -306,7 +306,7 @@
   border-radius: 34px;
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
-  background-color: rgb(251, 113, 237);
+  background-color: #b3da72;
 }
 .games-container1 {
   flex: 0 0 auto;
@@ -615,6 +615,9 @@
   background-image: linear-gradient(90deg, rgb(192, 36, 37) 0.00%,rgb(0, 11, 255) 100.00%);
 }
 @media(max-width: 1200px) {
+  .games-link08 {
+    background-color: #b3da72;
+  }
   .games-service-card1 {
     width: auto;
     min-height: auto;
@@ -731,6 +734,9 @@
   }
   .games-card-content03 {
     max-width: auto;
+  }
+  .games-link08 {
+    background-color: #b3da72;
   }
   .games-container1 {
     flex: 1;
