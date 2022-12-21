@@ -1,0 +1,78 @@
+.bounty-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: #000000;
+}
+.bounty-card-content {
+  width: auto;
+  height: var(--dl-size-size-maxcontent);
+  margin: var(--dl-space-space-fiveunits);
+  display: flex;
+  padding: var(--dl-space-space-fiveunits);
+  max-width: auto;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.bounty-text {
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.bounty-text01 {
+  color: var(--dl-color-primary-700);
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.bounty-link {
+  text-decoration: underline;
+}
+.bounty-iframe {
+  width: var(--dl-size-size-maxcontent);
+  height: var(--dl-size-size-maxcontent);
+}
+@media(max-width: 1200px) {
+  .bounty-container {
+    background-color: #000000;
+  }
+  .bounty-card-content {
+    width: 100%;
+    max-width: 100%;
+  }
+  .bounty-text01 {
+    color: var(--dl-color-primary-700);
+  }
+  .bounty-text02 {
+    font-size: 16px;
+  }
+  .bounty-iframe {
+    width: 100%;
+    height: var(--dl-size-size-maxcontent);
+  }
+}
+@media(max-width: 991px) {
+  .bounty-card-content {
+    width: 100%;
+    max-width: auto;
+  }
+}
+@media(max-width: 767px) {
+  .bounty-card-content {
+    width: var(--dl-size-size-maxcontent);
+    max-width: auto;
+    margin-bottom: 0px;
+  }
+}
+@media(max-width: 479px) {
+  .bounty-iframe {
+    width: 100%;
+    height: 100%;
+  }
+  .bounty-text11 {
+    color: rgb(255, 255, 255);
+  }
+}

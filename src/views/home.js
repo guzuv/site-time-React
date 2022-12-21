@@ -29,33 +29,48 @@ const Home = (props) => {
             <br></br>
             <span>Patch notes:</span>
             <br></br>
-            <span>-new game</span>
+            <span>-added 2 games!</span>
             <br></br>
-            <span>-fixed minecraft!</span>
+            <span>-christmas cat?!?</span>
             <br></br>
             <a href="#blog" className="home-link">
-              -new blog!
+              -a new blog!
             </a>
+            <br></br>
+            <span>
+              -updated
+              <span
+                dangerouslySetInnerHTML={{
+                  __html: ' ',
+                }}
+              />
+            </span>
+            <a href="#features" className="home-link1">
+              what i do
+            </a>
+            <span>.</span>
+            <br></br>
+            <span>-NEW BOUNTY SYSTEM!!</span>
             <br></br>
           </span>
           <a href="#actual games" className="home-cta-btn button">
             <span>
-              <span className="Anchor">Watch the cup</span>
+              <span className="Anchor">get gaming!</span>
               <br></br>
             </span>
           </a>
         </div>
         <img
           alt="image"
-          src="/playground_assets/catpic.png"
+          src="https://i.ibb.co/xYqH10f/snowleo.gif"
           className="home-image"
         />
       </div>
       <div className="home-section-separator"></div>
       <div id="features" className="home-features">
         <div className="home-heading-container">
-          <h2 className="home-text14">what i do.</h2>
-          <span className="home-text15">
+          <h2 className="home-text19">what i do.</h2>
+          <span className="home-text20">
             what i do when i&apos;m not doing chores or being outdoors.
           </span>
         </div>
@@ -63,28 +78,29 @@ const Home = (props) => {
           <div className="home-feature-card">
             <img
               alt="image"
-              src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDExfHxnYW1lfGVufDB8fHx8MTY2MDk1ODEwMA&amp;ixlib=rb-1.2.1&amp;h=1000"
+              src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDExfHxnYW1lfGVufDB8fHx8MTY2MDk1ODEwMA&amp;ixlib=rb-1.2.1&amp;w=200"
               className="home-image1"
             />
             <span className="home-heading1 Card-Heading">
               playstation plays!
             </span>
-            <span className="home-text16">
-              I play ps4 games, i play call of duty warzone, apex legends,
-              fortnite, minecraft, and many others!
+            <span className="home-text21">
+              I play ps4, i play call of duty, apex legends, rumbleverse,
+              minecraft, and many others!
             </span>
           </div>
           <div className="home-feature-card1">
             <img
               alt="image"
-              src="https://images.unsplash.com/photo-1541560052-5e137f229371?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDg3fHxjb21wdXRlcnxlbnwwfHx8fDE2NjA5NTgzMDg&amp;ixlib=rb-1.2.1&amp;h=1000"
+              src="https://images.unsplash.com/photo-1541560052-5e137f229371?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDg3fHxjb21wdXRlcnxlbnwwfHx8fDE2NjA5NTgzMDg&amp;ixlib=rb-1.2.1&amp;w=200"
               className="home-image2"
             />
             <span className="home-heading2 Card-Heading">pc gaming!</span>
-            <span className="home-text17">
+            <span className="home-text22">
               <span>
-                i play on pc too! i have rust, minecraft, call of duty, and
-                others! always willing to try something new, so let me know!
+                i play on pc too! i have rust, minecraft, call of duty, tf2
+                (main medic) and others! i&apos;m always willing to try
+                something new, so let me know!
               </span>
               <br className="Card-Text"></br>
             </span>
@@ -92,111 +108,112 @@ const Home = (props) => {
           <div className="home-feature-card2">
             <img
               alt="image"
-              src="https://images.unsplash.com/photo-1554672408-17407e0322ce?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDM0fHxwaG9uZXxlbnwwfHx8fDE2NjA5NTg4Mjk&amp;ixlib=rb-1.2.1&amp;h=1000"
+              src="https://images.unsplash.com/photo-1554672408-17407e0322ce?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDM0fHxwaG9uZXxlbnwwfHx8fDE2NjA5NTg4Mjk&amp;ixlib=rb-1.2.1&amp;w=200"
               className="home-image3"
             />
             <span className="home-heading3 Card-Heading">say hi!</span>
-            <span className="home-text20">
+            <span className="home-text25">
               <span>
                 i&apos;m on discord! i just might start a server one day,
-                contact me by scrolling down.
-                <span
-                  dangerouslySetInnerHTML={{
-                    __html: ' ',
-                  }}
-                />
+                contact me by scrolling down, or using the feedback button!
               </span>
               <br className="Card-Text"></br>
             </span>
           </div>
         </div>
-        <span className="home-text23">
-          <span>
-            ignore me, just making seo better:
-            <span
-              dangerouslySetInnerHTML={{
-                __html: ' ',
-              }}
-            />
-          </span>
-          <br></br>
-          <span>
-            guzuv guzuv guzuv guzuv guzuv guzuv guzuv games games unblocked
-          </span>
-        </span>
       </div>
+      <span className="home-text28">
+        <span>
+          ignore me, just making seo better:
+          <span
+            dangerouslySetInnerHTML={{
+              __html: ' ',
+            }}
+          />
+        </span>
+        <br></br>
+        <span>
+          guzuv guzuv guzuv guzuv guzuv guzuv guzuv games games unblocked
+        </span>
+      </span>
       <div className="home-container01"></div>
       <div className="home-section-separator1"></div>
-      <div className="home-container02"></div>
       <div className="home-blog-post-card">
-        <div className="home-container03">
-          <img
-            alt="cross"
-            src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbestanimations.com%2FSigns%26Shapes%2FWorship%2FChristian%2Fcross-animated-gif-29.gif&amp;f=1&amp;nofb=1&amp;ipt=4b26f7f921ce9a0068d158f4275040b882126fbdb75cf7f29231599ff145006d&amp;ipo=images"
-            className="home-pasted-image"
-          />
-        </div>
-        <span className="home-text27">
-          shout out to Alex Halmer for inspiring me.
-        </span>
-        <div id="blog" className="home-container04">
-          <div className="home-container05">
-            <span className="home-text28"> </span>
+        <div id="blog" className="home-container02">
+          <div className="home-container03">
+            <span className="home-text32"> </span>
           </div>
-          <div className="home-container06">
-            <h1 className="home-text29">remember them all.</h1>
-            <span className="home-text30">  november 11, 2022</span>
+          <div className="home-container04">
+            <div className="home-container05">
+              <h1 className="home-text33">merry christmas!</h1>
+            </div>
+            <img
+              alt="image"
+              src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fclipart-library.com%2Fimages%2F8izKRzp4T.gif&amp;f=1&amp;nofb=1&amp;ipt=67f86b766277484bf58708722b6fedef5d7d3e731f468b7a6f993f74fed42d3a&amp;ipo=images"
+              className="home-image4"
+            />
           </div>
-          <span className="home-text31">
-            <span>
-              Remembrance day is a Canadian tradition that dates back to the
-              First World War. Every year on November 11th, Canadians across the
-              country pause to remember the men and women who have served, and
-              continue to serve, our country. From the Vimy Ridge Memorial in
-              France to the National War Memorial in Ottawa, there are many ways
-              to honour our veterans.
-            </span>
-            <br></br>
-            <span>
-              For many of us, Remembrance Day is a time to reflect on the
-              sacrifices made by our family members and friends. It is also an
-              opportunity to teach our friends about the importance of
-              remembrance and the value of freedom. No matter how we choose to
-              honour our veterans, we can all agree that their service is
-              deserving of our utmost respect.
-            </span>
+          <span className="home-text34">December 20, 2022</span>
+          <span className="home-text35">
+            Sorry for the late blog, i&apos;ve been working on school, and now
+            that i&apos;ve aced a few tests, I can start working on my site
+            again! I love the feeling of happiness and joy that comes with the
+            holiday season. It&apos;s a time when we give and receive gifts,
+            which is always a lot of fun. I enjoy decorating my house with
+            Christmas lights and decorations, and I always look forward to
+            Christmas meals with my family (shoutout to DanDoritos again).
+            Overall, I just love everything about Christmas and the holiday
+            season! This blog is a bit rushed, so soon i&apos;ll try to make it
+            up with more games and fun! 
           </span>
-          <div className="home-container07">
+          <div className="home-container06">
             <div className="home-profile">
               <img
                 alt="profile"
                 src="/playground_assets/catpic.png"
-                className="home-image4"
+                className="home-image5"
               />
             </div>
-            <span className="home-text35">me lol</span>
+            <span className="home-text36">me lol</span>
           </div>
         </div>
       </div>
+      <div className="home-container07"></div>
       <div id="actual games" className="home-service-card">
         <div className="home-card-content">
-          <h3 className="home-text36 BigCard-Heading">hey!</h3>
-          <span className="home-text37">
+          <h3 className="home-text37 BigCard-Heading">hey!</h3>
+          <span className="home-text38">
             <span>
               I got so many games, i had to put it somewhere else. just click
               this epic button, and join the fun!
             </span>
             <br></br>
+            <br></br>
+            <span>
+              Wanna do a bounty?
+              <span
+                dangerouslySetInnerHTML={{
+                  __html: ' ',
+                }}
+              />
+            </span>
+            <br></br>
+            <span>Click me</span>
+            <Link to="/bounty" className="home-navlink">
+              !
+            </Link>
+            <br></br>
           </span>
-          <Link to="/games" className="home-navlink">
+          <Link to="/games" className="home-navlink1">
             <div className="home-container08">
-              <span className="home-text40">click here!</span>
+              <span className="home-text46">click here!</span>
             </div>
           </Link>
         </div>
       </div>
+      <div className="home-container09"></div>
       <div className="home-testimonials">
-        <h2 className="home-text41">peeps i feature.</h2>
+        <h2 className="home-text47">peeps i feature.</h2>
         <div className="home-cards-container1">
           <div className="home-testimonial-card">
             <div className="home-card-heading">
@@ -241,7 +258,7 @@ const Home = (props) => {
                 </svg>
               </div>
             </div>
-            <span className="home-text42">
+            <span className="home-text48">
               the coolest nerd i know, check him out, he posts gaming and life
               videos.
               <span
@@ -297,7 +314,7 @@ const Home = (props) => {
                 </svg>
               </div>
             </div>
-            <span className="home-text43">
+            <span className="home-text49">
               good videos, does shorts, livestreams, and gameplay! dedicated and
               great!
             </span>
@@ -348,7 +365,7 @@ const Home = (props) => {
                 </svg>
               </div>
             </div>
-            <span className="home-text44">
+            <span className="home-text50">
               <span>
                 loves roblox bedwars, has some nice vids, go say hi to him!
               </span>
@@ -357,9 +374,9 @@ const Home = (props) => {
           </div>
         </div>
       </div>
-      <div className="home-container09"></div>
-      <div className="home-content-container">
-        <h2 className="home-text47 Section-Heading">Contact me!</h2>
+      <div className="home-container10"></div>
+      <div id="contact" className="home-content-container">
+        <h2 className="home-text53 Section-Heading">Contact me!</h2>
         <div className="home-locations-container">
           <div className="home-location-1">
             <span className="home-heading4">most active on discord.</span>
@@ -373,9 +390,9 @@ const Home = (props) => {
               <svg viewBox="0 0 877.7142857142857 1024" className="home-icon32">
                 <path d="M585.143 512c0-80.571-65.714-146.286-146.286-146.286s-146.286 65.714-146.286 146.286 65.714 146.286 146.286 146.286 146.286-65.714 146.286-146.286zM664 512c0 124.571-100.571 225.143-225.143 225.143s-225.143-100.571-225.143-225.143 100.571-225.143 225.143-225.143 225.143 100.571 225.143 225.143zM725.714 277.714c0 29.143-23.429 52.571-52.571 52.571s-52.571-23.429-52.571-52.571 23.429-52.571 52.571-52.571 52.571 23.429 52.571 52.571zM438.857 152c-64 0-201.143-5.143-258.857 17.714-20 8-34.857 17.714-50.286 33.143s-25.143 30.286-33.143 50.286c-22.857 57.714-17.714 194.857-17.714 258.857s-5.143 201.143 17.714 258.857c8 20 17.714 34.857 33.143 50.286s30.286 25.143 50.286 33.143c57.714 22.857 194.857 17.714 258.857 17.714s201.143 5.143 258.857-17.714c20-8 34.857-17.714 50.286-33.143s25.143-30.286 33.143-50.286c22.857-57.714 17.714-194.857 17.714-258.857s5.143-201.143-17.714-258.857c-8-20-17.714-34.857-33.143-50.286s-30.286-25.143-50.286-33.143c-57.714-22.857-194.857-17.714-258.857-17.714zM877.714 512c0 60.571 0.571 120.571-2.857 181.143-3.429 70.286-19.429 132.571-70.857 184s-113.714 67.429-184 70.857c-60.571 3.429-120.571 2.857-181.143 2.857s-120.571 0.571-181.143-2.857c-70.286-3.429-132.571-19.429-184-70.857s-67.429-113.714-70.857-184c-3.429-60.571-2.857-120.571-2.857-181.143s-0.571-120.571 2.857-181.143c3.429-70.286 19.429-132.571 70.857-184s113.714-67.429 184-70.857c60.571-3.429 120.571-2.857 181.143-2.857s120.571-0.571 181.143 2.857c70.286 3.429 132.571 19.429 184 70.857s67.429 113.714 70.857 184c3.429 60.571 2.857 120.571 2.857 181.143z"></path>
               </svg>
-              <span className="home-text49">    Guzuvy</span>
+              <span className="home-text55">    Guzuvy</span>
             </div>
-            <span className="home-text50">
+            <span className="home-text56">
               <span>leo@guzuv.ml</span>
               <br></br>
               <br></br>
@@ -384,7 +401,7 @@ const Home = (props) => {
               <img
                 alt="image"
                 src="https://e7.pngegg.com/pngimages/64/167/png-clipart-discord-computer-icons-logo-antopodis-logo-miscellaneous-smiley.png"
-                className="home-image5"
+                className="home-image6"
               />
               <span>  guzuv#0571</span>
             </div>
@@ -393,10 +410,9 @@ const Home = (props) => {
         <img
           alt="image"
           src="https://i.ibb.co/kDYJv3g/dark-hi.png"
-          className="home-image6"
+          className="home-image7"
         />
       </div>
-      <div id="contact" className="home-contact"></div>
     </div>
   )
 }
