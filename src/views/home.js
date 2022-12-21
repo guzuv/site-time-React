@@ -53,12 +53,12 @@ const Home = (props) => {
             <span>-NEW BOUNTY SYSTEM!!</span>
             <br></br>
           </span>
-          <button className="home-cta-btn button">
+          <a href="#actual-games" className="home-cta-btn button">
             <span>
               <span className="Anchor">get gaming!</span>
               <br></br>
             </span>
-          </button>
+          </a>
         </div>
         <img
           alt="image"
@@ -179,7 +179,7 @@ const Home = (props) => {
         </div>
       </div>
       <div className="home-container07"></div>
-      <div className="home-container08">
+      <div id="actual-games" className="home-container08">
         <div className="home-card-content">
           <h3 className="home-text37 BigCard-Heading">hey!</h3>
           <span className="home-text38">
