@@ -53,12 +53,12 @@ const Home = (props) => {
             <span>-NEW BOUNTY SYSTEM!!</span>
             <br></br>
           </span>
-          <a href="#actual games" className="home-cta-btn button">
+          <button className="home-cta-btn button">
             <span>
               <span className="Anchor">get gaming!</span>
               <br></br>
             </span>
-          </a>
+          </button>
         </div>
         <img
           alt="image"
@@ -179,7 +179,7 @@ const Home = (props) => {
         </div>
       </div>
       <div className="home-container07"></div>
-      <div id="actual games" className="home-service-card">
+      <div className="home-container08">
         <div className="home-card-content">
           <h3 className="home-text37 BigCard-Heading">hey!</h3>
           <span className="home-text38">
@@ -189,29 +189,31 @@ const Home = (props) => {
             </span>
             <br></br>
             <br></br>
-            <span>
-              Wanna do a bounty?
-              <span
-                dangerouslySetInnerHTML={{
-                  __html: ' ',
-                }}
-              />
-            </span>
-            <br></br>
-            <span>Click me</span>
-            <Link to="/bounty" className="home-navlink">
-              !
-            </Link>
-            <br></br>
           </span>
-          <Link to="/games" className="home-navlink1">
-            <div className="home-container08">
-              <span className="home-text46">click here!</span>
+          <Link to="/games" className="home-navlink">
+            <div className="home-container09">
+              <span className="home-text42">click here!</span>
+            </div>
+          </Link>
+          <Link to="/bounty" className="home-navlink1">
+            <div className="home-container10">
+              <span className="home-text43">
+                <span>
+                  do a bounty.
+                  <span
+                    dangerouslySetInnerHTML={{
+                      __html: ' ',
+                    }}
+                  />
+                </span>
+                <br></br>
+                <span>(bonus game!)</span>
+              </span>
             </div>
           </Link>
         </div>
       </div>
-      <div className="home-container09"></div>
+      <div className="home-container11"></div>
       <div className="home-testimonials">
         <h2 className="home-text47">peeps i feature.</h2>
         <div className="home-cards-container1">
@@ -374,7 +376,7 @@ const Home = (props) => {
           </div>
         </div>
       </div>
-      <div className="home-container10"></div>
+      <div className="home-container12"></div>
       <div id="contact" className="home-content-container">
         <h2 className="home-text53 Section-Heading">Contact me!</h2>
         <div className="home-locations-container">
