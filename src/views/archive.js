@@ -42,12 +42,22 @@ const Archive = (props) => {
           </div>
           <div className="archive-feature-card2">
             <Link to="/november2022" className="archive-navlink2">
-              <h2 className="archive-text3">Decomber 2022</h2>
+              <h2 className="archive-text3">December 2022</h2>
             </Link>
             <img
               alt="image"
               src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F31.media.tumblr.com%2Fb581c1eef77efb498b1ddc585da82bb7%2Ftumblr_mf49rn1Tlv1rfjowdo1_500.gif&amp;f=1&amp;nofb=1&amp;ipt=b9ed11428e2de95abfe7afc83fa0f216e07c3f398ba45669a8b2eecd47f2be3e&amp;ipo=images"
               className="archive-image2"
+            />
+          </div>
+          <div className="archive-feature-card3">
+            <Link to="/november2022" className="archive-navlink3">
+              <h2 className="archive-text4">january 2023</h2>
+            </Link>
+            <img
+              alt="image"
+              src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F1wX5TJZPqVw3HhyDYn%2Fgiphy.gif&amp;f=1&amp;nofb=1&amp;ipt=d4b681e754b8c5d64ba998eb1a7f0d7a94699303d8d94592db5f80f21f588b29&amp;ipo=images"
+              className="archive-image3"
             />
           </div>
         </div>

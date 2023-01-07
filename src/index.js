@@ -10,6 +10,7 @@ import Bounty from './views/bounty'
 import Games from './views/games'
 import Home from './views/home'
 import November2022 from './views/november2022'
+import January2023 from './views/january2023'
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
         <Route component={Games} exact path="/games" />
         <Route component={Home} exact path="/" />
         <Route component={November2022} exact path="/november2022" />
+        <Route component={January2023} exact path="/january2023" />
       </div>
     </Router>
   )
