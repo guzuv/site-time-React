@@ -50,7 +50,9 @@
 .home-image {
   width: 50%;
   object-fit: contain;
+  transition: 0.3s;
 }
+
 .home-section-separator {
   width: 100%;
   height: 1px;
@@ -771,6 +773,10 @@
   .home-text {
     color: var(--dl-color-gray-500);
   }
+  .home-image {
+    border-color: var(--dl-color-gray-black);
+    border-width: 1px;
+  }
   .home-features {
     padding-bottom: 20px;
   }
@@ -826,6 +832,10 @@
   }
 }
 @media(max-width: 991px) {
+  .home-image {
+    width: 50%;
+    height: auto;
+  }
   .home-text17 {
     color: var(--dl-color-gray-500);
   }

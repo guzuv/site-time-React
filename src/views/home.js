@@ -34,7 +34,7 @@ const Home = (props) => {
             <span>-present cat?</span>
             <br></br>
             <a href="#blog" className="home-link">
-              -a  blog!
+              -a blog!
             </a>
             <br></br>
           </span>
