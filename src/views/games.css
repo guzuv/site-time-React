@@ -997,6 +997,9 @@
     align-self: flex-end;
     align-items: flex-end;
   }
+  .games-card-content11 {
+    max-width: auto;
+  }
   .games-card-content14 {
     max-width: auto;
     align-self: center;
@@ -1117,6 +1120,7 @@
   }
   .games-text072 {
     width: auto;
+    height: auto;
     max-width: auto;
   }
   .games-card-content20 {
@@ -1198,6 +1202,7 @@
   }
   .games-text089 {
     width: auto;
+    height: auto;
     max-width: auto;
   }
   .games-text094 {
