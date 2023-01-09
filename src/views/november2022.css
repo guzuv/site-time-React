@@ -97,6 +97,11 @@
 .november2022-text8 {
   color: #ffffff;
 }
+@media(max-width: 1200px) {
+  .november2022-container {
+    background-color: #D9D9D9;
+  }
+}
 @media(max-width: 991px) {
   .november2022-container {
     background-color: #000000;

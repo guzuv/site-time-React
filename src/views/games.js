@@ -161,7 +161,7 @@ const Games = (props) => {
               className="games-link08 button"
             >
               <span>
-                <span className="games-text22">penguin gaming</span>
+                <span className="games-text22">penguin gaming!</span>
                 <br></br>
               </span>
             </a>
@@ -169,7 +169,7 @@ const Games = (props) => {
           <div className="games-card-content09">
             <h3 className="games-text24 BigCard-Heading">subway surfers</h3>
             <span className="games-text25">
-              dodge the obese cop, hoverboard it out, and run, run, and run in
+              dodge the Inspector, hoverboard it out, and run, run, and run in
               subway surfers!
             </span>
             <a

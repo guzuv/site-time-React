@@ -192,25 +192,14 @@ const Home = (props) => {
           </Link>
           <Link to="/bounty" className="home-navlink2">
             <div className="home-container10">
-              <span className="home-text43">
-                <span>
-                  do a bounty.
-                  <span
-                    dangerouslySetInnerHTML={{
-                      __html: ' ',
-                    }}
-                  />
-                </span>
-                <br></br>
-                <span>(bonus game!)</span>
-              </span>
+              <span className="home-text43">who claimed it?</span>
             </div>
           </Link>
         </div>
       </div>
       <div className="home-container11"></div>
       <div className="home-testimonials">
-        <h2 className="home-text47">peeps i feature.</h2>
+        <h2 className="home-text44">peeps i feature.</h2>
         <div className="home-cards-container1">
           <div className="home-testimonial-card">
             <div className="home-card-heading">
@@ -255,7 +244,7 @@ const Home = (props) => {
                 </svg>
               </div>
             </div>
-            <span className="home-text48">
+            <span className="home-text45">
               the coolest nerd i know, check him out, he posts gaming and life
               videos.
               <span
@@ -311,7 +300,7 @@ const Home = (props) => {
                 </svg>
               </div>
             </div>
-            <span className="home-text49">
+            <span className="home-text46">
               good videos, does shorts, livestreams, and gameplay! dedicated and
               great!
             </span>
@@ -362,7 +351,7 @@ const Home = (props) => {
                 </svg>
               </div>
             </div>
-            <span className="home-text50">
+            <span className="home-text47">
               <span>
                 loves roblox bedwars, has some nice vids, go say hi to him!
               </span>
@@ -373,7 +362,7 @@ const Home = (props) => {
       </div>
       <div className="home-container12"></div>
       <div id="contact" className="home-content-container">
-        <h2 className="home-text53 Section-Heading">Contact me!</h2>
+        <h2 className="home-text50 Section-Heading">Contact me!</h2>
         <div className="home-locations-container">
           <div className="home-location-1">
             <span className="home-heading4">most active on discord.</span>
@@ -387,9 +376,9 @@ const Home = (props) => {
               <svg viewBox="0 0 877.7142857142857 1024" className="home-icon32">
                 <path d="M585.143 512c0-80.571-65.714-146.286-146.286-146.286s-146.286 65.714-146.286 146.286 65.714 146.286 146.286 146.286 146.286-65.714 146.286-146.286zM664 512c0 124.571-100.571 225.143-225.143 225.143s-225.143-100.571-225.143-225.143 100.571-225.143 225.143-225.143 225.143 100.571 225.143 225.143zM725.714 277.714c0 29.143-23.429 52.571-52.571 52.571s-52.571-23.429-52.571-52.571 23.429-52.571 52.571-52.571 52.571 23.429 52.571 52.571zM438.857 152c-64 0-201.143-5.143-258.857 17.714-20 8-34.857 17.714-50.286 33.143s-25.143 30.286-33.143 50.286c-22.857 57.714-17.714 194.857-17.714 258.857s-5.143 201.143 17.714 258.857c8 20 17.714 34.857 33.143 50.286s30.286 25.143 50.286 33.143c57.714 22.857 194.857 17.714 258.857 17.714s201.143 5.143 258.857-17.714c20-8 34.857-17.714 50.286-33.143s25.143-30.286 33.143-50.286c22.857-57.714 17.714-194.857 17.714-258.857s5.143-201.143-17.714-258.857c-8-20-17.714-34.857-33.143-50.286s-30.286-25.143-50.286-33.143c-57.714-22.857-194.857-17.714-258.857-17.714zM877.714 512c0 60.571 0.571 120.571-2.857 181.143-3.429 70.286-19.429 132.571-70.857 184s-113.714 67.429-184 70.857c-60.571 3.429-120.571 2.857-181.143 2.857s-120.571 0.571-181.143-2.857c-70.286-3.429-132.571-19.429-184-70.857s-67.429-113.714-70.857-184c-3.429-60.571-2.857-120.571-2.857-181.143s-0.571-120.571 2.857-181.143c3.429-70.286 19.429-132.571 70.857-184s113.714-67.429 184-70.857c60.571-3.429 120.571-2.857 181.143-2.857s120.571-0.571 181.143 2.857c70.286 3.429 132.571 19.429 184 70.857s67.429 113.714 70.857 184c3.429 60.571 2.857 120.571 2.857 181.143z"></path>
               </svg>
-              <span className="home-text55">    Guzuvy</span>
+              <span className="home-text52">    Guzuvy</span>
             </div>
-            <span className="home-text56">
+            <span className="home-text53">
               <span>leo@guzuv.ml</span>
               <br></br>
               <br></br>
