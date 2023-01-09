@@ -23,7 +23,7 @@ const Games = (props) => {
         <div className="games-service-card">
           <div className="games-card-content">
             <h3 className="games-text BigCard-Heading">Frogger!</h3>
-            <span className="games-text01 Card-Text">
+            <span className="games-text001 Card-Text">
               get all the frogs to the other hole, try not to get run over! now
               with mobile support!
             </span>
@@ -37,8 +37,8 @@ const Games = (props) => {
             </a>
           </div>
           <div className="games-card-content01">
-            <h3 className="games-text02 BigCard-Heading">among us.</h3>
-            <span className="games-text03 Card-Text">
+            <h3 className="games-text002 BigCard-Heading">among us.</h3>
+            <span className="games-text003 Card-Text">
               <span>
                 amongus with multiplayer!
                 <span
@@ -60,8 +60,8 @@ const Games = (props) => {
             </a>
           </div>
           <div className="games-card-content02">
-            <h3 className="games-text07 BigCard-Heading">GBA emulator.</h3>
-            <span className="games-text08 Card-Text">
+            <h3 className="games-text007 BigCard-Heading">GBA emulator.</h3>
+            <span className="games-text008 Card-Text">
               my own GBA emulator! updating at times! thanks Will for
               suggestion! 
             </span>
@@ -75,8 +75,8 @@ const Games = (props) => {
             </a>
           </div>
           <div className="games-card-content03">
-            <h3 className="games-text09 BigCard-Heading">super mario 64.</h3>
-            <span className="games-text10 Card-Text">
+            <h3 className="games-text009 BigCard-Heading">super mario 64.</h3>
+            <span className="games-text010 Card-Text">
               mario 64, with saves and everything! it&apos;s a bunch of fun,
               good luck! spam space while it&apos;s loading for sound!
             </span>
@@ -90,8 +90,8 @@ const Games = (props) => {
             </a>
           </div>
           <div className="games-card-content04">
-            <h3 className="games-text11 BigCard-Heading">Temple Run 2</h3>
-            <span className="games-text12 Card-Text">
+            <h3 className="games-text011 BigCard-Heading">Temple Run 2</h3>
+            <span className="games-text012 Card-Text">
               run, jump, duck and dash as far as you can! Snag upgrades, and get
               that idol!
             </span>
@@ -105,8 +105,8 @@ const Games = (props) => {
             </a>
           </div>
           <div className="games-card-content05">
-            <h3 className="games-text13 BigCard-Heading">n64 emulator.</h3>
-            <span className="games-text14 Card-Text">
+            <h3 className="games-text013 BigCard-Heading">n64 emulator.</h3>
+            <span className="games-text014 Card-Text">
               a bunch of n64 games, with netplay (very laggy, good luck lol).
             </span>
             <a
@@ -119,10 +119,10 @@ const Games = (props) => {
             </a>
           </div>
           <div className="games-card-content06">
-            <h3 className="games-text15 BigCard-Heading">
+            <h3 className="games-text015 BigCard-Heading">
               Mario and Luigi: PIT
             </h3>
-            <span className="games-text16">
+            <span className="games-text016">
               Mario and Luigi: Partners In Time, all in it&apos;s laggy glory!
             </span>
             <a
@@ -135,8 +135,8 @@ const Games = (props) => {
             </a>
           </div>
           <div className="games-card-content07">
-            <h3 className="games-text17 BigCard-Heading">Basketball Random</h3>
-            <span className="games-text18">
+            <h3 className="games-text017 BigCard-Heading">Basketball Random</h3>
+            <span className="games-text018">
               two players, one device, play to 5 points, now with randomness!
             </span>
             <a
@@ -149,8 +149,8 @@ const Games = (props) => {
             </a>
           </div>
           <div className="games-card-content08">
-            <h3 className="games-text19 BigCard-Heading">Justfall.lol</h3>
-            <span className="games-text20">
+            <h3 className="games-text019 BigCard-Heading">Justfall.lol</h3>
+            <span className="games-text020">
               fall guys, but laggy and worse? hop in with a friend, and just
               fall!
             </span>
@@ -161,14 +161,14 @@ const Games = (props) => {
               className="games-link08 button"
             >
               <span>
-                <span className="games-text22">penguin gaming!</span>
+                <span className="games-text022">penguin gaming!</span>
                 <br></br>
               </span>
             </a>
           </div>
           <div className="games-card-content09">
-            <h3 className="games-text24 BigCard-Heading">subway surfers</h3>
-            <span className="games-text25">
+            <h3 className="games-text024 BigCard-Heading">subway surfers</h3>
+            <span className="games-text025">
               dodge the Inspector, hoverboard it out, and run, run, and run in
               subway surfers!
             </span>
@@ -185,8 +185,8 @@ const Games = (props) => {
             </a>
           </div>
           <div className="games-card-content10">
-            <h3 className="games-text29 BigCard-Heading">geometry dash!</h3>
-            <span className="games-text30">
+            <h3 className="games-text029 BigCard-Heading">geometry dash!</h3>
+            <span className="games-text030">
               get jumping, dodge the spikes, and don&apos;t get mad in geometry
               dash!
             </span>
@@ -206,8 +206,8 @@ const Games = (props) => {
         <div className="games-container1">
           <div className="games-service-card1">
             <div className="games-card-content11">
-              <h3 className="games-text34 BigCard-Heading">Doodle Jump.</h3>
-              <span className="games-text35 Card-Text">
+              <h3 className="games-text034 BigCard-Heading">Doodle Jump.</h3>
+              <span className="games-text035 Card-Text">
                 jump as high as you can! can you beat 15000 score? good luck!
               </span>
               <a
@@ -220,8 +220,8 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content12">
-              <h3 className="games-text36 BigCard-Heading">Doom!</h3>
-              <span className="games-text37 Card-Text">
+              <h3 className="games-text036 BigCard-Heading">Doom!</h3>
+              <span className="games-text037 Card-Text">
                 get knee deep in hell, slaughter to victory! press any key to
                 start. 
               </span>
@@ -235,8 +235,8 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content13">
-              <h3 className="games-text38 BigCard-Heading">minecraft.</h3>
-              <span className="games-text39">
+              <h3 className="games-text038 BigCard-Heading">minecraft.</h3>
+              <span className="games-text039">
                 <span>
                   minecraft 1.5.2, with multiplayer and voice chat! pick
                   multiplayer and join with a friend! press escape in-game and
@@ -254,10 +254,10 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content14">
-              <h3 className="games-text42 BigCard-Heading">
+              <h3 className="games-text042 BigCard-Heading">
                 friday night funkin&apos;
               </h3>
-              <span className="games-text43">
+              <span className="games-text043">
                 <span>friday night funkin, have fun!</span>
                 <br></br>
               </span>
@@ -271,8 +271,8 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content15">
-              <h3 className="games-text46 BigCard-Heading">1v1.lol</h3>
-              <span className="games-text47">
+              <h3 className="games-text046 BigCard-Heading">1v1.lol</h3>
+              <span className="games-text047">
                 <span>
                   play with friends, and duel players around the world using
                   this!
@@ -289,8 +289,8 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content16">
-              <h3 className="games-text50 BigCard-Heading">run 3</h3>
-              <span className="games-text51">
+              <h3 className="games-text050 BigCard-Heading">run 3</h3>
+              <span className="games-text051">
                 <span>
                   thanks bert for the idea! nostalgia trip and get all the dots!
                 </span>
@@ -306,8 +306,8 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content17">
-              <h3 className="games-text54 BigCard-Heading">pixel combat 2</h3>
-              <span className="games-text55">
+              <h3 className="games-text054 BigCard-Heading">pixel combat 2</h3>
+              <span className="games-text055">
                 <span>
                   kudos to bert for the suggestion. Pixel combat 2, now with
                   multiplayer!
@@ -327,8 +327,8 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content18">
-              <h3 className="games-text61 BigCard-Heading">tunnel rush!</h3>
-              <span className="games-text62">
+              <h3 className="games-text061 BigCard-Heading">tunnel rush!</h3>
+              <span className="games-text062">
                 <span>
                   dean gave me this idea. how long can you go, i was 7937m! it
                   will be blank, then it will load.
@@ -348,10 +348,10 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content19">
-              <h3 className="games-text68 BigCard-Heading">
+              <h3 className="games-text068 BigCard-Heading">
                 Fireboy And Watergirl
               </h3>
-              <span className="games-text69">
+              <span className="games-text069">
                 <span>
                   A 2 player classic, fireboy and water girl, get gems, dodge
                   the opposites, and sabotage your friends!
@@ -371,8 +371,8 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content20">
-              <h3 className="games-text75 BigCard-Heading">Iron snout.</h3>
-              <span className="games-text76">
+              <h3 className="games-text075 BigCard-Heading">Iron snout.</h3>
+              <span className="games-text076">
                 <span>
                   last as long as you can, i got 21 dead on 1hp mode, can you
                   top that?
@@ -392,8 +392,8 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content21">
-              <h3 className="games-text82 BigCard-Heading">flappy bird.</h3>
-              <span className="games-text83">
+              <h3 className="games-text082 BigCard-Heading">flappy bird.</h3>
+              <span className="games-text083">
                 <span>flap forever! (used to be a bounty)</span>
                 <br></br>
               </span>
@@ -405,6 +405,34 @@ const Games = (props) => {
               >
                 <span>
                   <span>Tap to flap!</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
+            <div className="games-card-content22">
+              <h3 className="games-text089">
+                <span className="games-text090 BigCard-Heading">
+                  Burrito Bison
+                </span>
+                <br></br>
+                <span>Launcha Libre!</span>
+                <br></br>
+              </h3>
+              <span className="games-text094">
+                <span>
+                  The sequel to the original flash game! Smash gummies forever,
+                  with 2 new charecters!
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link22 button"
+              >
+                <span>
+                  <span>smooshing bears!</span>
                   <br></br>
                 </span>
               </a>
