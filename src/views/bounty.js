@@ -28,7 +28,10 @@ const Bounty = (props) => {
           <br></br>
           <span>reward: 25 Robux (not joking)</span>
           <br></br>
-          <span>expires in: never (for now)</span>
+          <span>
+            expires in: 9/1/2023! (claimed by @959922152600113152
+            &quot;luke&quot;)
+          </span>
           <br></br>
           <span>SEND PROOF WITH &quot;want a game?&quot; button!</span>
           <br></br>
@@ -41,14 +44,6 @@ const Bounty = (props) => {
             how do i send proof?
           </a>
           <br></br>
-        </span>
-        <iframe
-          src="https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html"
-          className="bounty-iframe"
-        ></iframe>
-        <span className="bounty-text11">
-          (once i&apos;m done i&apos;ll add this to the normal list don&apos;t
-          worry lol)
         </span>
       </div>
     </div>

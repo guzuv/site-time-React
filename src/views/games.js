@@ -197,7 +197,7 @@ const Games = (props) => {
               className="games-link10 button"
             >
               <span>
-                <span>HEY!</span>
+                <span>problem?</span>
                 <br></br>
               </span>
             </a>
@@ -387,6 +387,24 @@ const Games = (props) => {
               >
                 <span>
                   <span>making bacon!</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
+            <div className="games-card-content21">
+              <h3 className="games-text82 BigCard-Heading">flappy bird.</h3>
+              <span className="games-text83">
+                <span>flap forever! (used to be a bounty)</span>
+                <br></br>
+              </span>
+              <a
+                href="https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link21 button"
+              >
+                <span>
+                  <span>Tap to flap!</span>
                   <br></br>
                 </span>
               </a>
