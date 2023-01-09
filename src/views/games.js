@@ -341,7 +341,7 @@ const Games = (props) => {
                 rel="noreferrer noopener"
                 className="games-link18 button"
               >
-                <span>
+                <span className="games-text065">
                   <span>breakneck speeds!</span>
                   <br></br>
                 </span>
@@ -364,7 +364,7 @@ const Games = (props) => {
                 rel="noreferrer noopener"
                 className="games-link19 button"
               >
-                <span>
+                <span className="games-text072">
                   <span>Opposites Attract!</span>
                   <br></br>
                 </span>
@@ -385,7 +385,7 @@ const Games = (props) => {
                 rel="noreferrer noopener"
                 className="games-link20 button"
               >
-                <span>
+                <span className="games-text079">
                   <span>making bacon!</span>
                   <br></br>
                 </span>
@@ -403,7 +403,7 @@ const Games = (props) => {
                 rel="noreferrer noopener"
                 className="games-link21 button"
               >
-                <span>
+                <span className="games-text086">
                   <span>Tap to flap!</span>
                   <br></br>
                 </span>
@@ -431,7 +431,7 @@ const Games = (props) => {
                 rel="noreferrer noopener"
                 className="games-link22 button"
               >
-                <span>
+                <span className="games-text097">
                   <span>smooshing bears!</span>
                   <br></br>
                 </span>
