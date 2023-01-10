@@ -426,7 +426,7 @@ const Games = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html"
+                href="https://tybsi.com/games/burrito-bison-launcha-libre/index.html"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="games-link22 button"
