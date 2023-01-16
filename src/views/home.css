@@ -913,19 +913,16 @@
     width: 44%;
     height: 50%;
     align-self: stretch;
-    padding-bottom: var(--dl-space-space-unit);
   }
   .home-testimonial-card1 {
     width: 44%;
     height: 50%;
-    margin-bottom: var(--dl-space-space-halfunit);
   }
   .home-testimonial-card2 {
     width: 44%;
     height: 50%;
     padding-left: var(--dl-space-space-doubleunit);
     padding-right: var(--dl-space-space-doubleunit);
-    padding-bottom: var(--dl-space-space-doubleunit);
   }
   .home-content-container {
     height: auto;

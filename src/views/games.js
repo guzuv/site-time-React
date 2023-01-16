@@ -486,6 +486,32 @@ const Games = (props) => {
                 </span>
               </a>
             </div>
+            <div className="games-card-content25">
+              <h3 className="games-text112">
+                <span className="games-text113 BigCard-Heading">
+                  Baldi&apos;s Basics
+                </span>
+                <br></br>
+              </h3>
+              <span className="games-text115">
+                <span>
+                  snag notebooks, get sweep sweep sweeped, and escape in
+                  baldi&apos;s basics!
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://grandcanyonshuttles.com/uploads/5/5/6/7/5567194/custom_themes/666344820848380631/baldi.html"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link26 button"
+              >
+                <span className="games-text118">
+                  <span>slapping the ruler!</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
           </div>
         </div>
       </div>
