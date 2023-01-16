@@ -29,11 +29,11 @@ const Home = (props) => {
             <br></br>
             <span>Patch notes:</span>
             <br></br>
-            <span>-fixed old minecraft</span>
+            <span>-added a game</span>
             <br></br>
-            <span>-fixed bounty format</span>
+            <span>-another game?!</span>
             <br></br>
-            <span>-fixed featured people format</span>
+            <span>-back to normal?</span>
             <br></br>
           </span>
           <a href="#actual-games" className="home-cta-btn button">
@@ -45,7 +45,7 @@ const Home = (props) => {
         </div>
         <img
           alt="image"
-          src="https://thumbs.gfycat.com/GraveAgonizingArmednylonshrimp-size_restricted.gif"
+          src="/playground_assets/catpic.png"
           className="home-image"
         />
       </div>
