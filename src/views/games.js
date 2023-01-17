@@ -557,7 +557,7 @@ const Games = (props) => {
               </h3>
               <span className="games-text132">
                 <span>
-                  scratch version of fnaf, chromebooks can;&apos;t handle the
+                  scratch version of fnaf, chromebooks can&apos;t handle the
                   real one.
                   <span
                     dangerouslySetInnerHTML={{
