@@ -550,6 +550,35 @@ const Games = (props) => {
                 </span>
               </a>
             </div>
+            <div className="games-card-content27">
+              <h3 className="games-text129">
+                <span className="games-text130 BigCard-Heading">fnaf!</span>
+                <br></br>
+              </h3>
+              <span className="games-text132">
+                <span>
+                  scratch version of fnaf, chromebooks can;&apos;t handle the
+                  real one.
+                  <span
+                    dangerouslySetInnerHTML={{
+                      __html: ' ',
+                    }}
+                  />
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://scratch.mit.edu/projects/116923140/fullscreen/"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link29 button"
+              >
+                <span className="games-text135">
+                  <span>har, har, har har har-</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
           </div>
         </div>
       </div>
