@@ -33,7 +33,7 @@ const Home = (props) => {
             <br></br>
             <span>-newer game!</span>
             <br></br>
-            <span>-new bounty!</span>
+            <span className="home-text10">-new bounty!</span>
             <br></br>
           </span>
           <a href="#actual-games" className="home-cta-btn button">

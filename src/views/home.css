@@ -36,6 +36,10 @@
   color: var(--dl-color-gray-500);
   margin-bottom: var(--dl-space-space-tripleunit);
 }
+.home-text10 {
+  font-style: normal;
+  font-weight: 700;
+}
 .home-cta-btn {
   color: var(--dl-color-gray-white);
   align-self: stretch;
