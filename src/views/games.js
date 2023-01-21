@@ -562,7 +562,7 @@ const Games = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://grandcanyonshuttles.com/uploads/5/5/6/7/5567194/custom_themes/666344820848380631/baldi.html"
+                href="https://guzuvy.github.io/BB/"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="games-link29 button"
