@@ -9,7 +9,7 @@
 }
 .bounty-card-content {
   width: auto;
-  height: var(--dl-size-size-maxcontent);
+  height: auto;
   margin: var(--dl-space-space-fiveunits);
   display: flex;
   padding: var(--dl-space-space-fiveunits);
@@ -28,7 +28,38 @@
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
+.bounty-text05 {
+  color: #0fff00;
+}
 .bounty-link {
+  text-decoration: underline;
+}
+.bounty-text12 {
+  font-style: normal;
+  font-weight: 700;
+}
+.bounty-card-content1 {
+  width: auto;
+  height: auto;
+  margin: var(--dl-space-space-fiveunits);
+  display: flex;
+  padding: var(--dl-space-space-fiveunits);
+  max-width: auto;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.bounty-text14 {
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.bounty-text15 {
+  color: var(--dl-color-primary-700);
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.bounty-link1 {
   text-decoration: underline;
 }
 @media(max-width: 1200px) {
@@ -48,15 +79,37 @@
   .bounty-link {
     text-decoration: underline;
   }
+  .bounty-card-content1 {
+    width: 100%;
+    max-width: 100%;
+  }
+  .bounty-text15 {
+    color: var(--dl-color-primary-700);
+  }
+  .bounty-text16 {
+    font-size: 16px;
+  }
+  .bounty-link1 {
+    text-decoration: underline;
+  }
 }
 @media(max-width: 991px) {
   .bounty-card-content {
     width: 100%;
     max-width: auto;
   }
+  .bounty-card-content1 {
+    width: 100%;
+    max-width: auto;
+  }
 }
 @media(max-width: 767px) {
   .bounty-card-content {
+    width: var(--dl-size-size-maxcontent);
+    max-width: auto;
+    margin-bottom: 0px;
+  }
+  .bounty-card-content1 {
     width: var(--dl-size-size-maxcontent);
     max-width: auto;
     margin-bottom: 0px;
