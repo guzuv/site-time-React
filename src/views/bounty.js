@@ -36,10 +36,7 @@ const Bounty = (props) => {
           </span>
           <span className="bounty-text05">30 Robux</span>
           <br></br>
-          <span>
-            expires in: 9/1/2023! (claimed by @959922152600113152
-            &quot;luke&quot;)
-          </span>
+          <span>expires in: 2/21/2023</span>
           <br></br>
           <span>SEND PROOF WITH &quot;want a game?&quot; button!</span>
           <br></br>
