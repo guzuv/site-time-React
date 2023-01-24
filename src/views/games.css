@@ -13,7 +13,6 @@
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  padding-top: var(--dl-space-space-tenunits);
   flex-direction: row;
   justify-content: space-between;
 }
@@ -1021,9 +1020,12 @@
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
   background-color: transparent;
-  background-image: linear-gradient(45deg, rgb(254, 233, 94) 2.00%,rgb(85, 0, 59) 100.00%,rgb(255, 228, 0) 98.00%);
+  background-image: linear-gradient(45deg, rgb(0, 240, 225) 0.00%,rgb(85, 0, 59) 100.00%);
 }
 @media(max-width: 1200px) {
+  .games-services {
+    padding-top: 0px;
+  }
   .games-text020 {
     color: var(--dl-color-primary-700);
   }
@@ -1126,6 +1128,7 @@
   }
   .games-link22 {
     color: var(--dl-color-gray-white);
+    width: 80%;
     font-size: 18px;
     font-style: normal;
     font-family: Roboto;
@@ -1289,7 +1292,7 @@
     text-transform: capitalize;
     text-decoration: none;
     background-color: #D9D9D9;
-    background-image: linear-gradient(45deg, rgb(254, 233, 94) 2.00%,rgb(85, 0, 59) 100.00%,rgb(255, 228, 0) 98.00%);
+    background-image: linear-gradient(45deg, rgb(0, 240, 225) 0.00%,rgb(85, 0, 59) 100.00%);
   }
 }
 @media(max-width: 991px) {
@@ -1808,7 +1811,7 @@
     text-transform: capitalize;
     text-decoration: none;
     background-color: #5a1818;
-    background-image: linear-gradient(45deg, rgb(254, 233, 94) 2.00%,rgb(85, 0, 59) 100.00%,rgb(255, 228, 0) 98.00%);
+    background-image: linear-gradient(45deg, rgb(0, 240, 225) 0.00%,rgb(85, 0, 59) 100.00%);
   }
   .games-text151 {
     width: 100%;
@@ -2480,6 +2483,7 @@
     height: auto;
     max-width: auto;
     min-height: auto;
+    background-image: linear-gradient(45deg, rgb(0, 240, 225) 0.00%,rgb(85, 0, 59) 100.00%);
   }
 }
 @media(max-width: 479px) {
