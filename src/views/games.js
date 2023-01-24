@@ -602,6 +602,32 @@ const Games = (props) => {
                 </span>
               </a>
             </div>
+            <div className="games-card-content29">
+              <h3 className="games-text145">
+                <span className="BigCard-Heading">
+                  duck life: treasure hunt.
+                </span>
+                <br></br>
+              </h3>
+              <span className="games-text148">
+                <span>
+                  get a duck, make &apos;em look snazzy, and run as long as you
+                  can!
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://j2r6nosg50sta52p9ppesrspfd8r25hm-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%252Fduck-life-5.xml&amp;container=enterprise&amp;view=default&amp;lang=en&amp;country=ALL&amp;sanitize=0&amp;v=12887d5abec0fe6f&amp;libs=core&amp;mid=18&amp;parent=https://sites.google.com/site/unblockedgames66ez/duck-life-treasure-hunt#st=e%3DAIHE3cD8aaGDzs8D1e3ag5UuIHpZly%252FKvq8pj4bYw4lVMXm%252FbE2ZvMvHHPb2iRAaHEHpi0ycyoGXmW1YgAK5wdJJZEsqqOGK5jURUNJsuZHkcN%252BzWjCpjwfLCycyl4LWz3n4HX7RHMGN%26c%3Denterprise&amp;rpctoken=6717156308024130676"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link31 button"
+              >
+                <span className="games-text151">
+                  <span>run, run, and run!</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
           </div>
         </div>
       </div>

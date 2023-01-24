@@ -18,12 +18,12 @@ const App = () => {
       <div>
         <Route component={October2022} exact path="/oct22" />
         <Route component={Archive} exact path="/archive" />
-        <Route component={January2023} exact path="/january2023" />
-        <Route component={December2022} exact path="/december2022" />
+        <Route component={January2023} exact path="/jan23" />
+        <Route component={December2022} exact path="/dec22" />
         <Route component={Bounty} exact path="/bounty" />
         <Route component={Games} exact path="/games" />
         <Route component={Home} exact path="/" />
-        <Route component={November2022} exact path="/november2022" />
+        <Route component={November2022} exact path="/nov22" />
       </div>
     </Router>
   )
