@@ -45,12 +45,12 @@ const Home = (props) => {
               </span>
             </a>
           </div>
+          <img
+            alt="image"
+            src="/playground_assets/catpic.png"
+            className="home-image"
+          />
         </div>
-        <img
-          alt="image"
-          src="/playground_assets/catpic.png"
-          className="home-image"
-        />
       </div>
       <div className="home-section-separator"></div>
       <div id="features" className="home-features">
