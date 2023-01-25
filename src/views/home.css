@@ -318,6 +318,10 @@
   align-items: flex-start;
   justify-content: center;
 }
+.home-div {
+  width: 100%;
+  align-self: center;
+}
 .home-card-content {
   margin: var(--dl-space-space-fiveunits);
   display: flex;
@@ -797,16 +801,14 @@
     justify-content: flex-end;
   }
   .home-hero-text-container {
-    flex: 1;
-    width: auto;
-    align-self: center;
-    margin-right: 50px;
+    margin-right: 66px;
   }
   .home-text {
     color: var(--dl-color-gray-500);
   }
   .home-image {
     width: 50%;
+    height: 50%;
     align-self: center;
     border-color: var(--dl-color-gray-black);
     border-width: 1px;
