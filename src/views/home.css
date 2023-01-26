@@ -801,14 +801,15 @@
     justify-content: flex-end;
   }
   .home-hero-text-container {
-    margin-right: 66px;
+    flex: 1;
+    width: auto;
+    align-self: center;
   }
   .home-text {
     color: var(--dl-color-gray-500);
   }
   .home-image {
     width: 50%;
-    height: 50%;
     align-self: center;
     border-color: var(--dl-color-gray-black);
     border-width: 1px;
