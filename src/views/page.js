@@ -20,12 +20,12 @@ const Page = (props) => {
         />
       </Helmet>
       <span className="page-text">go back?</span>
-      <button className="page-button button">
+      <a href="https://guzuv.github.io" className="page-link button">
         <span>
           <span>ok</span>
           <br></br>
         </span>
-      </button>
+      </a>
     </div>
   )
 }

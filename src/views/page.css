@@ -11,7 +11,8 @@
 .page-text {
   color: var(--dl-color-gray-white);
 }
-.page-button {
+.page-link {
   border-width: 0px;
   border-radius: 34px;
+  text-decoration: none;
 }
