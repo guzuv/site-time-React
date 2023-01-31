@@ -11,6 +11,7 @@ import Bounty from './views/bounty'
 import Games from './views/games'
 import Home from './views/home'
 import November2022 from './views/november2022'
+import Page from './views/page'
 
 const App = () => {
   return (
@@ -24,6 +25,7 @@ const App = () => {
         <Route component={Games} exact path="/games" />
         <Route component={Home} exact path="/" />
         <Route component={November2022} exact path="/nov22" />
+        <Route component={Page} path="**" />
       </div>
     </Router>
   )

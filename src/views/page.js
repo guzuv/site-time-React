@@ -19,27 +19,13 @@ const Page = (props) => {
           content="hey, we got games and fun here at guzuv.ml!"
         />
       </Helmet>
-      <form
-        action="https://formsubmit.co/harryserah@gmail.com"
-        method="POST"
-        enctype="application/x-www-form-urlencoded"
-        className="page-form"
-      >
-        <span className="page-text">
-          words are cool and send me this please
+      <span className="page-text">go back?</span>
+      <button className="page-button button">
+        <span>
+          <span>ok</span>
+          <br></br>
         </span>
-        <input
-          type="text"
-          name="fan@gmail.com"
-          disabled="email"
-          required
-          placeholder="your email"
-          className="input"
-        />
-        <button type="submit" className="button">
-          Button
-        </button>
-      </form>
+      </button>
     </div>
   )
 }

@@ -8,10 +8,10 @@
   justify-content: center;
   background-color: #000000;
 }
-.page-form {
-  width: 200px;
-  height: 100px;
-}
 .page-text {
-  color: rgb(255, 255, 255);
+  color: var(--dl-color-gray-white);
+}
+.page-button {
+  border-width: 0px;
+  border-radius: 34px;
 }
