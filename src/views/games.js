@@ -161,7 +161,7 @@ const Games = (props) => {
               className="games-link08 button"
             >
               <span>
-                <span className="games-text022">penguin gaming!</span>
+                <span>penguin gaming!</span>
                 <br></br>
               </span>
             </a>
@@ -451,7 +451,7 @@ const Games = (props) => {
                 rel="noreferrer noopener"
                 className="games-link24 button"
               >
-                <span className="games-text092">
+                <span>
                   <span>breakneck speeds!</span>
                   <br></br>
                 </span>
@@ -474,7 +474,7 @@ const Games = (props) => {
                 rel="noreferrer noopener"
                 className="games-link25 button"
               >
-                <span className="games-text099">
+                <span>
                   <span>Opposites Attract!</span>
                   <br></br>
                 </span>
@@ -495,7 +495,7 @@ const Games = (props) => {
                 rel="noreferrer noopener"
                 className="games-link26 button"
               >
-                <span className="games-text106">
+                <span>
                   <span>making bacon!</span>
                   <br></br>
                 </span>
@@ -513,7 +513,7 @@ const Games = (props) => {
                 rel="noreferrer noopener"
                 className="games-link27 button"
               >
-                <span className="games-text113">
+                <span>
                   <span>Tap to flap!</span>
                   <br></br>
                 </span>
@@ -541,7 +541,7 @@ const Games = (props) => {
                 rel="noreferrer noopener"
                 className="games-link28 button"
               >
-                <span className="games-text124">
+                <span>
                   <span>smooshing bears!</span>
                   <br></br>
                 </span>
@@ -567,7 +567,7 @@ const Games = (props) => {
                 rel="noreferrer noopener"
                 className="games-link29 button"
               >
-                <span className="games-text133">
+                <span>
                   <span>slapping the ruler!</span>
                   <br></br>
                 </span>
@@ -596,7 +596,7 @@ const Games = (props) => {
                 rel="noreferrer noopener"
                 className="games-link30 button"
               >
-                <span className="games-text142">
+                <span>
                   <span>har, har, har har har-</span>
                   <br></br>
                 </span>
@@ -622,7 +622,7 @@ const Games = (props) => {
                 rel="noreferrer noopener"
                 className="games-link31 button"
               >
-                <span className="games-text151">
+                <span>
                   <span>run, run, and run!</span>
                   <br></br>
                 </span>

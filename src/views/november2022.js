@@ -24,7 +24,6 @@ const November2022 = (props) => {
           <img
             alt="cross"
             src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbestanimations.com%2FSigns%26Shapes%2FWorship%2FChristian%2Fcross-animated-gif-29.gif&amp;f=1&amp;nofb=1&amp;ipt=4b26f7f921ce9a0068d158f4275040b882126fbdb75cf7f29231599ff145006d&amp;ipo=images"
-            className="november2022-pasted-image"
           />
         </div>
         <span className="november2022-text">

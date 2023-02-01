@@ -93,25 +93,3 @@
     text-decoration: underline;
   }
 }
-@media(max-width: 991px) {
-  .bounty-card-content {
-    width: 100%;
-    max-width: auto;
-  }
-  .bounty-card-content1 {
-    width: 100%;
-    max-width: auto;
-  }
-}
-@media(max-width: 767px) {
-  .bounty-card-content {
-    width: var(--dl-size-size-maxcontent);
-    max-width: auto;
-    margin-bottom: 0px;
-  }
-  .bounty-card-content1 {
-    width: var(--dl-size-size-maxcontent);
-    max-width: auto;
-    margin-bottom: 0px;
-  }
-}

@@ -25,19 +25,21 @@ const Home = (props) => {
         <div className="home-container01">
           <div className="home-hero-text-container">
             <h1 className="home-heading">welcome to guzuv&apos;s site!</h1>
-            <span className="home-text">
-              <span>“epic quote here”</span>
-              <br></br>
-              <br></br>
-              <span>Patch notes:</span>
-              <br></br>
-              <span>-game, again!</span>
-              <br></br>
-              <span>-bounty still not claimed!</span>
-              <br></br>
-              <span>-new tweet!</span>
-              <br></br>
-            </span>
+            <div className="home-container02">
+              <span className="home-text">
+                <span>“epic quote here”</span>
+                <br></br>
+                <br></br>
+                <span>Patch notes:</span>
+                <br></br>
+                <span>-game, again!</span>
+                <br></br>
+                <span>-bounty still unclaimed!</span>
+                <br></br>
+                <span>-new tweet!</span>
+                <br></br>
+              </span>
+            </div>
             <a href="#actual-games" className="home-cta-btn button">
               <span>
                 <span className="Anchor">get gaming!</span>
@@ -45,12 +47,12 @@ const Home = (props) => {
               </span>
             </a>
           </div>
-          <img
-            alt="image"
-            src="/playground_assets/catpic.png"
-            className="home-image"
-          />
         </div>
+        <img
+          alt="image"
+          src="/playground_assets/catpic.png"
+          className="home-image"
+        />
       </div>
       <div className="home-section-separator"></div>
       <div id="features" className="home-features">
@@ -122,15 +124,15 @@ const Home = (props) => {
           guzuv guzuv guzuv guzuv guzuv guzuv guzuv games games unblocked
         </span>
       </span>
-      <div className="home-container02"></div>
+      <div className="home-container03"></div>
       <div className="home-section-separator1"></div>
       <div className="home-blog-post-card">
-        <div id="blog" className="home-container03">
-          <div className="home-container04">
+        <div id="blog" className="home-container04">
+          <div className="home-container05">
             <span className="home-text28"> </span>
           </div>
-          <div className="home-container05">
-            <div className="home-container06">
+          <div className="home-container06">
+            <div className="home-container07">
               <h1 className="home-text29">new year! </h1>
             </div>
             <img
@@ -148,7 +150,7 @@ const Home = (props) => {
             them. feel free to use the &quot;want a game?&quot; for just saying
             hello! More games are coming, and more bounties too! 
           </span>
-          <div className="home-container07">
+          <div className="home-container08">
             <div className="home-profile">
               <img
                 alt="profile"
@@ -163,14 +165,14 @@ const Home = (props) => {
           </div>
         </div>
       </div>
-      <div className="home-container08"></div>
-      <div className="home-container09">
-        <div id="actual-games" className="home-container10">
-          <div className="home-div">
-            <DangerousHTML
-              html={`<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">is it just me, or does liking a healthy food make it feel less healthy?</p>&mdash; Guzuv (@Guzuvy) <a href="https://twitter.com/Guzuvy/status/1618241493155840000?ref_src=twsrc%5Etfw">January 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`}
-            ></DangerousHTML>
-          </div>
+      <div className="home-container09"></div>
+      <div className="home-container10">
+        <div className="home-div">
+          <DangerousHTML
+            html={`<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">is it just me, or does liking a healthy food make it feel less healthy?</p>&mdash; Guzuv (@Guzuvy) <a href="https://twitter.com/Guzuvy/status/1618241493155840000?ref_src=twsrc%5Etfw">January 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`}
+          ></DangerousHTML>
+        </div>
+        <div id="actual-games" className="home-container11">
           <div className="home-card-content">
             <h3 className="home-text33 BigCard-Heading">hey!</h3>
             <span className="home-text34">
@@ -182,19 +184,19 @@ const Home = (props) => {
               <br></br>
             </span>
             <Link to="/games" className="home-navlink1">
-              <div className="home-container11">
+              <div className="home-container12">
                 <span className="home-text38">click here!</span>
               </div>
             </Link>
             <Link to="/bounty" className="home-navlink2">
-              <div className="home-container12">
+              <div className="home-container13">
                 <span className="home-text39">new bounty!</span>
               </div>
             </Link>
           </div>
         </div>
       </div>
-      <div className="home-container13"></div>
+      <div className="home-container14"></div>
       <div className="home-testimonials">
         <h2 className="home-text40">peeps i feature.</h2>
         <div className="home-cards-container1">
@@ -357,7 +359,7 @@ const Home = (props) => {
           </div>
         </div>
       </div>
-      <div className="home-container14"></div>
+      <div className="home-container15"></div>
       <div id="contact" className="home-content-container">
         <h2 className="home-text46 Section-Heading">Contact me!</h2>
         <div className="home-locations-container">
