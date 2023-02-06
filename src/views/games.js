@@ -629,6 +629,323 @@ const Games = (props) => {
               </a>
             </div>
           </div>
+          <div className="games-service-card2">
+            <div className="games-card-content30">
+              <h3 className="games-text154 BigCard-Heading">Doodle Jump.</h3>
+              <span className="games-text155 Card-Text">
+                jump as high as you can! can you beat 15000 score? good luck!
+              </span>
+              <a
+                href="https://omackenzie.github.io/Doodle-Jump-in-JS/"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link32 button Anchor"
+              >
+                Get Jumping!
+              </a>
+            </div>
+            <div className="games-card-content31">
+              <h3 className="games-text156 BigCard-Heading">Doom!</h3>
+              <span className="games-text157 Card-Text">
+                get knee deep in hell, slaughter to victory! press any key to
+                start. 
+              </span>
+              <a
+                href="https://floooh.github.io/doom-sokol/"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link33 button Anchor"
+              >
+                Rip and Tear!
+              </a>
+            </div>
+            <div id="old-craft" className="games-card-content32">
+              <h3 className="games-text158 BigCard-Heading">
+                (older) minecraft.
+              </h3>
+              <span className="games-text159">
+                <span>
+                  minecraft 1.5.2, with multiplayer and voice chat! pick
+                  multiplayer and join with a friend! press escape in-game and
+                  pick nearby to enable voice chat! error fix may come soon!
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://guzuv.github.io/minecraft"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link34 Anchor button"
+              >
+                get mining!
+              </a>
+            </div>
+            <div className="games-card-content33">
+              <h3 className="games-text162 BigCard-Heading">
+                friday night funkin&apos;
+              </h3>
+              <span className="games-text163">
+                <span>friday night funkin, have fun!</span>
+                <br></br>
+              </span>
+              <a
+                href="https://funkin.guzuv.repl.co"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link35 button"
+              >
+                funkin time!
+              </a>
+            </div>
+            <div className="games-card-content34">
+              <h3 className="games-text166 BigCard-Heading">1v1.lol</h3>
+              <span className="games-text167">
+                <span>
+                  play with friends, and duel players around the world in
+                  1v1.lol!
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://1v1lol.56306.repl.co/"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link36 button"
+              >
+                fortnite?
+              </a>
+            </div>
+            <div className="games-card-content35">
+              <h3 className="games-text170 BigCard-Heading">run 3</h3>
+              <span className="games-text171">
+                <span>
+                  thanks bert for the idea! nostalgia trip and get all the dots!
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://lekug.github.io/tn6pS9dCf37xAhkJv/"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link37 button"
+              >
+                skater too cool.
+              </a>
+            </div>
+            <div className="games-card-content36">
+              <h3 className="games-text174 BigCard-Heading">pixel combat 2</h3>
+              <span className="games-text175">
+                <span>
+                  kudos to bert for the suggestion. Pixel combat 2, now with
+                  multiplayer!
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://debbiewatermanphd.com/uploads/5/0/5/6/5056555/custom_themes/607463927942590340/pixel-combat2.html"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link38 button"
+              >
+                <span>
+                  <span>terrorist or not?</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
+            <div className="games-card-content37">
+              <h3 className="games-text181 BigCard-Heading">tunnel rush!</h3>
+              <span className="games-text182">
+                <span>
+                  dean gave me this idea. how long can you go, i was 7937m! it
+                  will be blank, then it will load.
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://guzuv.github.io/tunnelrushing/"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link39 button"
+              >
+                <span>
+                  <span>breakneck speeds!</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
+            <div className="games-card-content38">
+              <h3 className="games-text188 BigCard-Heading">
+                Fireboy And Watergirl
+              </h3>
+              <span className="games-text189">
+                <span>
+                  A 2 player classic, fireboy and water girl, get gems, dodge
+                  the opposites, and sabotage your friends!
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://3kh0githubio-replit.harryjulies.repl.co/projects/fireboywatergirlforesttemple/index.html"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link40 button"
+              >
+                <span>
+                  <span>Opposites Attract!</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
+            <div className="games-card-content39">
+              <h3 className="games-text195 BigCard-Heading">Iron snout.</h3>
+              <span className="games-text196">
+                <span>
+                  last as long as you can, i got 21 dead on 1hp mode, can you
+                  top that?
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://s3.eu-central-1.amazonaws.com/snoutupgames/ironsnout/index.html"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link41 button"
+              >
+                <span>
+                  <span>making bacon!</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
+            <div className="games-card-content40">
+              <h3 className="games-text202 BigCard-Heading">flappy bird.</h3>
+              <span className="games-text203">
+                <span>flap forever! (used to be a bounty)</span>
+                <br></br>
+              </span>
+              <a
+                href="https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link42 button"
+              >
+                <span>
+                  <span>Tap to flap!</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
+            <div className="games-card-content41">
+              <h3 className="games-text209">
+                <span className="games-text210 BigCard-Heading">
+                  Burrito Bison
+                </span>
+                <br></br>
+                <span>Launcha Libre!</span>
+                <br></br>
+              </h3>
+              <span className="games-text214">
+                <span>
+                  The sequel to the original flash game! Smash gummies forever,
+                  with 2 new charecters!
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://tybsi.com/games/burrito-bison-launcha-libre/index.html"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link43 button"
+              >
+                <span>
+                  <span>smooshing bears!</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
+            <div className="games-card-content42">
+              <h3 className="games-text220">
+                <span className="games-text221 BigCard-Heading">
+                  Baldi&apos;s Basics
+                </span>
+                <br></br>
+              </h3>
+              <span className="games-text223">
+                <span>
+                  snag notebooks, get sweep sweep sweeped, and escape in
+                  baldi&apos;s basics!
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://guzuvy.github.io/BB/"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link44 button"
+              >
+                <span>
+                  <span>slapping the ruler!</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
+            <div className="games-card-content43">
+              <h3 className="games-text229">
+                <span className="games-text230 BigCard-Heading">fnaf!</span>
+                <br></br>
+              </h3>
+              <span className="games-text232">
+                <span>
+                  scratch version of fnaf, chromebooks can&apos;t handle the
+                  real one.
+                  <span
+                    dangerouslySetInnerHTML={{
+                      __html: ' ',
+                    }}
+                  />
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://scratch.mit.edu/projects/116923140/fullscreen/"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link45 button"
+              >
+                <span>
+                  <span>har, har, har har har-</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
+            <div className="games-card-content44">
+              <h3 className="games-text238">
+                <span className="BigCard-Heading">
+                  duck life: treasure hunt.
+                </span>
+                <br></br>
+              </h3>
+              <span className="games-text241">
+                <span>
+                  get a duck, make &apos;em look snazzy, and run as long as you
+                  can!
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://j2r6nosg50sta52p9ppesrspfd8r25hm-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%252Fduck-life-5.xml&amp;container=enterprise&amp;view=default&amp;lang=en&amp;country=ALL&amp;sanitize=0&amp;v=12887d5abec0fe6f&amp;libs=core&amp;mid=18&amp;parent=https://sites.google.com/site/unblockedgames66ez/duck-life-treasure-hunt#st=e%3DAIHE3cD8aaGDzs8D1e3ag5UuIHpZly%252FKvq8pj4bYw4lVMXm%252FbE2ZvMvHHPb2iRAaHEHpi0ycyoGXmW1YgAK5wdJJZEsqqOGK5jURUNJsuZHkcN%252BzWjCpjwfLCycyl4LWz3n4HX7RHMGN%26c%3Denterprise&amp;rpctoken=6717156308024130676"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link46 button"
+              >
+                <span>
+                  <span>run, run, and run!</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
+          </div>
         </div>
       </div>
     </div>

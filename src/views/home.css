@@ -923,8 +923,6 @@
   .home-hero-text-container {
     flex: initial;
     width: 50%;
-    margin-left: var(--dl-space-space-unit);
-    margin-right: var(--dl-space-space-unit);
   }
   .home-heading {
     width: auto;
