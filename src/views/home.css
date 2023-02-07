@@ -816,6 +816,17 @@
   .home-text {
     color: var(--dl-color-gray-500);
   }
+  .home-text29 {
+    color: rgb(255, 255, 255);
+  }
+  .home-text30 {
+    color: var(--dl-color-gray-500);
+    font-weight: 300;
+  }
+  .home-text31 {
+    color: var(--dl-color-gray-500);
+    font-size: 1.95rem;
+  }
 }
 @media(max-width: 1200px) {
   .home-container01 {

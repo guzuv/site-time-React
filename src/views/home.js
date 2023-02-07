@@ -133,22 +133,24 @@ const Home = (props) => {
           </div>
           <div className="home-container06">
             <div className="home-container07">
-              <h1 className="home-text29">new year! </h1>
+              <h1 className="home-text29">valentine&apos;s day! </h1>
             </div>
             <img
               alt="image"
-              src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FmJU99ZjtlQsAAAAM%2Ftbh-creature.gif&amp;f=1&amp;nofb=1&amp;ipt=6357997f4b96b4faa7b62cd234f1cf845d868843ffda79ed9e2f988d7b22de7a&amp;ipo=images"
+              src="https://gifcord.gg/direct/8f18d1b9-4b71-42ef-98c5-6f6126ab4b66-8033.gif"
               className="home-image4"
             />
           </div>
-          <span className="home-text30">January 7, 2022</span>
+          <span className="home-text30">February 7, 2023</span>
           <span className="home-text31">
-            I&apos;m so excited for the new year! I can&apos;t wait to see what
-            the next year has in store for us all. I&apos;m going to make sure
-            that I make the most of it. i&apos;m getting a pc too! I&apos;m
-            going to set some goals for this site, and work my best to achieve
-            them. feel free to use the &quot;want a game?&quot; for just saying
-            hello! More games are coming, and more bounties too! 
+            Valentine&apos;s day is coming soon! It is a very special day for
+            lovers, and also a day when many people propose marriage. On this
+            day, couples exchange gifts and express their love for each other.
+            Single people often feel left out on this day, but there are still
+            many ways to celebrate. Whether you are in a relationship or not,
+            Valentine&apos;s day is a day to celebrate love. Maybe you have a
+            dance you can go to, with someone you care about, or just spend it
+            your best buds.
           </span>
           <div className="home-container08">
             <div className="home-profile">
