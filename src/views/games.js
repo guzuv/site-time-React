@@ -488,7 +488,7 @@ const Games = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://3kh0githubio-replit.harryjulies.repl.co/projects/fireboywatergirlforesttemple/index.html"
+                href="https://guzuvy.github.io/fb-and-wg/"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="games-link25 button"
