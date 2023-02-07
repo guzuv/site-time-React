@@ -813,6 +813,9 @@
   .home-hero-text-container {
     width: auto;
   }
+  .home-text {
+    color: var(--dl-color-gray-500);
+  }
 }
 @media(max-width: 1200px) {
   .home-container01 {

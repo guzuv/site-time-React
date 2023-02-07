@@ -41,7 +41,7 @@ const Archive = (props) => {
             />
           </div>
           <div className="archive-feature-card2">
-            <Link to="/nov22" className="archive-navlink2">
+            <Link to="/dec22" className="archive-navlink2">
               <h2 className="archive-text3">December 2022</h2>
             </Link>
             <img
@@ -51,7 +51,7 @@ const Archive = (props) => {
             />
           </div>
           <div className="archive-feature-card3">
-            <Link to="/nov22" className="archive-navlink3">
+            <Link to="/jan23" className="archive-navlink3">
               <h2 className="archive-text4">january 2023</h2>
             </Link>
             <img
