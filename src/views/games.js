@@ -28,7 +28,7 @@ const Games = (props) => {
               with mobile support!
             </span>
             <a
-              href="https://guzuv.github.io/doodle-jump/"
+              href="http://denodell.github.io/frogger/"
               target="_blank"
               rel="noreferrer noopener"
               className="games-link button Anchor"
@@ -338,7 +338,7 @@ const Games = (props) => {
                 jump as high as you can! can you beat 15000 score? good luck!
               </span>
               <a
-                href="https://omackenzie.github.io/Doodle-Jump-in-JS/"
+                href="https://guzuv.github.io/doodle-jump/"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="games-link17 Anchor button"
