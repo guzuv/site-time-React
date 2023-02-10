@@ -28,7 +28,7 @@ const Games = (props) => {
               with mobile support!
             </span>
             <a
-              href="http://denodell.github.io/frogger/"
+              href="https://guzuv.github.io/doodle-jump/"
               target="_blank"
               rel="noreferrer noopener"
               className="games-link button Anchor"
