@@ -31,9 +31,9 @@ const Home = (props) => {
                 <br></br>
                 <span>Patch notes:</span>
                 <br></br>
-                <span>-fixed FB&amp;WG!</span>
+                <span>-fresh new game!</span>
                 <br></br>
-                <span>-doodle jump v2!</span>
+                <span>-bounty soon to expire!</span>
                 <br></br>
               </span>
             </div>

@@ -936,6 +936,9 @@
   .home-hero-text-container {
     margin-right: var(--dl-space-space-doubleunit);
   }
+  .home-text {
+    color: var(--dl-color-gray-500);
+  }
 }
 @media(max-width: 479px) {
   .home-hero {

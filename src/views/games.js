@@ -647,6 +647,30 @@ const Games = (props) => {
                 </span>
               </a>
             </div>
+            <div className="games-card-content31">
+              <h3 className="games-text162">
+                <span className="BigCard-Heading">cookie clicker!</span>
+                <br></br>
+              </h3>
+              <span className="games-text165">
+                <span>
+                  like cookies? click for cookies, and click for more cookies!
+                  Now with cookie time machines!
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://guzuv.github.io/cookieclicker"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link32 button"
+              >
+                <span>
+                  <span>succumb to the cookie.</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
           </div>
         </div>
       </div>
