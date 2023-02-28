@@ -332,10 +332,7 @@ const Games = (props) => {
           <div className="games-card-content16">
             <h3 className="games-text069 BigCard-Heading">dino game!</h3>
             <span className="games-text070">
-              <span>
-                jump forever, try to survive! now witb 38% more dark mode!
-              </span>
-              <br></br>
+              Jump forever, can you reach 1500? now with 38% more dark mode!
             </span>
             <a
               href="https://chrome-dino-game.github.io/"
@@ -343,8 +340,8 @@ const Games = (props) => {
               rel="noreferrer noopener"
               className="games-link17 button"
             >
-              <span className="games-text073">
-                <span>balling!</span>
+              <span className="games-text071">
+                <span>jump forever!</span>
                 <br></br>
               </span>
             </a>
@@ -353,8 +350,8 @@ const Games = (props) => {
         <div className="games-container1">
           <div className="games-service-card1">
             <div className="games-card-content17">
-              <h3 className="games-text076 BigCard-Heading">Doodle Jump.</h3>
-              <span className="games-text077 Card-Text">
+              <h3 className="games-text074 BigCard-Heading">Doodle Jump.</h3>
+              <span className="games-text075 Card-Text">
                 jump as high as you can! can you beat 15000 score? good luck!
               </span>
               <a
@@ -367,8 +364,8 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content18">
-              <h3 className="games-text078 BigCard-Heading">Doom!</h3>
-              <span className="games-text079 Card-Text">
+              <h3 className="games-text076 BigCard-Heading">Doom!</h3>
+              <span className="games-text077 Card-Text">
                 get knee deep in hell, slaughter to victory! press any key to
                 start. 
               </span>
@@ -382,10 +379,10 @@ const Games = (props) => {
               </a>
             </div>
             <div id="old-craft" className="games-card-content19">
-              <h3 className="games-text080 BigCard-Heading">
+              <h3 className="games-text078 BigCard-Heading">
                 (older) minecraft.
               </h3>
-              <span className="games-text081">
+              <span className="games-text079">
                 <span>
                   minecraft 1.5.2, with multiplayer and voice chat! pick
                   multiplayer and join with a friend! press escape in-game and
@@ -403,10 +400,10 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content20">
-              <h3 className="games-text084 BigCard-Heading">
+              <h3 className="games-text082 BigCard-Heading">
                 friday night funkin&apos;
               </h3>
-              <span className="games-text085">
+              <span className="games-text083">
                 <span>friday night funkin, have fun!</span>
                 <br></br>
               </span>
@@ -420,8 +417,8 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content21">
-              <h3 className="games-text088 BigCard-Heading">1v1.lol</h3>
-              <span className="games-text089">
+              <h3 className="games-text086 BigCard-Heading">1v1.lol</h3>
+              <span className="games-text087">
                 <span>
                   play with friends, and duel players around the world in
                   1v1.lol!
@@ -438,8 +435,8 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content22">
-              <h3 className="games-text092 BigCard-Heading">run 3</h3>
-              <span className="games-text093">
+              <h3 className="games-text090 BigCard-Heading">run 3</h3>
+              <span className="games-text091">
                 <span>
                   thanks bert for the idea! nostalgia trip and get all the dots!
                 </span>
@@ -455,8 +452,8 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content23">
-              <h3 className="games-text096 BigCard-Heading">pixel combat 2</h3>
-              <span className="games-text097">
+              <h3 className="games-text094 BigCard-Heading">pixel combat 2</h3>
+              <span className="games-text095">
                 <span>
                   kudos to bert for the suggestion. Pixel combat 2, now with
                   multiplayer!
@@ -476,8 +473,8 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content24">
-              <h3 className="games-text103 BigCard-Heading">tunnel rush!</h3>
-              <span className="games-text104">
+              <h3 className="games-text101 BigCard-Heading">tunnel rush!</h3>
+              <span className="games-text102">
                 <span>
                   dean gave me this idea. how long can you go, i was 7937m! it
                   will be blank, then it will load.
@@ -497,10 +494,10 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content25">
-              <h3 className="games-text110 BigCard-Heading">
+              <h3 className="games-text108 BigCard-Heading">
                 Fireboy And Watergirl
               </h3>
-              <span className="games-text111">
+              <span className="games-text109">
                 <span>
                   A 2 player classic, fireboy and water girl, get gems, dodge
                   the opposites, and sabotage your friends!
@@ -520,8 +517,8 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content26">
-              <h3 className="games-text117 BigCard-Heading">Iron snout.</h3>
-              <span className="games-text118">
+              <h3 className="games-text115 BigCard-Heading">Iron snout.</h3>
+              <span className="games-text116">
                 <span>
                   last as long as you can, i got 21 dead on 1hp mode, can you
                   top that?
@@ -541,8 +538,8 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content27">
-              <h3 className="games-text124 BigCard-Heading">flappy bird.</h3>
-              <span className="games-text125">
+              <h3 className="games-text122 BigCard-Heading">flappy bird.</h3>
+              <span className="games-text123">
                 <span>flap forever! (used to be a bounty)</span>
                 <br></br>
               </span>
@@ -559,15 +556,15 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content28">
-              <h3 className="games-text131">
-                <span className="games-text132 BigCard-Heading">
+              <h3 className="games-text129">
+                <span className="games-text130 BigCard-Heading">
                   Burrito Bison
                 </span>
                 <br></br>
                 <span>Launcha Libre!</span>
                 <br></br>
               </h3>
-              <span className="games-text136">
+              <span className="games-text134">
                 <span>
                   The sequel to the original flash game! Smash gummies forever,
                   with 2 new charecters!
@@ -587,13 +584,13 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content29">
-              <h3 className="games-text142">
-                <span className="games-text143 BigCard-Heading">
+              <h3 className="games-text140">
+                <span className="games-text141 BigCard-Heading">
                   Baldi&apos;s Basics
                 </span>
                 <br></br>
               </h3>
-              <span className="games-text145">
+              <span className="games-text143">
                 <span>
                   snag notebooks, get sweep sweep sweeped, and escape in
                   baldi&apos;s basics!
@@ -613,11 +610,11 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content30">
-              <h3 className="games-text151">
-                <span className="games-text152 BigCard-Heading">fnaf!</span>
+              <h3 className="games-text149">
+                <span className="games-text150 BigCard-Heading">fnaf!</span>
                 <br></br>
               </h3>
-              <span className="games-text154">
+              <span className="games-text152">
                 <span>
                   scratch version of fnaf, chromebooks can&apos;t handle the
                   real one.
@@ -642,13 +639,13 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content31">
-              <h3 className="games-text160">
+              <h3 className="games-text158">
                 <span className="BigCard-Heading">
                   duck life: treasure hunt.
                 </span>
                 <br></br>
               </h3>
-              <span className="games-text163">
+              <span className="games-text161">
                 <span>
                   get a duck, make &apos;em look snazzy, and run as long as you
                   can!
@@ -668,11 +665,11 @@ const Games = (props) => {
               </a>
             </div>
             <div className="games-card-content32">
-              <h3 className="games-text169">
+              <h3 className="games-text167">
                 <span className="BigCard-Heading">cookie clicker!</span>
                 <br></br>
               </h3>
-              <span className="games-text172">
+              <span className="games-text170">
                 <span>
                   like cookies? click for cookies, and click for more cookies!
                   Now with cookie time machines!
