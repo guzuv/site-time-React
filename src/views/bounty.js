@@ -20,7 +20,9 @@ const Bounty = (props) => {
         />
       </Helmet>
       <div className="bounty-card-content">
-        <h3 className="bounty-text BigCard-Heading">mc bounty, again!</h3>
+        <h3 className="bounty-text BigCard-Heading">
+          DOWN: attempting to fix!
+        </h3>
         <span className="bounty-text01">
           <span className="bounty-text02">
             objective: get diamond boots (have exactly 59 dirt beside it).
