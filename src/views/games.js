@@ -692,7 +692,7 @@ const Games = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://guzuvy.github.io/bozing-random/"
+                href="https://guzuvy.github.io/boxing-random/"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="games-link34 button"
