@@ -679,6 +679,30 @@ const Games = (props) => {
                 </span>
               </a>
             </div>
+            <div className="games-card-content33">
+              <h3 className="games-text175">
+                <span className="BigCard-Heading">boxing random.</span>
+                <br></br>
+              </h3>
+              <span className="games-text178">
+                <span>
+                  boxing, but random?! hit the head, play with a buddy or with a
+                  bot!
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://guzuvy.github.io/bozing-random/"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link34 button"
+              >
+                <span>
+                  <span>time to punch-out!</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
           </div>
         </div>
       </div>

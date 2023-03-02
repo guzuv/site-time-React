@@ -31,9 +31,9 @@ const Home = (props) => {
                 <br></br>
                 <span>Patch notes:</span>
                 <br></br>
-                <span>-new bounty!</span>
+                <span>-new minecraft down!</span>
                 <br></br>
-                <span>-epic game!</span>
+                <span>-new &quot;random&quot; game!</span>
                 <br></br>
               </span>
             </div>
@@ -392,10 +392,6 @@ const Home = (props) => {
           className="home-image7"
         />
       </div>
-      <img
-        alt="pastedImage"
-        src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/23b013f6-93ab-405c-8d7a-26880caac73b/9c470fd8-f06b-4caf-8788-745a7c82664b?org_if_sml=1166119"
-      />
     </div>
   )
 }
