@@ -24,15 +24,14 @@ const Dec22 = (props) => {
           <div className="dec22-container2">
             <span className="dec22-text"> </span>
           </div>
+          <h1 className="dec22-text1">merry christmas!</h1>
           <div className="dec22-container3">
-            <div className="dec22-container4">
-              <h1 className="dec22-text1">merry christmas!</h1>
-            </div>
             <img
               alt="image"
               src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fclipart-library.com%2Fimages%2F8izKRzp4T.gif&amp;f=1&amp;nofb=1&amp;ipt=67f86b766277484bf58708722b6fedef5d7d3e731f468b7a6f993f74fed42d3a&amp;ipo=images"
               className="dec22-image"
             />
+            <div className="dec22-container4"></div>
           </div>
           <span className="dec22-text2">December 20, 2022</span>
           <span className="dec22-text3">

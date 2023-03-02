@@ -27,22 +27,24 @@ const Feb23 = (props) => {
           </div>
           <div className="feb23-container3">
             <div className="feb23-container4">
-              <h1 className="feb23-text1">new year! </h1>
+              <h1 className="feb23-text1">valentine&apos;s day! </h1>
             </div>
             <img
               alt="image"
-              src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FmJU99ZjtlQsAAAAM%2Ftbh-creature.gif&amp;f=1&amp;nofb=1&amp;ipt=6357997f4b96b4faa7b62cd234f1cf845d868843ffda79ed9e2f988d7b22de7a&amp;ipo=images"
+              src="https://gifcord.gg/direct/8f18d1b9-4b71-42ef-98c5-6f6126ab4b66-8033.gif"
               className="feb23-image"
             />
           </div>
-          <span className="feb23-text2">January 7, 2022</span>
+          <span className="feb23-text2">February 7, 2023</span>
           <span className="feb23-text3">
-            I&apos;m so excited for the new year! I can&apos;t wait to see what
-            the next year has in store for us all. I&apos;m going to make sure
-            that I make the most of it. i&apos;m getting a pc too! I&apos;m
-            going to set some goals for this site, and work my best to achieve
-            them. feel free to use the &quot;want a game?&quot; for just saying
-            hello! More games are coming, and more bounties too! 
+            Valentine&apos;s day is coming soon! It is a very special day for
+            lovers, and also a day when many people propose marriage. On this
+            day, couples exchange gifts and express their love for each other.
+            Single people often feel left out on this day, but there are still
+            many ways to celebrate. Whether you are in a relationship or not,
+            Valentine&apos;s day is a day to celebrate love. Maybe you have a
+            dance you can go to, with someone you care about, or just spend it
+            your best buds.
           </span>
           <div className="feb23-container5">
             <div className="feb23-profile">

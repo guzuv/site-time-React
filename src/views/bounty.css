@@ -140,3 +140,50 @@
     text-decoration: underline;
   }
 }
+@media(max-width: 479px) {
+  .bounty-card-content {
+    width: auto;
+    height: auto;
+    max-width: auto;
+  }
+  .bounty-text {
+    width: auto;
+    height: auto;
+    max-width: auto;
+  }
+  .bounty-text01 {
+    width: auto;
+    height: auto;
+    max-width: auto;
+  }
+  .bounty-card-content1 {
+    width: auto;
+    height: auto;
+    max-width: auto;
+  }
+  .bounty-text15 {
+    width: auto;
+    height: auto;
+    max-width: auto;
+  }
+  .bounty-text16 {
+    width: auto;
+    height: auto;
+    max-width: auto;
+  }
+  .bounty-card-content2 {
+    width: auto;
+    height: auto;
+    max-width: auto;
+  }
+  .bounty-text29 {
+    width: auto;
+    height: auto;
+    max-width: auto;
+  }
+  .bounty-text30 {
+    width: auto;
+    height: auto;
+    max-width: auto;
+  }
+}
