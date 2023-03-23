@@ -718,6 +718,30 @@ const Games = (props) => {
                 </span>
               </a>
             </div>
+            <div className="games-card-content35">
+              <h3 className="games-text187">
+                <span className="BigCard-Heading">time shooters 2!</span>
+                <br></br>
+              </h3>
+              <span className="games-text190">
+                <span>
+                  SUPERHOT, but unblocked? Wowie! stand still to slow time to a
+                  crawl.
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://ldaiodgdl1b4supcg3mhrvjqsf9a60v3-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://sites.google.com/site/x001n5b6/ts2.xml&amp;container=enterprise&amp;view=default&amp;lang=en&amp;country=ALL&amp;sanitize=0&amp;v=4edde7ebdf331179&amp;libs=core&amp;mid=81&amp;parent=https://sites.google.com/site/unblockedgame76/time-shooter-2#st=e%3DAIHE3cBRB385Durhjnf1FgyK1hS3lPQ01fTXxoCCDN3f%252FD9BWmKX%252BjoGyCIhx2y2y3gCjsxSq02Ta3TYrWQoXTNCzEzEpI7As4%252F8POVaNO5E2cbKWUY0uEg%253D%26c%3Denterprise&amp;rpctoken=-7178936174286489000"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link36 button"
+              >
+                <span>
+                  <span>time to punch-out!</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
           </div>
         </div>
       </div>

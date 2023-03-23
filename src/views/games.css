@@ -1167,6 +1167,39 @@
   background-color: transparent;
   background-image: linear-gradient(0deg, rgb(255, 0, 0) 1.00%,rgb(221, 221, 221) 100.00%);
 }
+.games-card-content35 {
+  margin: var(--dl-space-space-fiveunits);
+  display: flex;
+  padding: var(--dl-space-space-fiveunits);
+  max-width: 500px;
+  align-items: center;
+  padding-right: 40px;
+  flex-direction: column;
+  justify-content: center;
+}
+.games-text187 {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.games-text190 {
+  color: var(--dl-color-primary-700);
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.games-link36 {
+  color: var(--dl-color-gray-white);
+  width: 100%;
+  align-self: center;
+  text-align: center;
+  padding-top: var(--dl-space-space-doubleunit);
+  border-width: 0px;
+  border-radius: 34px;
+  padding-bottom: var(--dl-space-space-doubleunit);
+  text-decoration: none;
+  background-color: transparent;
+  background-image: linear-gradient(0deg, rgb(255, 0, 0) 1.00%,rgb(221, 221, 221) 100.00%);
+}
 @media(max-width: 1600px) {
   .games-service-card {
     align-self: flex-start;
@@ -1211,6 +1244,15 @@
   }
   .games-link35 {
     background-image: linear-gradient(0deg, rgb(255, 0, 0) 1.00%,rgb(221, 221, 221) 100.00%);
+  }
+  .games-text187 {
+    color: rgb(255, 255, 255);
+  }
+  .games-text190 {
+    color: var(--dl-color-primary-700);
+  }
+  .games-link36 {
+    background-image: linear-gradient(45deg, rgb(189, 195, 199) 0.00%,rgb(255, 169, 0) 100.00%);
   }
 }
 @media(max-width: 1200px) {
@@ -1550,6 +1592,27 @@
     background-color: #D9D9D9;
     background-image: linear-gradient(0deg, rgb(255, 0, 0) 1.00%,rgb(221, 221, 221) 100.00%);
   }
+  .games-card-content35 {
+    max-width: auto;
+  }
+  .games-text187 {
+    color: rgb(255, 255, 255);
+  }
+  .games-text190 {
+    color: var(--dl-color-primary-700);
+  }
+  .games-link36 {
+    color: var(--dl-color-gray-white);
+    font-size: 18px;
+    font-style: normal;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: 1.55;
+    text-transform: capitalize;
+    text-decoration: none;
+    background-color: #D9D9D9;
+    background-image: linear-gradient(45deg, rgb(189, 195, 199) 0.00%,rgb(255, 169, 0) 100.00%);
+  }
 }
 @media(max-width: 991px) {
   .games-text073 {
@@ -1561,6 +1624,15 @@
     line-height: 1.55;
     text-transform: none;
     text-decoration: none;
+  }
+  .games-text187 {
+    color: rgb(255, 255, 255);
+  }
+  .games-text190 {
+    color: var(--dl-color-primary-700);
+  }
+  .games-link36 {
+    background-image: linear-gradient(45deg, rgb(189, 195, 199) 0.00%,rgb(255, 169, 0) 100.00%);
   }
 }
 @media(max-width: 479px) {
@@ -1653,6 +1725,9 @@
     width: auto;
   }
   .games-link35 {
+    width: auto;
+  }
+  .games-link36 {
     width: auto;
   }
 }

@@ -156,7 +156,6 @@
 .archive-text5 {
   color: rgb(0, 249, 255);
   margin-bottom: 32px;
-  text-decoration: underline;
 }
 .archive-image4 {
   width: 96px;
@@ -164,13 +163,50 @@
   object-fit: cover;
   border-radius: 4px;
 }
+.archive-feature-card5 {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  max-width: 1400px;
+  box-shadow: 5px 5px 10px 0px rgba(18, 18, 18, 0.1);
+  transition: 0.3s;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.archive-feature-card5:hover {
+  transform: scale(1.02);
+}
+.archive-navlink5 {
+  display: contents;
+}
+.archive-text8 {
+  color: rgb(0, 249, 255);
+  margin-bottom: 32px;
+  text-decoration: underline;
+}
+.archive-image5 {
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+  border-radius: 4px;
+}
 @media(max-width: 1200px) {
+  .archive-feature-card {
+    max-width: auto;
+  }
   .archive-image {
     width: auto;
     max-width: auto;
   }
+  .archive-feature-card1 {
+    max-width: auto;
+  }
   .archive-image1 {
     width: auto;
+    max-width: auto;
+  }
+  .archive-feature-card2 {
     max-width: auto;
   }
   .archive-text3 {
@@ -184,6 +220,9 @@
     height: 120px;
     max-width: auto;
   }
+  .archive-feature-card3 {
+    max-width: auto;
+  }
   .archive-text4 {
     color: rgb(0, 249, 255);
     width: auto;
@@ -193,6 +232,9 @@
   .archive-image3 {
     width: auto;
     height: 120px;
+    max-width: auto;
+  }
+  .archive-feature-card4 {
     max-width: auto;
   }
   .archive-text5 {
@@ -205,12 +247,25 @@
     height: 120px;
     max-width: auto;
   }
+  .archive-feature-card5 {
+    max-width: auto;
+  }
+  .archive-text8 {
+    color: rgb(0, 249, 255);
+    width: auto;
+    height: auto;
+  }
+  .archive-image5 {
+    width: auto;
+    height: 120px;
+    max-width: auto;
+  }
 }
 @media(max-width: 767px) {
   .archive-feature-card {
     max-width: auto;
   }
-  .archive-feature-card4 {
+  .archive-feature-card5 {
     max-width: auto;
   }
 }
@@ -218,5 +273,9 @@
   .archive-features {
     width: 100%;
     max-width: auto;
+  }
+  .archive-image4 {
+    width: 100%;
+    height: auto;
   }
 }
