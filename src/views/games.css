@@ -584,6 +584,33 @@
   background-color: #D9D9D9;
   background-image: linear-gradient(0deg, rgb(0, 11, 255) 3.00%,rgb(0, 0, 0) 37.00%,rgb(0, 0, 0) 59.00%,rgb(255, 0, 0) 98.00%);
 }
+.games-card-content18 {
+  margin: var(--dl-space-space-fiveunits);
+  display: flex;
+  padding: var(--dl-space-space-fiveunits);
+  max-width: 500px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.games-text076 {
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.games-link19 {
+  color: var(--dl-color-gray-white);
+  width: 80%;
+  align-self: center;
+  text-align: center;
+  padding-top: var(--dl-space-space-doubleunit);
+  border-width: 0px;
+  border-radius: 34px;
+  padding-bottom: var(--dl-space-space-doubleunit);
+  text-decoration: none;
+  background-color: #D9D9D9;
+  background-image: linear-gradient(45deg, rgb(0, 0, 0) 0.00%,rgb(99, 100, 100) 38.00%,rgb(145, 145, 147) 59.00%,rgb(255, 255, 255) 98.00%);
+}
 .games-container1 {
   flex: 0 0 auto;
   width: 50%;
@@ -602,38 +629,6 @@
   flex-direction: column;
   justify-content: center;
 }
-.games-card-content18 {
-  margin: var(--dl-space-space-fiveunits);
-  display: flex;
-  padding: var(--dl-space-space-fiveunits);
-  max-width: 500px;
-  align-items: center;
-  padding-right: 40px;
-  flex-direction: column;
-  justify-content: center;
-}
-.games-text076 {
-  color: #ffffff;
-  text-align: center;
-  margin-bottom: var(--dl-space-space-fourunits);
-}
-.games-text077 {
-  color: var(--dl-color-primary-700);
-  text-align: center;
-  margin-bottom: var(--dl-space-space-fourunits);
-}
-.games-link19 {
-  color: var(--dl-color-gray-white);
-  width: 80%;
-  align-self: center;
-  text-align: center;
-  padding-top: var(--dl-space-space-doubleunit);
-  border-width: 0px;
-  border-radius: 34px;
-  padding-bottom: var(--dl-space-space-doubleunit);
-  text-decoration: none;
-  background-color: #ffed00;
-}
 .games-card-content19 {
   margin: var(--dl-space-space-fiveunits);
   display: flex;
@@ -644,12 +639,12 @@
   flex-direction: column;
   justify-content: center;
 }
-.games-text078 {
+.games-text079 {
   color: #ffffff;
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.games-text079 {
+.games-text080 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -664,7 +659,7 @@
   border-radius: 34px;
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
-  background-color: #ff0000;
+  background-color: #ffed00;
 }
 .games-card-content20 {
   margin: var(--dl-space-space-fiveunits);
@@ -676,12 +671,12 @@
   flex-direction: column;
   justify-content: center;
 }
-.games-text080 {
+.games-text081 {
   color: #ffffff;
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.games-text081 {
+.games-text082 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -696,7 +691,7 @@
   border-radius: 34px;
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
-  background-color: #c400ff;
+  background-color: #ff0000;
 }
 .games-card-content21 {
   margin: var(--dl-space-space-fiveunits);
@@ -708,12 +703,12 @@
   flex-direction: column;
   justify-content: center;
 }
-.games-text084 {
+.games-text083 {
   color: #ffffff;
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.games-text085 {
+.games-text084 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -728,7 +723,7 @@
   border-radius: 34px;
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
-  background-color: rgb(255, 0, 122);
+  background-color: #c400ff;
 }
 .games-card-content22 {
   margin: var(--dl-space-space-fiveunits);
@@ -740,12 +735,12 @@
   flex-direction: column;
   justify-content: center;
 }
-.games-text088 {
+.games-text087 {
   color: #ffffff;
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.games-text089 {
+.games-text088 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -760,7 +755,7 @@
   border-radius: 34px;
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
-  background-color: #83a004;
+  background-color: rgb(255, 0, 122);
 }
 .games-card-content23 {
   margin: var(--dl-space-space-fiveunits);
@@ -772,12 +767,12 @@
   flex-direction: column;
   justify-content: center;
 }
-.games-text092 {
+.games-text091 {
   color: #ffffff;
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.games-text093 {
+.games-text092 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -792,7 +787,7 @@
   border-radius: 34px;
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
-  background-color: rgb(5, 88, 31);
+  background-color: #83a004;
 }
 .games-card-content24 {
   margin: var(--dl-space-space-fiveunits);
@@ -804,12 +799,12 @@
   flex-direction: column;
   justify-content: center;
 }
-.games-text096 {
+.games-text095 {
   color: #ffffff;
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.games-text097 {
+.games-text096 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -824,7 +819,7 @@
   border-radius: 34px;
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
-  background-color: #59156d;
+  background-color: rgb(5, 88, 31);
 }
 .games-card-content25 {
   margin: var(--dl-space-space-fiveunits);
@@ -836,12 +831,12 @@
   flex-direction: column;
   justify-content: center;
 }
-.games-text103 {
+.games-text099 {
   color: #ffffff;
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.games-text104 {
+.games-text100 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -856,7 +851,7 @@
   border-radius: 34px;
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
-  background-color: #5a1818;
+  background-color: #59156d;
 }
 .games-card-content26 {
   margin: var(--dl-space-space-fiveunits);
@@ -868,19 +863,19 @@
   flex-direction: column;
   justify-content: center;
 }
-.games-text110 {
+.games-text106 {
   color: #ffffff;
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.games-text111 {
+.games-text107 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
 .games-link27 {
   color: var(--dl-color-gray-white);
-  width: 100%;
+  width: 80%;
   align-self: center;
   text-align: center;
   padding-top: var(--dl-space-space-doubleunit);
@@ -888,8 +883,7 @@
   border-radius: 34px;
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
-  background-color: transparent;
-  background-image: linear-gradient(90deg, rgb(192, 36, 37) 0.00%,rgb(0, 11, 255) 100.00%);
+  background-color: #5a1818;
 }
 .games-card-content27 {
   margin: var(--dl-space-space-fiveunits);
@@ -901,12 +895,12 @@
   flex-direction: column;
   justify-content: center;
 }
-.games-text117 {
+.games-text113 {
   color: #ffffff;
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.games-text118 {
+.games-text114 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -922,7 +916,7 @@
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
   background-color: transparent;
-  background-image: linear-gradient(90deg, rgb(192, 36, 37) 0.00%,rgb(255, 0, 163) 100.00%);
+  background-image: linear-gradient(90deg, rgb(192, 36, 37) 0.00%,rgb(0, 11, 255) 100.00%);
 }
 .games-card-content28 {
   margin: var(--dl-space-space-fiveunits);
@@ -934,12 +928,12 @@
   flex-direction: column;
   justify-content: center;
 }
-.games-text124 {
+.games-text120 {
   color: #ffffff;
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.games-text125 {
+.games-text121 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -955,7 +949,7 @@
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
   background-color: transparent;
-  background-image: linear-gradient(90deg, rgb(255, 254, 0) 3.00%,rgb(22, 255, 0) 100.00%);
+  background-image: linear-gradient(90deg, rgb(192, 36, 37) 0.00%,rgb(255, 0, 163) 100.00%);
 }
 .games-card-content29 {
   margin: var(--dl-space-space-fiveunits);
@@ -967,16 +961,12 @@
   flex-direction: column;
   justify-content: center;
 }
-.games-text131 {
+.games-text127 {
   color: #ffffff;
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.games-text132 {
-  text-align: center;
-  margin-bottom: var(--dl-space-space-fourunits);
-}
-.games-text136 {
+.games-text128 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -992,7 +982,7 @@
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
   background-color: transparent;
-  background-image: linear-gradient(#feac5e 0%, #c779d0 50%, #4bc0c8 100%);
+  background-image: linear-gradient(90deg, rgb(255, 254, 0) 3.00%,rgb(22, 255, 0) 100.00%);
 }
 .games-card-content30 {
   margin: var(--dl-space-space-fiveunits);
@@ -1004,16 +994,16 @@
   flex-direction: column;
   justify-content: center;
 }
-.games-text142 {
+.games-text134 {
   color: #ffffff;
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.games-text143 {
+.games-text135 {
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.games-text145 {
+.games-text139 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -1029,7 +1019,7 @@
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
   background-color: transparent;
-  background-image: linear-gradient(180deg, rgb(144, 254, 94) 2.00%,rgb(208, 161, 121) 51.00%,rgb(175, 75, 200) 99.00%);
+  background-image: linear-gradient(#feac5e 0%, #c779d0 50%, #4bc0c8 100%);
 }
 .games-card-content31 {
   margin: var(--dl-space-space-fiveunits);
@@ -1041,16 +1031,16 @@
   flex-direction: column;
   justify-content: center;
 }
-.games-text151 {
+.games-text145 {
   color: #ffffff;
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.games-text152 {
+.games-text146 {
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.games-text154 {
+.games-text148 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -1066,7 +1056,7 @@
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
   background-color: transparent;
-  background-image: linear-gradient(180deg, rgb(254, 233, 94) 2.00%,rgb(208, 161, 121) 51.00%,rgb(200, 75, 97) 97.00%);
+  background-image: linear-gradient(180deg, rgb(144, 254, 94) 2.00%,rgb(208, 161, 121) 51.00%,rgb(175, 75, 200) 99.00%);
 }
 .games-card-content32 {
   margin: var(--dl-space-space-fiveunits);
@@ -1078,12 +1068,16 @@
   flex-direction: column;
   justify-content: center;
 }
-.games-text160 {
-  color: rgb(255, 255, 255);
+.games-text154 {
+  color: #ffffff;
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.games-text163 {
+.games-text155 {
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.games-text157 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -1099,7 +1093,7 @@
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
   background-color: transparent;
-  background-image: linear-gradient(45deg, rgb(0, 240, 225) 0.00%,rgb(85, 0, 59) 100.00%);
+  background-image: linear-gradient(180deg, rgb(254, 233, 94) 2.00%,rgb(208, 161, 121) 51.00%,rgb(200, 75, 97) 97.00%);
 }
 .games-card-content33 {
   margin: var(--dl-space-space-fiveunits);
@@ -1111,12 +1105,12 @@
   flex-direction: column;
   justify-content: center;
 }
-.games-text169 {
+.games-text163 {
   color: rgb(255, 255, 255);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.games-text172 {
+.games-text166 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -1132,7 +1126,7 @@
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
   background-color: transparent;
-  background-image: linear-gradient(45deg, rgb(255, 255, 255) 0.00%,rgb(51, 30, 1) 100.00%);
+  background-image: linear-gradient(45deg, rgb(0, 240, 225) 0.00%,rgb(85, 0, 59) 100.00%);
 }
 .games-card-content34 {
   margin: var(--dl-space-space-fiveunits);
@@ -1144,12 +1138,12 @@
   flex-direction: column;
   justify-content: center;
 }
-.games-text178 {
+.games-text172 {
   color: rgb(255, 255, 255);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.games-text181 {
+.games-text175 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -1165,7 +1159,7 @@
   padding-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
   background-color: transparent;
-  background-image: linear-gradient(0deg, rgb(255, 0, 0) 1.00%,rgb(221, 221, 221) 100.00%);
+  background-image: linear-gradient(45deg, rgb(255, 255, 255) 0.00%,rgb(51, 30, 1) 100.00%);
 }
 .games-card-content35 {
   margin: var(--dl-space-space-fiveunits);
@@ -1177,17 +1171,50 @@
   flex-direction: column;
   justify-content: center;
 }
-.games-text187 {
+.games-text181 {
   color: rgb(255, 255, 255);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.games-text190 {
+.games-text184 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
 .games-link36 {
+  color: var(--dl-color-gray-white);
+  width: 100%;
+  align-self: center;
+  text-align: center;
+  padding-top: var(--dl-space-space-doubleunit);
+  border-width: 0px;
+  border-radius: 34px;
+  padding-bottom: var(--dl-space-space-doubleunit);
+  text-decoration: none;
+  background-color: transparent;
+  background-image: linear-gradient(0deg, rgb(255, 0, 0) 1.00%,rgb(221, 221, 221) 100.00%);
+}
+.games-card-content36 {
+  margin: var(--dl-space-space-fiveunits);
+  display: flex;
+  padding: var(--dl-space-space-fiveunits);
+  max-width: 500px;
+  align-items: center;
+  padding-right: 40px;
+  flex-direction: column;
+  justify-content: center;
+}
+.games-text190 {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.games-text193 {
+  color: var(--dl-color-primary-700);
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.games-link37 {
   color: var(--dl-color-gray-white);
   width: 100%;
   align-self: center;
@@ -1233,25 +1260,35 @@
     width: 100%;
     background-image: linear-gradient(0deg, rgb(0, 11, 255) 3.00%,rgb(0, 0, 0) 37.00%,rgb(0, 0, 0) 59.00%,rgb(255, 0, 0) 98.00%);
   }
-  .games-link34 {
-    background-image: linear-gradient(45deg, rgb(255, 255, 255) 0.00%,rgb(51, 30, 1) 100.00%);
-  }
-  .games-text178 {
-    color: rgb(255, 255, 255);
-  }
-  .games-text181 {
+  .games-text077 {
     color: var(--dl-color-primary-700);
+    width: auto;
+    text-align: center;
+    margin-bottom: var(--dl-space-space-fourunits);
+  }
+  .games-link19 {
+    width: 100%;
+    background-image: linear-gradient(45deg, rgb(0, 0, 0) 0.00%,rgb(99, 100, 100) 38.00%,rgb(145, 145, 147) 59.00%,rgb(255, 255, 255) 98.00%);
   }
   .games-link35 {
-    background-image: linear-gradient(0deg, rgb(255, 0, 0) 1.00%,rgb(221, 221, 221) 100.00%);
+    background-image: linear-gradient(45deg, rgb(255, 255, 255) 0.00%,rgb(51, 30, 1) 100.00%);
   }
-  .games-text187 {
+  .games-text181 {
     color: rgb(255, 255, 255);
   }
-  .games-text190 {
+  .games-text184 {
     color: var(--dl-color-primary-700);
   }
   .games-link36 {
+    background-image: linear-gradient(0deg, rgb(255, 0, 0) 1.00%,rgb(221, 221, 221) 100.00%);
+  }
+  .games-text190 {
+    color: rgb(255, 255, 255);
+  }
+  .games-text193 {
+    color: var(--dl-color-primary-700);
+  }
+  .games-link37 {
     background-image: linear-gradient(45deg, rgb(189, 195, 199) 0.00%,rgb(255, 169, 0) 100.00%);
   }
 }
@@ -1337,6 +1374,9 @@
   .games-text070 {
     color: rgb(255, 255, 255);
   }
+  .games-text073 {
+    color: rgb(255, 255, 255);
+  }
   .games-text074 {
     color: var(--dl-color-primary-700);
   }
@@ -1347,25 +1387,21 @@
   .games-text075 {
     color: rgb(255, 255, 255);
   }
+  .games-text077 {
+    color: var(--dl-color-primary-700);
+  }
+  .games-link19 {
+    background-color: #079404;
+    background-image: linear-gradient(45deg, rgb(130, 65, 4) 0.00%,rgb(255, 0, 0) 28.00%,rgb(255, 241, 0) 74.00%,rgb(15, 255, 0) 100.00%,rgb(255, 241, 0) 99.00%);
+  }
+  .games-text078 {
+    color: rgb(255, 255, 255);
+  }
   .games-service-card1 {
     width: auto;
     min-height: auto;
   }
-  .games-text085 {
-    color: var(--dl-color-primary-700);
-  }
-  .games-link22 {
-    color: var(--dl-color-gray-white);
-    font-size: 18px;
-    font-style: normal;
-    font-family: Roboto;
-    font-weight: 700;
-    line-height: 1.55;
-    text-transform: capitalize;
-    text-decoration: none;
-    background-color: rgb(255, 0, 122);
-  }
-  .games-text089 {
+  .games-text088 {
     color: var(--dl-color-primary-700);
   }
   .games-link23 {
@@ -1377,12 +1413,26 @@
     line-height: 1.55;
     text-transform: capitalize;
     text-decoration: none;
-    background-color: #83a004;
+    background-color: rgb(255, 0, 122);
   }
-  .games-text093 {
+  .games-text092 {
     color: var(--dl-color-primary-700);
   }
   .games-link24 {
+    color: var(--dl-color-gray-white);
+    font-size: 18px;
+    font-style: normal;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: 1.55;
+    text-transform: capitalize;
+    text-decoration: none;
+    background-color: #83a004;
+  }
+  .games-text096 {
+    color: var(--dl-color-primary-700);
+  }
+  .games-link25 {
     color: var(--dl-color-gray-white);
     width: 80%;
     font-size: 18px;
@@ -1394,21 +1444,7 @@
     text-decoration: none;
     background-color: rgb(5, 88, 31);
   }
-  .games-text097 {
-    color: var(--dl-color-primary-700);
-  }
-  .games-link25 {
-    color: var(--dl-color-gray-white);
-    font-size: 18px;
-    font-style: normal;
-    font-family: Roboto;
-    font-weight: 700;
-    line-height: 1.55;
-    text-transform: capitalize;
-    text-decoration: none;
-    background-color: #59156d;
-  }
-  .games-text104 {
+  .games-text100 {
     color: var(--dl-color-primary-700);
   }
   .games-link26 {
@@ -1420,9 +1456,9 @@
     line-height: 1.55;
     text-transform: capitalize;
     text-decoration: none;
-    background-color: #5a1818;
+    background-color: #59156d;
   }
-  .games-text111 {
+  .games-text107 {
     color: var(--dl-color-primary-700);
   }
   .games-link27 {
@@ -1436,7 +1472,7 @@
     text-decoration: none;
     background-color: #5a1818;
   }
-  .games-text118 {
+  .games-text114 {
     color: var(--dl-color-primary-700);
   }
   .games-link28 {
@@ -1449,9 +1485,8 @@
     text-transform: capitalize;
     text-decoration: none;
     background-color: #5a1818;
-    background-image: linear-gradient(90deg, rgb(192, 36, 37) 0.00%,rgb(255, 0, 163) 100.00%);
   }
-  .games-text125 {
+  .games-text121 {
     color: var(--dl-color-primary-700);
   }
   .games-link29 {
@@ -1464,15 +1499,9 @@
     text-transform: capitalize;
     text-decoration: none;
     background-color: #5a1818;
-    background-image: linear-gradient(90deg, rgb(255, 254, 0) 3.00%,rgb(22, 255, 0) 100.00%);
+    background-image: linear-gradient(90deg, rgb(192, 36, 37) 0.00%,rgb(255, 0, 163) 100.00%);
   }
-  .games-card-content29 {
-    max-width: auto;
-  }
-  .games-text131 {
-    color: rgb(255, 255, 255);
-  }
-  .games-text136 {
+  .games-text128 {
     color: var(--dl-color-primary-700);
   }
   .games-link30 {
@@ -1484,16 +1513,16 @@
     line-height: 1.55;
     text-transform: capitalize;
     text-decoration: none;
-    background-color: #D9D9D9;
-    background-image: linear-gradient(#feac5e 0%, #c779d0 50%, #4bc0c8 100%);
+    background-color: #5a1818;
+    background-image: linear-gradient(90deg, rgb(255, 254, 0) 3.00%,rgb(22, 255, 0) 100.00%);
   }
   .games-card-content30 {
     max-width: auto;
   }
-  .games-text142 {
+  .games-text134 {
     color: rgb(255, 255, 255);
   }
-  .games-text145 {
+  .games-text139 {
     color: var(--dl-color-primary-700);
   }
   .games-link31 {
@@ -1506,15 +1535,15 @@
     text-transform: capitalize;
     text-decoration: none;
     background-color: #D9D9D9;
-    background-image: linear-gradient(180deg, rgb(144, 254, 94) 2.00%,rgb(208, 161, 121) 51.00%,rgb(175, 75, 200) 99.00%);
+    background-image: linear-gradient(#feac5e 0%, #c779d0 50%, #4bc0c8 100%);
   }
   .games-card-content31 {
     max-width: auto;
   }
-  .games-text151 {
+  .games-text145 {
     color: rgb(255, 255, 255);
   }
-  .games-text154 {
+  .games-text148 {
     color: var(--dl-color-primary-700);
   }
   .games-link32 {
@@ -1527,15 +1556,15 @@
     text-transform: capitalize;
     text-decoration: none;
     background-color: #D9D9D9;
-    background-image: linear-gradient(180deg, rgb(254, 233, 94) 2.00%,rgb(208, 161, 121) 51.00%,rgb(200, 75, 97) 97.00%);
+    background-image: linear-gradient(180deg, rgb(144, 254, 94) 2.00%,rgb(208, 161, 121) 51.00%,rgb(175, 75, 200) 99.00%);
   }
   .games-card-content32 {
     max-width: auto;
   }
-  .games-text160 {
+  .games-text154 {
     color: rgb(255, 255, 255);
   }
-  .games-text163 {
+  .games-text157 {
     color: var(--dl-color-primary-700);
   }
   .games-link33 {
@@ -1548,15 +1577,15 @@
     text-transform: capitalize;
     text-decoration: none;
     background-color: #D9D9D9;
-    background-image: linear-gradient(45deg, rgb(0, 240, 225) 0.00%,rgb(85, 0, 59) 100.00%);
+    background-image: linear-gradient(180deg, rgb(254, 233, 94) 2.00%,rgb(208, 161, 121) 51.00%,rgb(200, 75, 97) 97.00%);
   }
   .games-card-content33 {
     max-width: auto;
   }
-  .games-text169 {
+  .games-text163 {
     color: rgb(255, 255, 255);
   }
-  .games-text172 {
+  .games-text166 {
     color: var(--dl-color-primary-700);
   }
   .games-link34 {
@@ -1569,15 +1598,15 @@
     text-transform: capitalize;
     text-decoration: none;
     background-color: #D9D9D9;
-    background-image: linear-gradient(45deg, rgb(255, 255, 255) 0.00%,rgb(51, 30, 1) 100.00%);
+    background-image: linear-gradient(45deg, rgb(0, 240, 225) 0.00%,rgb(85, 0, 59) 100.00%);
   }
   .games-card-content34 {
     max-width: auto;
   }
-  .games-text178 {
+  .games-text172 {
     color: rgb(255, 255, 255);
   }
-  .games-text181 {
+  .games-text175 {
     color: var(--dl-color-primary-700);
   }
   .games-link35 {
@@ -1590,18 +1619,39 @@
     text-transform: capitalize;
     text-decoration: none;
     background-color: #D9D9D9;
-    background-image: linear-gradient(0deg, rgb(255, 0, 0) 1.00%,rgb(221, 221, 221) 100.00%);
+    background-image: linear-gradient(45deg, rgb(255, 255, 255) 0.00%,rgb(51, 30, 1) 100.00%);
   }
   .games-card-content35 {
     max-width: auto;
   }
-  .games-text187 {
+  .games-text181 {
     color: rgb(255, 255, 255);
   }
-  .games-text190 {
+  .games-text184 {
     color: var(--dl-color-primary-700);
   }
   .games-link36 {
+    color: var(--dl-color-gray-white);
+    font-size: 18px;
+    font-style: normal;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: 1.55;
+    text-transform: capitalize;
+    text-decoration: none;
+    background-color: #D9D9D9;
+    background-image: linear-gradient(0deg, rgb(255, 0, 0) 1.00%,rgb(221, 221, 221) 100.00%);
+  }
+  .games-card-content36 {
+    max-width: auto;
+  }
+  .games-text190 {
+    color: rgb(255, 255, 255);
+  }
+  .games-text193 {
+    color: var(--dl-color-primary-700);
+  }
+  .games-link37 {
     color: var(--dl-color-gray-white);
     font-size: 18px;
     font-style: normal;
@@ -1625,13 +1675,13 @@
     text-transform: none;
     text-decoration: none;
   }
-  .games-text187 {
+  .games-text190 {
     color: rgb(255, 255, 255);
   }
-  .games-text190 {
+  .games-text193 {
     color: var(--dl-color-primary-700);
   }
-  .games-link36 {
+  .games-link37 {
     background-image: linear-gradient(45deg, rgb(189, 195, 199) 0.00%,rgb(255, 169, 0) 100.00%);
   }
 }
@@ -1682,17 +1732,17 @@
   .games-link18 {
     width: auto;
   }
-  .games-service-card1 {
-    width: 50%;
-  }
   .games-link19 {
     width: auto;
   }
-  .games-link23 {
-    width: 100%;
+  .games-service-card1 {
+    width: 50%;
+  }
+  .games-link20 {
+    width: auto;
   }
   .games-link24 {
-    width: auto;
+    width: 100%;
   }
   .games-link25 {
     width: auto;
@@ -1728,6 +1778,9 @@
     width: auto;
   }
   .games-link36 {
+    width: auto;
+  }
+  .games-link37 {
     width: auto;
   }
 }

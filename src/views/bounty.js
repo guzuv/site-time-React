@@ -39,7 +39,7 @@ const Bounty = (props) => {
           <span className="bounty-text05">35 Robux,</span>
           <span className="bounty-text06"> or Minecoins!</span>
           <br></br>
-          <span>expires in: 3/21/2023</span>
+          <span>expires in: N/A</span>
           <br></br>
           <span>SEND PROOF WITH &quot;want a game?&quot; button!</span>
           <br></br>

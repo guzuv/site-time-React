@@ -31,9 +31,9 @@ const Home = (props) => {
                 <br></br>
                 <span>Patch notes:</span>
                 <br></br>
-                <span>-new blog!</span>
+                <span>-a game of the past!</span>
                 <br></br>
-                <span>-again, new game!</span>
+                <span>-</span>
                 <br></br>
               </span>
             </div>

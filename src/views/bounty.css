@@ -28,12 +28,6 @@
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.bounty-text05 {
-  color: #0fff00;
-}
-.bounty-text06 {
-  color: var(--dl-color-primary-700);
-}
 .bounty-link {
   text-decoration: underline;
 }
@@ -95,6 +89,24 @@
 }
 .bounty-link2 {
   text-decoration: underline;
+}
+@media(max-width: 1600px) {
+  .bounty-text01 {
+    color: var(--dl-color-primary-700);
+  }
+  .bounty-text05 {
+    color: #0fff00;
+  }
+  .bounty-text06 {
+    color: var(--dl-color-primary-700);
+  }
+  .bounty-link {
+    text-decoration: underline;
+  }
+  .bounty-text13 {
+    font-style: normal;
+    font-weight: 700;
+  }
 }
 @media(max-width: 1200px) {
   .bounty-container {
