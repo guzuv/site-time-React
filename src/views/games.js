@@ -759,6 +759,27 @@ const Games = (props) => {
                 </span>
               </a>
             </div>
+            <div className="games-card-content37">
+              <h3 className="games-text199">
+                <span className="BigCard-Heading">chess!</span>
+                <br></br>
+              </h3>
+              <span className="games-text202">
+                <span>simple chess, has multiplayer and local gameplay.</span>
+                <br></br>
+              </span>
+              <a
+                href="https://plainchess.timwoelfle.de/"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link38 button"
+              >
+                <span>
+                  <span>&quot;checkmate.&quot;</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
           </div>
         </div>
       </div>
