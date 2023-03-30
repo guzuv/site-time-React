@@ -33,7 +33,7 @@ const Home = (props) => {
             </div>
             <a href="#actual-games" className="home-cta-btn button">
               <span>
-                <span className="Anchor">get reading!</span>
+                <span className="Anchor">Get Gaming!</span>
                 <br></br>
               </span>
             </a>
@@ -171,7 +171,7 @@ const Home = (props) => {
               <br></br>
               <br></br>
             </span>
-            <Link to="/archive" className="home-navlink1">
+            <Link to="/games" className="home-navlink1">
               <div className="home-container12">
                 <span className="home-text30">click here!</span>
               </div>
