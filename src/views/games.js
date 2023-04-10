@@ -229,7 +229,7 @@ const Games = (props) => {
               <br></br>
             </span>
             <a
-              href="https://guzuv.github.io/minecraft/"
+              href="https://guzuv.github.io/minecraftX/"
               target="_blank"
               rel="noreferrer noopener"
               className="games-link12 button"
