@@ -148,6 +148,12 @@
 .oct22-text20 {
   color: #ffffff;
 }
+@media(max-width: 1600px) {
+  .oct22-blog-post-card {
+    height: auto;
+    max-width: auto;
+  }
+}
 @media(max-width: 1200px) {
   .oct22-container1 {
     width: 100%;

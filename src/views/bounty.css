@@ -113,8 +113,11 @@
     background-color: #000000;
   }
   .bounty-card-content {
-    width: 100%;
+    width: auto;
     max-width: 100%;
+  }
+  .bounty-text {
+    color: rgb(255, 255, 255);
   }
   .bounty-text01 {
     color: var(--dl-color-primary-700);
@@ -122,11 +125,21 @@
   .bounty-text02 {
     font-size: 16px;
   }
+  .bounty-text05 {
+    color: #0fff00;
+  }
+  .bounty-text06 {
+    color: var(--dl-color-primary-700);
+  }
   .bounty-link {
     text-decoration: underline;
   }
+  .bounty-text13 {
+    font-style: normal;
+    font-weight: 700;
+  }
   .bounty-card-content1 {
-    width: 100%;
+    width: auto;
     max-width: 100%;
   }
   .bounty-text16 {
@@ -139,7 +152,7 @@
     text-decoration: underline;
   }
   .bounty-card-content2 {
-    width: 100%;
+    width: auto;
     max-width: 100%;
   }
   .bounty-text30 {

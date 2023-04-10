@@ -20,9 +20,7 @@ const Bounty = (props) => {
         />
       </Helmet>
       <div className="bounty-card-content">
-        <h3 className="bounty-text BigCard-Heading">
-          DOWN: attempting to fix!
-        </h3>
+        <h3 className="bounty-text">mc bounty!</h3>
         <span className="bounty-text01">
           <span className="bounty-text02">
             objective: get diamond boots (have exactly 59 dirt beside it).
@@ -39,7 +37,7 @@ const Bounty = (props) => {
           <span className="bounty-text05">35 Robux,</span>
           <span className="bounty-text06"> or Minecoins!</span>
           <br></br>
-          <span>expires in: N/A</span>
+          <span>expires in: 5/15/2023</span>
           <br></br>
           <span>SEND PROOF WITH &quot;want a game?&quot; button!</span>
           <br></br>

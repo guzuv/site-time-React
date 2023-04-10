@@ -223,7 +223,9 @@ const Games = (props) => {
           <div className="games-card-content12">
             <h3 className="games-text039 BigCard-Heading">minecraft!</h3>
             <span className="games-text040">
-              <span>DOWN: attempting to fix!</span>
+              <span>
+                We&apos;re back! Now with more fun! 1.8.8, in your browser.
+              </span>
               <br></br>
             </span>
             <a
