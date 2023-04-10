@@ -236,11 +236,15 @@
   color: rgb(0, 249, 255);
   margin-bottom: 32px;
 }
+.archive-navlink13 {
+  display: contents;
+}
 .archive-image6 {
   width: 96px;
   height: 96px;
   object-fit: cover;
   border-radius: 4px;
+  text-decoration: none;
 }
 @media(max-width: 1600px) {
   .archive-image {

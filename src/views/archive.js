@@ -96,7 +96,7 @@ const Archive = (props) => {
             </Link>
           </div>
           <div className="archive-feature-card6">
-            <Link to="/mar23" className="archive-navlink12">
+            <Link to="/apr23" className="archive-navlink12">
               <h2 className="archive-text09">
                 <span>
                   april
@@ -109,11 +109,13 @@ const Archive = (props) => {
                 <span>2023</span>
               </h2>
             </Link>
-            <img
-              alt="image"
-              src="https://i.imgur.com/heF99Z3.png"
-              className="archive-image6"
-            />
+            <Link to="/apr23" className="archive-navlink13">
+              <img
+                alt="image"
+                src="https://i.imgur.com/heF99Z3.png"
+                className="archive-image6"
+              />
+            </Link>
           </div>
         </div>
       </div>
