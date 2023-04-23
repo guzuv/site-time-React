@@ -801,6 +801,8 @@
   }
   .home-hero-text-container {
     width: auto;
+    margin-left: var(--dl-space-space-tenunits);
+    margin-right: var(--dl-space-space-tenunits);
   }
   .home-text {
     color: var(--dl-color-gray-500);
