@@ -340,7 +340,6 @@
   background-color: #ef8566;
 }
 .games-card-content10 {
-  margin: var(--dl-space-space-fiveunits);
   display: flex;
   padding: var(--dl-space-space-fiveunits);
   max-width: 500px;
@@ -1809,105 +1808,304 @@
   }
 }
 @media(max-width: 479px) {
+  .games-card-content {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
   .games-card-content01 {
     width: auto;
+    margin-left: 0px;
+    margin-right: 0px;
   }
   .games-link01 {
     width: auto;
   }
+  .games-card-content02 {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
   .games-card-content03 {
     width: auto;
     max-width: auto;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .games-card-content04 {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .games-card-content05 {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .games-card-content06 {
+    max-width: auto;
+    margin-left: 0px;
+    margin-right: 0px;
   }
   .games-link06 {
     width: auto;
   }
+  .games-card-content07 {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
   .games-link07 {
     width: auto;
+  }
+  .games-card-content08 {
+    margin-left: 0px;
+    margin-right: 0px;
   }
   .games-link08 {
     width: auto;
   }
+  .games-card-content09 {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
   .games-link09 {
     width: auto;
+  }
+  .games-card-content10 {
+    margin-top: var(--dl-space-space-fiveunits);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-fiveunits);
   }
   .games-link10 {
     width: auto;
   }
+  .games-card-content11 {
+    margin: 0px;
+  }
   .games-link11 {
     width: auto;
+  }
+  .games-card-content12 {
+    margin-left: 0px;
+    margin-right: 0px;
   }
   .games-link12 {
     width: auto;
   }
+  .games-card-content13 {
+    margin-top: var(--dl-space-space-fourunits);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-fourunits);
+  }
   .games-link14 {
     width: auto;
+  }
+  .games-card-content14 {
+    margin-top: var(--dl-space-space-fourunits);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-fourunits);
   }
   .games-link15 {
     width: auto;
   }
+  .games-card-content15 {
+    margin-top: var(--dl-space-space-fourunits);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-fourunits);
+  }
   .games-link16 {
     width: auto;
+  }
+  .games-card-content16 {
+    margin-top: var(--dl-space-space-fourunits);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-fourunits);
   }
   .games-link17 {
     width: auto;
   }
+  .games-card-content17 {
+    margin-top: var(--dl-space-space-fourunits);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-fourunits);
+  }
   .games-link18 {
     width: auto;
   }
+  .games-card-content18 {
+    margin-top: var(--dl-space-space-fourunits);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-fourunits);
+  }
   .games-link19 {
     width: auto;
+  }
+  .games-card-content19 {
+    margin-top: var(--dl-space-space-fourunits);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-fourunits);
   }
   .games-link20 {
     width: auto;
   }
   .games-service-card1 {
-    width: 50%;
+    width: 99%;
+  }
+  .games-card-content20 {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-right: var(--dl-space-space-fourunits);
   }
   .games-link21 {
     width: auto;
   }
+  .games-card-content21 {
+    margin: 0px;
+    padding-right: var(--dl-space-space-fourunits);
+  }
+  .games-card-content22 {
+    padding: var(--dl-space-space-fourunits);
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .games-card-content23 {
+    padding: 40px40px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .games-card-content24 {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
   .games-link25 {
     width: 100%;
+  }
+  .games-card-content25 {
+    margin-left: 0px;
+    margin-right: 0px;
   }
   .games-link26 {
     width: auto;
   }
+  .games-card-content26 {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
   .games-link27 {
     width: auto;
+  }
+  .games-card-content27 {
+    margin-left: 0px;
+    margin-right: 0px;
   }
   .games-link28 {
     width: auto;
   }
+  .games-card-content28 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
   .games-link29 {
     width: auto;
+  }
+  .games-card-content29 {
+    margin-left: 0px;
+    padding-top: 40px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 40px;
+  }
+  .games-text124 {
+    margin-left: var(--dl-space-space-fourunits);
+    margin-right: var(--dl-space-space-fourunits);
+    margin-bottom: var(--dl-space-space-fourunits);
   }
   .games-link30 {
     width: auto;
   }
+  .games-card-content30 {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
   .games-link31 {
     width: auto;
+  }
+  .games-card-content31 {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
   }
   .games-link32 {
     width: auto;
   }
+  .games-card-content32 {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
   .games-link33 {
     width: auto;
+  }
+  .games-card-content33 {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
   }
   .games-link34 {
     width: auto;
   }
+  .games-card-content34 {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
   .games-link35 {
     width: auto;
+  }
+  .games-card-content35 {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: FiveUnits;
   }
   .games-link36 {
     width: auto;
   }
+  .games-card-content36 {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-right: var(--dl-space-space-fiveunits);
+  }
   .games-link37 {
     width: auto;
   }
+  .games-card-content37 {
+    margin-top: var(--dl-space-space-fourunits);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-fourunits);
+    padding-right: var(--dl-space-space-fourunits);
+  }
   .games-link38 {
     width: auto;
+  }
+  .games-card-content38 {
+    margin-top: var(--dl-space-space-fourunits);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-fourunits);
   }
   .games-link39 {
     width: auto;
