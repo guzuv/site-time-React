@@ -797,6 +797,32 @@ const Games = (props) => {
                 </span>
               </a>
             </div>
+            <div className="games-card-content39">
+              <h3 className="games-text211">
+                <span className="BigCard-Heading">
+                  fireboy and watergirl: the temple of light.
+                </span>
+                <br></br>
+              </h3>
+              <span className="games-text214">
+                <span>
+                  the sequel has dropped! so many new levels, the same iconic
+                  duo.
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://www-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://sites.google.com/site/s014b3c/fireboy-and-watergirl-2-the-light-temple-game.xml"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link40 button"
+              >
+                <span className="games-text217">
+                  <span>Back again!</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
           </div>
         </div>
       </div>
