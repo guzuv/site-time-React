@@ -786,7 +786,7 @@ const Games = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://plainchess.timwoelfle.de/"
+                href="http://plainchess.timwoelfle.de/"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="games-link39 button"
