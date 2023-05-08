@@ -682,7 +682,7 @@ const Games = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://scratch.mit.edu/projects/116923140/fullscreen/"
+                href="https://turbowarp.org/116923140/fullscreen"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="games-link35 button"
