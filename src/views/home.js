@@ -35,7 +35,7 @@ const Home = (props) => {
                 <br></br>
                 <span>-a crafty new game!</span>
                 <br></br>
-                <span>-reduced fnaf lag!</span>
+                <span>-60 fps widescreen fnaf?!</span>
                 <br></br>
               </span>
             </div>
