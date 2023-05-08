@@ -33,7 +33,7 @@ const Home = (props) => {
                 <br></br>
                 <span>-fixed new minecraft.</span>
                 <br></br>
-                <span>-</span>
+                <span>-a crafty new game!</span>
                 <br></br>
               </span>
             </div>

@@ -393,7 +393,7 @@ const Games = (props) => {
               make people grind for you!
             </span>
             <a
-              href="https://www-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://sites.google.com/site/s003yi8j/grindcraft-remastered.xml"
+              href="https://wss://0e6866e2-f394-41f9-8c2b-c6ec8266fbcd.id.repl.co"
               target="_blank"
               rel="noreferrer noopener"
               className="games-link21 button"
