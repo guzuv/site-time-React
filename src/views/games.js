@@ -838,6 +838,27 @@ const Games = (props) => {
                 </span>
               </a>
             </div>
+            <div className="games-card-content41">
+              <h3 className="games-text223">
+                <span className="BigCard-Heading">slope</span>
+                <br></br>
+              </h3>
+              <span className="games-text226">
+                <span>slope gaming! how far can you go, i hit 52 score.</span>
+                <br></br>
+              </span>
+              <a
+                href="https://guzuvy.github.io/slope/"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link42 button"
+              >
+                <span className="games-text229">
+                  <span>nyooom!</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
           </div>
         </div>
       </div>
