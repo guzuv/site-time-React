@@ -48,7 +48,7 @@ const Games = (props) => {
                 />
               </span>
               <br></br>
-              <span>quick chat only, have fun!</span>
+              <span>now with free chat, have fun!</span>
             </span>
             <a
               href="https://among-us-online-fan-remake.1tim.repl.co/"
@@ -140,7 +140,7 @@ const Games = (props) => {
               two players, one device, play to 5 points, now with randomness!
             </span>
             <a
-              href="https://sra0obgp0bbi7ip2aqr2lcirgjd7tqck-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://sites.google.com/site/z001down/basket-random.xml&amp;container=enterprise&amp;view=default&amp;lang=en&amp;country=ALL&amp;sanitize=0&amp;v=419cc5c363609e21&amp;libs=core&amp;mid=22&amp;parent=https://sites.google.com/site/unblockedgame76/basket-random#st=e%3DAIHE3cDdLuhtOZhDgaHCSbx0lixygHcW0%252BSTp8mA0Xw5B%252Bq%252BN493WbkH74q6Z8xtqpr5cOIWiQeCeQ%252BlSDyBw%252BpehcEfVpu7Gcf3SardRsqmmqlS%252BG9%252FszQ%253D%26c%3Denterprise&amp;rpctoken=5086229488593983439"
+              href="https://guzuvy.github.io/BasketRandom/https://guzuvy.github.io/BasketRandom/"
               target="_blank"
               rel="noreferrer noopener"
               className="games-link07 button"
