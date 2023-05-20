@@ -185,7 +185,7 @@ const Home = (props) => {
             </Link>
             <Link to="/bounty" className="home-navlink2">
               <div className="home-container13">
-                <span className="home-text39">new bounty!</span>
+                <span className="home-text39">bounties!</span>
               </div>
             </Link>
           </div>
