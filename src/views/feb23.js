@@ -48,11 +48,7 @@ const Feb23 = (props) => {
           </span>
           <div className="feb23-container5">
             <div className="feb23-profile">
-              <img
-                alt="profile"
-                src="/playground_assets/catpic.png"
-                className="feb23-image1"
-              />
+              <img alt="profile" src="/catpic.png" className="feb23-image1" />
             </div>
             <Link to="/archive" className="feb23-navlink">
               want to see all of my blogs? here!

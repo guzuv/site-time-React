@@ -57,11 +57,7 @@ const Nov22 = (props) => {
           </span>
           <div className="nov22-container4">
             <div className="nov22-profile">
-              <img
-                alt="profile"
-                src="/playground_assets/catpic.png"
-                className="nov22-image"
-              />
+              <img alt="profile" src="/catpic.png" className="nov22-image" />
             </div>
             <span className="nov22-text8">me lol</span>
           </div>

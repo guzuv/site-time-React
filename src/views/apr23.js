@@ -45,11 +45,7 @@ const Apr23 = (props) => {
         </span>
         <div className="apr23-container5">
           <div className="apr23-profile">
-            <img
-              alt="profile"
-              src="/playground_assets/catpic.png"
-              className="apr23-image1"
-            />
+            <img alt="profile" src="/catpic.png" className="apr23-image1" />
           </div>
           <Link to="/archive" className="apr23-navlink">
             want to see all of my blogs? here!

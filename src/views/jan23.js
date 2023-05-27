@@ -49,11 +49,7 @@ const Jan23 = (props) => {
             </span>
             <div className="jan23-container7">
               <div className="jan23-profile">
-                <img
-                  alt="profile"
-                  src="/playground_assets/catpic.png"
-                  className="jan23-image1"
-                />
+                <img alt="profile" src="/catpic.png" className="jan23-image1" />
               </div>
               <span className="jan23-text5">me lol</span>
             </div>

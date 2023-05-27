@@ -72,11 +72,7 @@ const Oct22 = (props) => {
           </span>
           <div className="oct22-container3">
             <div className="oct22-profile">
-              <img
-                alt="profile"
-                src="/playground_assets/catpic.png"
-                className="oct22-image1"
-              />
+              <img alt="profile" src="/catpic.png" className="oct22-image1" />
             </div>
             <span className="oct22-text11">me lol</span>
           </div>
@@ -116,11 +112,7 @@ const Oct22 = (props) => {
             </span>
             <div className="oct22-container6">
               <div className="oct22-profile1">
-                <img
-                  alt="profile"
-                  src="/playground_assets/catpic.png"
-                  className="oct22-image3"
-                />
+                <img alt="profile" src="/catpic.png" className="oct22-image3" />
               </div>
               <span className="oct22-text20">me lol</span>
             </div>
