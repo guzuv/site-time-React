@@ -26,7 +26,7 @@ const Home = (props) => {
             <h1 className="home-heading">welcome to guzuv&apos;s site!</h1>
             <div className="home-container02">
               <span className="home-text">
-                <span>“epic quote here”</span>
+                <span>“the cats name is leo, not guzuv!”</span>
                 <br></br>
                 <br></br>
                 <span>patch notes:</span>
