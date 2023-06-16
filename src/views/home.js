@@ -31,7 +31,7 @@ const Home = (props) => {
                 <br></br>
                 <span>patch notes:</span>
                 <br></br>
-                <span>-fixed emulator!</span>
+                <span>-cleaned up unfunctional games!</span>
                 <br></br>
               </span>
             </div>
