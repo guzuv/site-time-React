@@ -789,7 +789,7 @@ const Games = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://395713058-173957204856294731.preview.editmysite.com/uploads/b/139890129-314264279627264120/files/smb.xml"
+                href="https://gg-opensocial.googleusercontent.com/gadgets/ifr?url=https://395713058-173957204856294731.preview.editmysite.com/uploads/b/139890129-314264279627264120/files/smb.xml"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="games-link40 button"
