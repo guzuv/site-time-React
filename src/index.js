@@ -1,6 +1,11 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import { BrowserRouter as Router, Route } from 'react-router-dom'
+import {
+  BrowserRouter as Router,
+  Route,
+  Switch,
+  Redirect,
+} from 'react-router-dom'
 
 import './style.css'
 import Oct22 from './views/oct22'
@@ -14,11 +19,12 @@ import Feb23 from './views/feb23'
 import Home from './views/home'
 import Apr23 from './views/apr23'
 import Nov22 from './views/nov22'
+import NotFound from './views/not-found'
 
 const App = () => {
   return (
     <Router>
-      <div>
+      <Switch>
         <Route component={Oct22} exact path="/oct22" />
         <Route component={Archive} exact path="/archive" />
         <Route component={Jan23} exact path="/jan23" />
@@ -30,7 +36,9 @@ const App = () => {
         <Route component={Home} exact path="/" />
         <Route component={Apr23} exact path="/apr23" />
         <Route component={Nov22} exact path="/nov22" />
-      </div>
+        <Route component={NotFound} path="**" />
+        <Redirect to="**" />
+      </Switch>
     </Router>
   )
 }

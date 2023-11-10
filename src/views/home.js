@@ -31,7 +31,7 @@ const Home = (props) => {
                 <br></br>
                 <span>patch notes:</span>
                 <br></br>
-                <span>- cleaned up unfunctional games!</span>
+                <span>- fixed grindcraft!</span>
                 <br></br>
                 <span>
                   - made a quick game

@@ -374,7 +374,7 @@ const Games = (props) => {
               make people grind for you!
             </span>
             <a
-              href="https://gg-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if2dv@040102de939133290db9b52abd1a0c8f2804b49d/zbk36g7/d8g3s.xml"
+              href="https://grindcraft.fbrq.io/grindcraft/index.html"
               target="_blank"
               rel="noreferrer noopener"
               className="games-link20 button"
