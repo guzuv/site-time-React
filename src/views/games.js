@@ -800,6 +800,30 @@ const Games = (props) => {
                 </span>
               </a>
             </div>
+            <div className="games-card-content39">
+              <h3 className="games-text210">
+                <span className="BigCard-Heading">janissary battles!</span>
+                <br></br>
+              </h3>
+              <span className="games-text213">
+                <span>
+                  like random basketball? here&apos;s a new game by the same
+                  people, now with sharp objects!
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/yrgen73/janibatt@a9212750ab7fcdb5f37ae991c38fef738aa37eba/jb.xml"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link41 button"
+              >
+                <span className="games-text216">
+                  <span>2 player madness!</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
           </div>
         </div>
       </div>
