@@ -81,7 +81,7 @@ const Games = (props) => {
               with a friend. voice chat may come soon.
             </span>
             <a
-              href="https://guzuv.github.io/guzEmu/"
+              href="https://guzuv.github.io/test/"
               target="_blank"
               rel="noreferrer noopener"
               className="games-link03 button"
