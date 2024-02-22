@@ -471,7 +471,7 @@ const Games = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://1v1lol.56306.repl.co/"
+                href="https://watchdocumentaries.com/wp-content/uploads/games/1v1-lol/"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="games-link26 button"
