@@ -117,6 +117,18 @@ const Archive = (props) => {
               />
             </Link>
           </div>
+          <div className="archive-feature-card7">
+            <Link to="/apr23" className="archive-navlink14">
+              <h2 className="archive-text12">feb 2024</h2>
+            </Link>
+            <Link to="/apr23" className="archive-navlink15">
+              <img
+                alt="image"
+                src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpickmysolar.com%2Fwp-content%2Fuploads%2F2017%2F09%2Fanimat-wrench-color.gif&amp;f=1&amp;nofb=1&amp;ipt=ea5e0d81f73af0c54da8087e21b41325b9159529c251869fd62ea55ca2b2adbc&amp;ipo=images"
+                className="archive-image7"
+              />
+            </Link>
+          </div>
         </div>
       </div>
     </div>
