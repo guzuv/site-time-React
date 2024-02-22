@@ -51,7 +51,7 @@ const Games = (props) => {
               <span>now with free chat, have fun!</span>
             </span>
             <a
-              href="https://among-us-online-fan-remake.1tim.repl.co/"
+              href="https://among-us-1tim-temp-dmain.netlify.app/"
               target="_blank"
               rel="noreferrer noopener"
               className="games-link01 button"
