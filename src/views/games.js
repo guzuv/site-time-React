@@ -354,7 +354,7 @@ const Games = (props) => {
               you&apos;ll need it.
             </span>
             <a
-              href="https://nzp-team.github.io/latest/game.html"
+              href="https://nzp.gay"
               target="_blank"
               rel="noreferrer noopener"
               className="games-link19 button"
