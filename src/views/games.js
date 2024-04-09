@@ -485,7 +485,7 @@ const Games = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://watchdocumentaries.com/wp-content/uploads/games/1v1-lol/"
+                href="https://book-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/mind4ur/debugactions@e1ff864f83967d55547361b35f6f1e0f8c093b74/old/old.xml&amp;container=ig"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="games-link27 button"
@@ -829,6 +829,30 @@ const Games = (props) => {
               >
                 <span className="games-text214">
                   <span>2 player madness!</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
+            <div className="games-card-content41">
+              <h3 className="games-text217">
+                <span className="BigCard-Heading">johnny upgrade.</span>
+                <br></br>
+              </h3>
+              <span className="games-text220">
+                <span>
+                  play as a hero, but broke! grab some cash and buy your way to
+                  the top!
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/f107b843-3661-4036-9397-2b0c6414a369%2Fjohnny-upgrade.xml&amp;container=ig"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link43 button"
+              >
+                <span className="games-text223">
+                  <span>get that bling!</span>
                   <br></br>
                 </span>
               </a>
