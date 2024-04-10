@@ -169,7 +169,7 @@ const Games = (props) => {
               subway surfers!
             </span>
             <a
-              href="https://subwaysurfersonlinegame.github.io/"
+              href="https://subwaysurfersonlinegame.github.io/file/"
               target="_blank"
               rel="noreferrer noopener"
               className="games-link09 button"
@@ -287,7 +287,7 @@ const Games = (props) => {
               <br></br>
             </span>
             <a
-              href="https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://471058263-725410472258601738.preview.editmysite.com/uploads/b/139890129-510930859892590631/files/sr.xml"
+              href="https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://471058263-725410472258601738.preview.editmysite.com/uploads/b/139890129-510930859892590631/files/sr.xml&amp;container=ig"
               target="_blank"
               rel="noreferrer noopener"
               className="games-link15 button"
@@ -369,7 +369,7 @@ const Games = (props) => {
               make people grind for you!
             </span>
             <a
-              href="https://gg-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/bobydob/godotpack@a808d88ace701810e236b7de190215fa6eed6415/side/gr-cr/gc.xml"
+              href="https://gg-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/bobydob/godotpack@a808d88ace701810e236b7de190215fa6eed6415/side/gr-cr/gc.xml&amp;container=ig"
               target="_blank"
               rel="noreferrer noopener"
               className="games-link20 button"
@@ -402,7 +402,7 @@ const Games = (props) => {
               rel="noreferrer noopener"
               className="games-link22 button"
             >
-              <span className="games-text080">superhot!</span>
+              <span className="games-text080">SUPERHOT!</span>
             </a>
           </div>
         </div>
@@ -467,7 +467,7 @@ const Games = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://fridaynight-funkin.github.io/"
+                href="https://boxing2.github.io/b88/friday-night-funkin"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="games-link26 button"
@@ -520,7 +520,7 @@ const Games = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/gertdoro/Kubeflow@5135ede44898cc3790a1ca1083e77d94e3ad2f7f/admission-webhook/pkg/apis/pga2.xml"
+                href="https://nowcollege.com/uploads/5/0/5/6/5056555/custom_themes/607463927942590340/pixel-combat2.html"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="games-link29 button"
@@ -793,7 +793,8 @@ const Games = (props) => {
               <span className="games-text202">
                 <span>
                   super mario bros! with a level creator, mods, and the original
-                  game, all in one!
+                  game, all in one! if it&apos;s laggy, set fps to 30 and
+                  resolution to NES!
                 </span>
                 <br></br>
               </span>
