@@ -383,7 +383,7 @@ const Games = (props) => {
               play some fun, and challenging levels, now with a marbled block!
             </span>
             <a
-              href="https://guzuvy.github.io/bloxorhttps://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/8c491f21-7353-4f1f-b2a0-9544824c4d28%2Fbloxors.xmlz/"
+              href="https://guzuvy.github.io/bloxorz"
               target="_blank"
               rel="noreferrer noopener"
               className="games-link21 button"
