@@ -798,7 +798,7 @@ const Games = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://gg-opensocial.googleusercontent.com/gadgets/ifr?url=https://57264959-967300405472742195.preview.editmysite.com/uploads/b/11886820-385538800742658772/files/smb.xml"
+                href="https://foss2016.github.io/"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="games-link41 button"
