@@ -187,7 +187,7 @@ const Games = (props) => {
               dash!
             </span>
             <a
-              href="https://geometry-dash-online.github.io/a8/geometry-dash/"
+              href="https://lll69.github.io/turbo-warp-scratch-gui/fullscreen.html?interpolate#105500895"
               target="_blank"
               rel="noreferrer noopener"
               className="games-link10 button"
