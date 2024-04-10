@@ -953,6 +953,9 @@
     width: auto;
     height: auto;
   }
+  .home-link {
+    color: #00faff;
+  }
   .home-image7 {
     width: 25%;
     height: auto;

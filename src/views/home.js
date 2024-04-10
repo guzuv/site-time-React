@@ -369,7 +369,19 @@ const Home = (props) => {
                 src="https://e7.pngegg.com/pngimages/64/167/png-clipart-discord-computer-icons-logo-antopodis-logo-miscellaneous-smiley.png"
                 className="home-image6"
               />
-              <span>  guzuv</span>
+              <span>
+                <span>  guzuv</span>
+                <br></br>
+                <a
+                  href="https://discord.gg/bCSzm7k3fe"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  className="home-link"
+                >
+                   join the server?
+                </a>
+                <br></br>
+              </span>
             </div>
           </div>
         </div>
