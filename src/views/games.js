@@ -243,7 +243,7 @@ const Games = (props) => {
               <br></br>
             </span>
             <a
-              href="https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/zhit73/tallteamSK@034c728950cc6399a588e338b653e6cfd3aaad1d/sk.xml"
+              href="https://script.google.com/macros/s/AKfycbx63iRe5mtf5PQGIn_eGwKePxCA1iU6w-YApn57Mh4phi2ZB-G-GCJA1YTV9jKrwoqb/exec"
               target="_blank"
               rel="noreferrer noopener"
               className="games-link13 button"
