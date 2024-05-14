@@ -31,9 +31,9 @@ const Home = (props) => {
                 <br></br>
                 <span>patch notes:</span>
                 <br></br>
-                <span>-fixed every game (again).</span>
+                <span>-fixed cod zombies</span>
                 <br></br>
-                <span>-brand new game!</span>
+                <span>-added a slithery new game</span>
                 <br></br>
               </span>
             </div>
