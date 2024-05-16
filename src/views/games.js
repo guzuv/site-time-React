@@ -872,6 +872,29 @@ const Games = (props) => {
                 </span>
               </a>
             </div>
+            <div className="games-card-content43">
+              <h3 className="games-text229">
+                <span className="BigCard-Heading">rooftop snipers!</span>
+                <br></br>
+              </h3>
+              <span className="games-text232">
+                <span>
+                  fire away at your pals, and fling them off the rooftop!
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/version@f8de953e5d955baef80e3994a1105d74ad76315b/Rooftop-Snipers.xml&amp;container=ig"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="games-link45 button"
+              >
+                <span className="games-text235">
+                  <span>fire away!</span>
+                  <br></br>
+                </span>
+              </a>
+            </div>
           </div>
         </div>
       </div>
