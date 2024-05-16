@@ -103,7 +103,7 @@ const Bounty = (props) => {
           <br></br>
           <span>
             expires in: 9/1/2023! (claimed by @959922152600113152
-            &quot;luke&quot;)
+            &quot;fluxx&quot;)
           </span>
           <br></br>
           <span>SEND PROOF WITH &quot;want a game?&quot; button!</span>
