@@ -837,7 +837,7 @@ const Games = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/yrgen73/janibatt@a9212750ab7fcdb5f37ae991c38fef738aa37eba/jb.xml"
+                href="https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/yrgen73/janibatt@a9212750ab7fcdb5f37ae991c38fef738aa37eba/jb.xml&amp;container=ig"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="games-link43 button"
