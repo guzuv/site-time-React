@@ -440,7 +440,7 @@ const Games = (props) => {
               DayZ, reimagined as a topdown singleplayer experience. Survive!
             </span>
             <a
-              href="https://script.google.com/macros/s/AKfycbyfMPVIGx6dJPrYKeE9e4Erj949-dH28pWVRjdV1vgnoylpBV8af03JNLoz2MwAIBLECg/exec"
+              href="https://nextdev65.github.io/MiniDayZ/"
               target="_blank"
               rel="noreferrer noopener"
               className="games-link25 button"
