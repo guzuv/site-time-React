@@ -411,7 +411,7 @@ const Games = (props) => {
               slither io, now with even more scratch! also has multiplayer.
             </span>
             <a
-              href="https://slitherioonline.github.io/file/"
+              href="https://play-unblocked.github.io/slitherio/"
               target="_blank"
               rel="noreferrer noopener"
               className="games-link23 button"
