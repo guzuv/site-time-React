@@ -937,7 +937,7 @@ const Games = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/version@f8de953e5d955baef80e3994a1105d74ad76315b/Rooftop-Snipers.xml&amp;container=ig"
+                href="https://sites.google.com/site/unblockedgame76/gunblood"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="games-link48 button"
