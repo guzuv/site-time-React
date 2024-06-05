@@ -445,7 +445,7 @@ const Games = (props) => {
               rel="noreferrer noopener"
               className="games-link25 button"
             >
-              <span className="games-text089">rags to more rags :/</span>
+              <span className="games-text089">rags to rope!</span>
             </a>
           </div>
         </div>
