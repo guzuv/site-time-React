@@ -937,7 +937,7 @@ const Games = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://sites.google.com/site/unblockedgame76/gunblood"
+                href="https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/f107b843-3661-4036-9397-2b0c6414a369%2Fgunblood.xml&amp;container=ig"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="games-link48 button"
