@@ -31,9 +31,7 @@ const Home = (props) => {
                 <br></br>
                 <span>patch notes:</span>
                 <br></br>
-                <span>-added a gorey game.</span>
-                <br></br>
-                <span>-added DayZ</span>
+                <span>-added a POPular game!</span>
                 <br></br>
               </span>
             </div>
