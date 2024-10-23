@@ -7,7 +7,7 @@ import './mar23.css'
 
 const Mar23 = (props) => {
   return (
-    <div className="mar23-container">
+    <div className="mar23-container1">
       <Helmet>
         <title>mar23 - guzuv says hi!</title>
         <meta
@@ -20,22 +20,22 @@ const Mar23 = (props) => {
           content="hey, we got games and fun here at guzuv.ml!"
         />
       </Helmet>
-      <div id="blog" className="mar23-container1">
-        <div className="mar23-container2">
-          <span className="mar23-text"> </span>
-        </div>
+      <div id="blog" className="mar23-container2">
         <div className="mar23-container3">
-          <div className="mar23-container4">
-            <h1 className="mar23-text1">new game!</h1>
+          <span className="mar23-text1"> </span>
+        </div>
+        <div className="mar23-container4">
+          <div className="mar23-container5">
+            <h1 className="mar23-text2">new game!</h1>
           </div>
           <img
             alt="image"
             src="https://steamcdn-a.akamaihd.net/steam/apps/322500/extras/181002_GIF_SUPERHOT.jpg?t=1545385282"
-            className="mar23-image"
+            className="mar23-image1"
           />
         </div>
-        <span className="mar23-text2">March 23, 2023</span>
-        <span className="mar23-text3">
+        <span className="mar23-text3">March 23, 2023</span>
+        <span className="mar23-text4">
           Time Shooters 2 is a unique and innovative (other than the original)
           first-person shooter game where time moves only when you move. This
           interesting gameplay mechanic turns traditional action gaming upside
@@ -44,14 +44,14 @@ const Mar23 = (props) => {
           your enemies before they have a chance to react. The minimalist
           approach to game design makes for an enjoyable and stylish experience.
         </span>
-        <div className="mar23-container5">
+        <div className="mar23-container6">
           <div className="mar23-profile">
-            <img alt="profile" src="/catpic.png" className="mar23-image1" />
+            <img alt="profile" src="/catpic.png" className="mar23-image2" />
           </div>
           <Link to="/archive" className="mar23-navlink">
             want to see all of my blogs? here!
           </Link>
-          <span className="mar23-text4">me lol</span>
+          <span className="mar23-text5">me lol</span>
         </div>
       </div>
     </div>

@@ -7,7 +7,7 @@ import './feb23.css'
 
 const Feb23 = (props) => {
   return (
-    <div className="feb23-container">
+    <div className="feb23-container1">
       <Helmet>
         <title>feb23 - guzuv says hi!</title>
         <meta
@@ -21,22 +21,22 @@ const Feb23 = (props) => {
         />
       </Helmet>
       <div className="feb23-blog-post-card">
-        <div id="blog" className="feb23-container1">
-          <div className="feb23-container2">
-            <span className="feb23-text"> </span>
-          </div>
+        <div id="blog" className="feb23-container2">
           <div className="feb23-container3">
-            <div className="feb23-container4">
-              <h1 className="feb23-text1">valentine&apos;s day! </h1>
+            <span className="feb23-text1"> </span>
+          </div>
+          <div className="feb23-container4">
+            <div className="feb23-container5">
+              <h1 className="feb23-text2">valentine&apos;s day! </h1>
             </div>
             <img
               alt="image"
               src="https://gifcord.gg/direct/8f18d1b9-4b71-42ef-98c5-6f6126ab4b66-8033.gif"
-              className="feb23-image"
+              className="feb23-image1"
             />
           </div>
-          <span className="feb23-text2">February 7, 2023</span>
-          <span className="feb23-text3">
+          <span className="feb23-text3">February 7, 2023</span>
+          <span className="feb23-text4">
             Valentine&apos;s day is coming soon! It is a very special day for
             lovers, and also a day when many people propose marriage. On this
             day, couples exchange gifts and express their love for each other.
@@ -46,14 +46,14 @@ const Feb23 = (props) => {
             dance you can go to, with someone you care about, or just spend it
             your best buds.
           </span>
-          <div className="feb23-container5">
+          <div className="feb23-container6">
             <div className="feb23-profile">
-              <img alt="profile" src="/catpic.png" className="feb23-image1" />
+              <img alt="profile" src="/catpic.png" className="feb23-image2" />
             </div>
             <Link to="/archive" className="feb23-navlink">
               want to see all of my blogs? here!
             </Link>
-            <span className="feb23-text4">me lol</span>
+            <span className="feb23-text5">me lol</span>
           </div>
         </div>
       </div>

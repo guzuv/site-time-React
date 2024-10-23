@@ -6,7 +6,7 @@ import './oct22.css'
 
 const Oct22 = (props) => {
   return (
-    <div className="oct22-container">
+    <div className="oct22-container1">
       <Helmet>
         <title>oct22 - guzuv says hi!</title>
         <meta
@@ -20,19 +20,19 @@ const Oct22 = (props) => {
         />
       </Helmet>
       <div className="oct22-blog-post-card">
-        <div className="oct22-container1">
-          <div className="oct22-container2">
-            <span className="oct22-text"> </span>
+        <div className="oct22-container2">
+          <div className="oct22-container3">
+            <span className="oct22-text10"> </span>
           </div>
           <img
             alt="image"
             src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F1AhjFyCwrwKS4%2Fsource.gif&amp;f=1&amp;nofb=1&amp;ipt=3fed2725c4625a47e87be670a16324058348f3eb7db4fc8d3e4a737b8781e129&amp;ipo=images"
             image_src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDd8fHBvcnRyYWl0fGVufDB8fHx8MTYyNjM3ODk3Mg&amp;ixlib=rb-1.2.1&amp;h=1000"
-            className="oct22-image"
+            className="oct22-image1"
           />
-          <h1 className="oct22-text01">new game!</h1>
-          <span className="oct22-text02">october 14, 2022</span>
-          <span className="oct22-text03">
+          <h1 className="oct22-text11">new game!</h1>
+          <span className="oct22-text12">october 14, 2022</span>
+          <span className="oct22-text13">
             <span>
                I just added a new game to my site and I think you&apos;ll really
               enjoy it. It&apos;s called Super Mario 64 and it&apos;s an old
@@ -70,24 +70,24 @@ const Oct22 = (props) => {
             </span>
             <br></br>
           </span>
-          <div className="oct22-container3">
-            <div className="oct22-profile">
-              <img alt="profile" src="/catpic.png" className="oct22-image1" />
-            </div>
-            <span className="oct22-text11">me lol</span>
-          </div>
           <div className="oct22-container4">
-            <div className="oct22-container5">
-              <span className="oct22-text12"> </span>
+            <div className="oct22-profile1">
+              <img alt="profile" src="/catpic.png" className="oct22-image2" />
+            </div>
+            <span className="oct22-text21">me lol</span>
+          </div>
+          <div className="oct22-container5">
+            <div className="oct22-container6">
+              <span className="oct22-text22"> </span>
             </div>
             <img
               alt="image"
               src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsmashboards.com%2Fattachments%2Fboyfriend-gif.302219%2F&amp;f=1&amp;nofb=1&amp;ipt=019ae4d1ef6a7eebff462a5606ca7f4ec218415748b02cc0568cdd8a26a2147f&amp;ipo=images"
-              className="oct22-image2"
+              className="oct22-image3"
             />
-            <h1 className="oct22-text13">Fresh new game!</h1>
-            <span className="oct22-text14">october 25, 2022</span>
-            <span className="oct22-text15">
+            <h1 className="oct22-text23">Fresh new game!</h1>
+            <span className="oct22-text24">october 25, 2022</span>
+            <span className="oct22-text25">
               <span>
                 Friday Night Funkin&apos; is a rhythm game created by
                 Ninjamuffin99 and published by Newgrounds. The game has been
@@ -110,11 +110,11 @@ const Oct22 = (props) => {
                 people of all ages and is sure to get you moving and grooving.
               </span>
             </span>
-            <div className="oct22-container6">
-              <div className="oct22-profile1">
-                <img alt="profile" src="/catpic.png" className="oct22-image3" />
+            <div className="oct22-container7">
+              <div className="oct22-profile2">
+                <img alt="profile" src="/catpic.png" className="oct22-image4" />
               </div>
-              <span className="oct22-text20">me lol</span>
+              <span className="oct22-text30">me lol</span>
             </div>
           </div>
         </div>

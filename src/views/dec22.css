@@ -1,4 +1,4 @@
-.dec22-container {
+.dec22-container1 {
   width: 100%;
   display: flex;
   overflow: auto;
@@ -21,7 +21,7 @@
 .dec22-blog-post-card:hover {
   transform: scale(1.02);
 }
-.dec22-container1 {
+.dec22-container2 {
   width: auto;
   height: 100%;
   display: flex;
@@ -33,7 +33,7 @@
   padding-bottom: 32px;
   justify-content: space-between;
 }
-.dec22-container2 {
+.dec22-container3 {
   width: 100%;
   display: flex;
   align-items: flex-start;
@@ -41,16 +41,16 @@
   flex-direction: row;
   justify-content: space-between;
 }
-.dec22-text {
+.dec22-text1 {
   color: var(--dl-color-gray-500);
   font-weight: 600;
   text-transform: uppercase;
 }
-.dec22-text1 {
+.dec22-text2 {
   color: rgb(255, 255, 255);
   margin-bottom: 32px;
 }
-.dec22-container3 {
+.dec22-container4 {
   flex: 0 0 auto;
   width: auto;
   height: auto;
@@ -58,12 +58,12 @@
   align-items: flex-start;
   justify-content: flex-start;
 }
-.dec22-image {
+.dec22-image1 {
   width: auto;
   height: auto;
   object-fit: cover;
 }
-.dec22-container4 {
+.dec22-container5 {
   flex: 0 0 auto;
   width: auto;
   border: 2px dashed rgba(120, 120, 120, 0.4);
@@ -72,16 +72,16 @@
   align-items: flex-start;
   justify-content: flex-start;
 }
-.dec22-text2 {
+.dec22-text3 {
   color: var(--dl-color-gray-500);
   font-weight: 300;
 }
-.dec22-text3 {
+.dec22-text4 {
   color: var(--dl-color-gray-500);
   font-size: 1.25rem;
   margin-bottom: 32px;
 }
-.dec22-container5 {
+.dec22-container6 {
   width: 100%;
   display: flex;
   align-items: center;
@@ -92,17 +92,17 @@
   display: flex;
   align-items: center;
 }
-.dec22-image1 {
+.dec22-image2 {
   width: 48px;
   height: 48px;
   object-fit: cover;
   border-radius: var(--dl-radius-radius-round);
 }
-.dec22-text4 {
+.dec22-text5 {
   color: #ffffff;
 }
 @media(max-width: 1200px) {
-  .dec22-container {
+  .dec22-container1 {
     background-color: #000000;
   }
   .dec22-blog-post-card {
@@ -110,16 +110,16 @@
     height: 100%;
     max-width: auto;
   }
-  .dec22-container1 {
+  .dec22-container2 {
     width: auto;
     height: auto;
   }
 }
 @media(max-width: 479px) {
-  .dec22-image {
+  .dec22-image1 {
     width: auto;
   }
-  .dec22-text3 {
+  .dec22-text4 {
     width: auto;
   }
 }

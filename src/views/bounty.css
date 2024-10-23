@@ -7,34 +7,6 @@
   flex-direction: column;
   background-color: #000000;
 }
-.bounty-card-content {
-  width: auto;
-  height: auto;
-  margin: var(--dl-space-space-fiveunits);
-  display: flex;
-  padding: var(--dl-space-space-fiveunits);
-  max-width: auto;
-  align-items: center;
-  flex-direction: column;
-  justify-content: center;
-}
-.bounty-text {
-  color: #ffffff;
-  text-align: center;
-  margin-bottom: var(--dl-space-space-fourunits);
-}
-.bounty-text01 {
-  color: var(--dl-color-primary-700);
-  text-align: center;
-  margin-bottom: var(--dl-space-space-fourunits);
-}
-.bounty-link {
-  text-decoration: underline;
-}
-.bounty-text13 {
-  font-style: normal;
-  font-weight: 700;
-}
 .bounty-card-content1 {
   width: auto;
   height: auto;
@@ -46,23 +18,20 @@
   flex-direction: column;
   justify-content: center;
 }
-.bounty-text15 {
+.bounty-text10 {
   color: #ffffff;
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.bounty-text16 {
+.bounty-text11 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.bounty-text20 {
-  color: #0fff00;
-}
 .bounty-link1 {
   text-decoration: underline;
 }
-.bounty-text27 {
+.bounty-text23 {
   font-style: normal;
   font-weight: 700;
 }
@@ -77,33 +46,64 @@
   flex-direction: column;
   justify-content: center;
 }
-.bounty-text29 {
+.bounty-text25 {
   color: #ffffff;
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.bounty-text30 {
+.bounty-text26 {
   color: var(--dl-color-primary-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
+.bounty-text30 {
+  color: #0fff00;
+}
 .bounty-link2 {
   text-decoration: underline;
 }
+.bounty-text37 {
+  font-style: normal;
+  font-weight: 700;
+}
+.bounty-card-content3 {
+  width: auto;
+  height: auto;
+  margin: var(--dl-space-space-fiveunits);
+  display: flex;
+  padding: var(--dl-space-space-fiveunits);
+  max-width: auto;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.bounty-text39 {
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.bounty-text40 {
+  color: var(--dl-color-primary-700);
+  text-align: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.bounty-link3 {
+  text-decoration: underline;
+}
 @media(max-width: 1600px) {
-  .bounty-text01 {
+  .bounty-text11 {
     color: var(--dl-color-primary-700);
   }
-  .bounty-text05 {
+  .bounty-text15 {
     color: #0fff00;
   }
-  .bounty-text06 {
+  .bounty-text16 {
     color: var(--dl-color-primary-700);
   }
-  .bounty-link {
+  .bounty-link1 {
     text-decoration: underline;
   }
-  .bounty-text13 {
+  .bounty-text23 {
     font-style: normal;
     font-weight: 700;
   }
@@ -112,86 +112,71 @@
   .bounty-container {
     background-color: #000000;
   }
-  .bounty-card-content {
-    width: auto;
-    max-width: 100%;
-  }
-  .bounty-text {
-    color: rgb(255, 255, 255);
-  }
-  .bounty-text01 {
-    color: var(--dl-color-primary-700);
-  }
-  .bounty-text02 {
-    font-size: 16px;
-  }
-  .bounty-text05 {
-    color: #0fff00;
-  }
-  .bounty-text06 {
-    color: var(--dl-color-primary-700);
-  }
-  .bounty-link {
-    text-decoration: underline;
-  }
-  .bounty-text13 {
-    font-style: normal;
-    font-weight: 700;
-  }
   .bounty-card-content1 {
     width: auto;
     max-width: 100%;
   }
+  .bounty-text10 {
+    color: rgb(255, 255, 255);
+  }
+  .bounty-text11 {
+    color: var(--dl-color-primary-700);
+  }
+  .bounty-text12 {
+    font-size: 16px;
+  }
+  .bounty-text15 {
+    color: #0fff00;
+  }
   .bounty-text16 {
     color: var(--dl-color-primary-700);
   }
-  .bounty-text17 {
-    font-size: 16px;
-  }
   .bounty-link1 {
     text-decoration: underline;
+  }
+  .bounty-text23 {
+    font-style: normal;
+    font-weight: 700;
   }
   .bounty-card-content2 {
     width: auto;
     max-width: 100%;
   }
-  .bounty-text30 {
+  .bounty-text26 {
     color: var(--dl-color-primary-700);
   }
-  .bounty-text31 {
+  .bounty-text27 {
     font-size: 16px;
   }
   .bounty-link2 {
     text-decoration: underline;
   }
+  .bounty-card-content3 {
+    width: auto;
+    max-width: 100%;
+  }
+  .bounty-text40 {
+    color: var(--dl-color-primary-700);
+  }
+  .bounty-text41 {
+    font-size: 16px;
+  }
+  .bounty-link3 {
+    text-decoration: underline;
+  }
 }
 @media(max-width: 479px) {
-  .bounty-card-content {
-    width: auto;
-    height: auto;
-    max-width: auto;
-  }
-  .bounty-text {
-    width: auto;
-    height: auto;
-    max-width: auto;
-  }
-  .bounty-text01 {
-    width: auto;
-    height: auto;
-    max-width: auto;
-  }
   .bounty-card-content1 {
     width: auto;
     height: auto;
     max-width: auto;
   }
-  .bounty-text15 {
+  .bounty-text10 {
     width: auto;
     height: auto;
     max-width: auto;
   }
-  .bounty-text16 {
+  .bounty-text11 {
     width: auto;
     height: auto;
     max-width: auto;
@@ -201,12 +186,27 @@
     height: auto;
     max-width: auto;
   }
-  .bounty-text29 {
+  .bounty-text25 {
     width: auto;
     height: auto;
     max-width: auto;
   }
-  .bounty-text30 {
+  .bounty-text26 {
+    width: auto;
+    height: auto;
+    max-width: auto;
+  }
+  .bounty-card-content3 {
+    width: auto;
+    height: auto;
+    max-width: auto;
+  }
+  .bounty-text39 {
+    width: auto;
+    height: auto;
+    max-width: auto;
+  }
+  .bounty-text40 {
     width: auto;
     height: auto;
     max-width: auto;

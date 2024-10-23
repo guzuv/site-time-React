@@ -6,7 +6,7 @@ import './nov22.css'
 
 const Nov22 = (props) => {
   return (
-    <div className="nov22-container">
+    <div className="nov22-container1">
       <Helmet>
         <title>nov22 - guzuv says hi!</title>
         <meta
@@ -24,19 +24,19 @@ const Nov22 = (props) => {
         src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbestanimations.com%2FSigns%26Shapes%2FWorship%2FChristian%2Fcross-animated-gif-29.gif&amp;f=1&amp;nofb=1&amp;ipt=4b26f7f921ce9a0068d158f4275040b882126fbdb75cf7f29231599ff145006d&amp;ipo=images"
         className="nov22-pasted-image"
       />
-      <span className="nov22-text">
+      <span className="nov22-text1">
         shout out to Alex Halmer for inspiring me.
       </span>
       <div className="nov22-blog-post-card">
-        <div className="nov22-container1">
-          <div className="nov22-container2">
-            <span className="nov22-text1"> </span>
-          </div>
+        <div className="nov22-container2">
           <div className="nov22-container3">
-            <h1 className="nov22-text2">remember them all.</h1>
-            <span className="nov22-text3">  november 11, 2022</span>
+            <span className="nov22-text2"> </span>
           </div>
-          <span className="nov22-text4">
+          <div className="nov22-container4">
+            <h1 className="nov22-text3">remember them all.</h1>
+            <span className="nov22-text4">  november 11, 2022</span>
+          </div>
+          <span className="nov22-text5">
             <span>
               Remembrance day is a Canadian tradition that dates back to the
               First World War. Every year on November 11th, Canadians across the
@@ -55,11 +55,11 @@ const Nov22 = (props) => {
               deserving of our utmost respect.
             </span>
           </span>
-          <div className="nov22-container4">
+          <div className="nov22-container5">
             <div className="nov22-profile">
               <img alt="profile" src="/catpic.png" className="nov22-image" />
             </div>
-            <span className="nov22-text8">me lol</span>
+            <span className="nov22-text9">me lol</span>
           </div>
         </div>
       </div>

@@ -6,7 +6,7 @@ import './jan23.css'
 
 const Jan23 = (props) => {
   return (
-    <div className="jan23-container">
+    <div className="jan23-container1">
       <Helmet>
         <title>jan23 - guzuv says hi!</title>
         <meta
@@ -20,26 +20,26 @@ const Jan23 = (props) => {
         />
       </Helmet>
       <div className="jan23-blog-post-card">
-        <div id="blog" className="jan23-container1">
-          <div className="jan23-container2">
-            <span className="jan23-text"> </span>
+        <div id="blog" className="jan23-container2">
+          <div className="jan23-container3">
+            <span className="jan23-text1"> </span>
           </div>
-          <div id="blog" className="jan23-container3">
-            <div className="jan23-container4">
-              <span className="jan23-text1"> </span>
-            </div>
+          <div id="blog" className="jan23-container4">
             <div className="jan23-container5">
-              <div className="jan23-container6">
-                <h1 className="jan23-text2">new year! </h1>
+              <span className="jan23-text2"> </span>
+            </div>
+            <div className="jan23-container6">
+              <div className="jan23-container7">
+                <h1 className="jan23-text3">new year! </h1>
               </div>
               <img
                 alt="image"
                 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FmJU99ZjtlQsAAAAM%2Ftbh-creature.gif&amp;f=1&amp;nofb=1&amp;ipt=6357997f4b96b4faa7b62cd234f1cf845d868843ffda79ed9e2f988d7b22de7a&amp;ipo=images"
-                className="jan23-image"
+                className="jan23-image1"
               />
             </div>
-            <span className="jan23-text3">January 7, 2022</span>
-            <span className="jan23-text4">
+            <span className="jan23-text4">January 7, 2022</span>
+            <span className="jan23-text5">
               I&apos;m so excited for the new year! I can&apos;t wait to see
               what the next year has in store for us all. I&apos;m going to make
               sure that I make the most of it. I&apos;m going to set some goals
@@ -47,11 +47,11 @@ const Jan23 = (props) => {
               the &quot;want a game?&quot; for just saying hello! More games are
               coming, and more bounties too! 
             </span>
-            <div className="jan23-container7">
+            <div className="jan23-container8">
               <div className="jan23-profile">
-                <img alt="profile" src="/catpic.png" className="jan23-image1" />
+                <img alt="profile" src="/catpic.png" className="jan23-image2" />
               </div>
-              <span className="jan23-text5">me lol</span>
+              <span className="jan23-text6">me lol</span>
             </div>
           </div>
         </div>
