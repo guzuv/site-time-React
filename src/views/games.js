@@ -96,7 +96,7 @@ const Games = (props) => {
               good luck! spam space while it&apos;s loading for sound!
             </span>
             <a
-              href="https://28klotlucas2.github.io/Mario64webgl/"
+              href="https://guzuv.github.io/SM64-PC-Port-WebGL/"
               target="_blank"
               rel="noreferrer noopener"
               className="games-link14 button"
@@ -169,7 +169,7 @@ const Games = (props) => {
               subway surfers!
             </span>
             <a
-              href="https://subwaysurfersonlinegame.github.io/file/"
+              href="https://guzuv.github.io/sub-surf/"
               target="_blank"
               rel="noreferrer noopener"
               className="games-link19 button"
@@ -406,22 +406,8 @@ const Games = (props) => {
             </a>
           </div>
           <div className="games-card-content31">
-            <h3 className="games-text181 BigCard-Heading">slither.io</h3>
+            <h3 className="games-text181 BigCard-Heading">happy wheels</h3>
             <span className="games-text182">
-              slither io, now with even more scratch! also has multiplayer.
-            </span>
-            <a
-              href="https://lll69.github.io/turbo-warp-scratch-gui/fullscreen.html?interpolate#108566337"
-              target="_blank"
-              rel="noreferrer noopener"
-              className="games-link33 button"
-            >
-              <span className="games-text183">coil them in!</span>
-            </a>
-          </div>
-          <div className="games-card-content32">
-            <h3 className="games-text184 BigCard-Heading">happy wheels</h3>
-            <span className="games-text185">
               a brutal classic, now here! make a level and challenge your
               friends to beat it.
             </span>
@@ -429,59 +415,59 @@ const Games = (props) => {
               href="https://script.google.com/macros/s/AKfycbyfMPVIGx6dJPrYKeE9e4Erj949-dH28pWVRjdV1vgnoylpBV8af03JNLoz2MwAIBLECg/exec"
               target="_blank"
               rel="noreferrer noopener"
-              className="games-link34 button"
+              className="games-link33 button"
             >
-              <span className="games-text186">&quot;oh my legs&quot;</span>
+              <span className="games-text183">&quot;oh my legs&quot;</span>
             </a>
           </div>
-          <div className="games-card-content33">
-            <h3 className="games-text187 BigCard-Heading">miniDayZ</h3>
-            <span className="games-text188">
+          <div className="games-card-content32">
+            <h3 className="games-text184 BigCard-Heading">miniDayZ</h3>
+            <span className="games-text185">
               DayZ, reimagined as a topdown singleplayer experience. Survive!
             </span>
             <a
               href="https://nextdev65.github.io/MiniDayZ/"
               target="_blank"
               rel="noreferrer noopener"
-              className="games-link35 button"
+              className="games-link34 button"
             >
-              <span className="games-text189">rags to rope!</span>
+              <span className="games-text186">rags to rope!</span>
             </a>
           </div>
-          <div className="games-card-content34">
-            <h3 className="games-text190 BigCard-Heading">Retro Bowl</h3>
-            <span className="games-text191">
+          <div className="games-card-content33">
+            <h3 className="games-text187 BigCard-Heading">Retro Bowl</h3>
+            <span className="games-text188">
               Build a great team, and see how far you can toss a ball!
             </span>
             <a
               href="https://gameftp.agariodns.cyou/RetroBowl/"
               target="_blank"
               rel="noreferrer noopener"
-              className="games-link36 button"
+              className="games-link35 button"
             >
-              <span className="games-text192">TOUCHDOWN~</span>
+              <span className="games-text189">TOUCHDOWN~</span>
             </a>
           </div>
         </div>
         <div className="games-container2">
           <div className="games-service-card2">
-            <div className="games-card-content35">
-              <h3 className="games-text193 BigCard-Heading">Doodle Jump.</h3>
-              <span className="games-text194 Card-Text">
+            <div className="games-card-content34">
+              <h3 className="games-text190 BigCard-Heading">Doodle Jump.</h3>
+              <span className="games-text191 Card-Text">
                 jump as high as you can! can you beat 15000 score? good luck!
               </span>
               <a
                 href="https://guzuv.github.io/doodle-jump/"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link37 Anchor button"
+                className="games-link36 Anchor button"
               >
                 Get Jumping!
               </a>
             </div>
-            <div className="games-card-content36">
-              <h3 className="games-text195 BigCard-Heading">Doom!</h3>
-              <span className="games-text196 Card-Text">
+            <div className="games-card-content35">
+              <h3 className="games-text192 BigCard-Heading">Doom!</h3>
+              <span className="games-text193 Card-Text">
                 get knee deep in hell, slaughter to victory! press any key to
                 start. 
               </span>
@@ -489,16 +475,16 @@ const Games = (props) => {
                 href="https://floooh.github.io/doom-sokol/"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link38 button Anchor"
+                className="games-link37 button Anchor"
               >
                 Rip and Tear!
               </a>
             </div>
-            <div id="old-craft" className="games-card-content37">
-              <h3 className="games-text197 BigCard-Heading">
+            <div id="old-craft" className="games-card-content36">
+              <h3 className="games-text194 BigCard-Heading">
                 minecraft (old).
               </h3>
-              <span className="games-text198">
+              <span className="games-text195">
                 <span>
                   minecraft 1.5.2, with multiplayer and voice chat! pick
                   multiplayer and join with a friend! press escape in-game and
@@ -510,16 +496,16 @@ const Games = (props) => {
                 href="https://guzuv.github.io/minecraft"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link39 button Anchor"
+                className="games-link38 button Anchor"
               >
                 get mining!
               </a>
             </div>
-            <div className="games-card-content38">
-              <h3 className="games-text201 BigCard-Heading">
+            <div className="games-card-content37">
+              <h3 className="games-text198 BigCard-Heading">
                 friday night funkin&apos;
               </h3>
-              <span className="games-text202">
+              <span className="games-text199">
                 <span>friday night funkin, have fun!</span>
                 <br></br>
               </span>
@@ -527,14 +513,14 @@ const Games = (props) => {
                 href="https://watchdocumentaries.com/wp-content/uploads/games/friday-night-funkin/"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link40 button"
+                className="games-link39 button"
               >
                 funkin time!
               </a>
             </div>
-            <div className="games-card-content39">
-              <h3 className="games-text205 BigCard-Heading">1v1.lol</h3>
-              <span className="games-text206">
+            <div className="games-card-content38">
+              <h3 className="games-text202 BigCard-Heading">1v1.lol</h3>
+              <span className="games-text203">
                 <span>
                   play with friends, and duel players around the world in
                   1v1.lol!
@@ -545,14 +531,14 @@ const Games = (props) => {
                 href="https://education76.github.io/g77/1v1-lol-3/"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link41 button"
+                className="games-link40 button"
               >
                 fortnite?
               </a>
             </div>
-            <div className="games-card-content40">
-              <h3 className="games-text209 BigCard-Heading">run 3</h3>
-              <span className="games-text210">
+            <div className="games-card-content39">
+              <h3 className="games-text206 BigCard-Heading">run 3</h3>
+              <span className="games-text207">
                 <span>
                   thanks bert for the idea! nostalgia trip and get all the dots!
                 </span>
@@ -562,14 +548,14 @@ const Games = (props) => {
                 href="https://lekug.github.io/tn6pS9dCf37xAhkJv/"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link42 button"
+                className="games-link41 button"
               >
                 skater too cool.
               </a>
             </div>
-            <div className="games-card-content41">
-              <h3 className="games-text213 BigCard-Heading">tunnel rush!</h3>
-              <span className="games-text214">
+            <div className="games-card-content40">
+              <h3 className="games-text210 BigCard-Heading">tunnel rush!</h3>
+              <span className="games-text211">
                 <span>
                   dean gave me this idea. how long can you go, i was 7937m! it
                   will be blank, then it will load.
@@ -580,7 +566,7 @@ const Games = (props) => {
                 href="https://guzuv.github.io/tunnelrushing/"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link43 button"
+                className="games-link42 button"
               >
                 <span>
                   <span>breakneck speeds!</span>
@@ -588,11 +574,11 @@ const Games = (props) => {
                 </span>
               </a>
             </div>
-            <div className="games-card-content42">
-              <h3 className="games-text220 BigCard-Heading">
+            <div className="games-card-content41">
+              <h3 className="games-text217 BigCard-Heading">
                 Fireboy And Watergirl
               </h3>
-              <span className="games-text221">
+              <span className="games-text218">
                 <span>
                   A 2 player classic, fireboy and water girl, get gems, dodge
                   the opposites, and sabotage your friends!
@@ -603,7 +589,7 @@ const Games = (props) => {
                 href="https://guzuvy.github.io/fb-and-wg/"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link44 button"
+                className="games-link43 button"
               >
                 <span>
                   <span>Opposites Attract!</span>
@@ -611,9 +597,9 @@ const Games = (props) => {
                 </span>
               </a>
             </div>
-            <div className="games-card-content43">
-              <h3 className="games-text227 BigCard-Heading">Iron snout.</h3>
-              <span className="games-text228">
+            <div className="games-card-content42">
+              <h3 className="games-text224 BigCard-Heading">Iron snout.</h3>
+              <span className="games-text225">
                 <span>
                   last as long as you can, i got 21 dead on 1hp mode, can you
                   top that?
@@ -624,7 +610,7 @@ const Games = (props) => {
                 href="https://s3.eu-central-1.amazonaws.com/snoutupgames/ironsnout/index.html"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link45 button"
+                className="games-link44 button"
               >
                 <span>
                   <span>making bacon!</span>
@@ -632,9 +618,9 @@ const Games = (props) => {
                 </span>
               </a>
             </div>
-            <div className="games-card-content44">
-              <h3 className="games-text234 BigCard-Heading">flappy bird.</h3>
-              <span className="games-text235">
+            <div className="games-card-content43">
+              <h3 className="games-text231 BigCard-Heading">flappy bird.</h3>
+              <span className="games-text232">
                 <span>flap forever! (used to be a bounty)</span>
                 <br></br>
               </span>
@@ -642,7 +628,7 @@ const Games = (props) => {
                 href="https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/TAhlQLDa/index.html"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link46 button"
+                className="games-link45 button"
               >
                 <span>
                   <span>Tap to flap!</span>
@@ -650,14 +636,14 @@ const Games = (props) => {
                 </span>
               </a>
             </div>
-            <div className="games-card-content45">
-              <h3 className="games-text241">
-                <span className="games-text242 BigCard-Heading">
+            <div className="games-card-content44">
+              <h3 className="games-text238">
+                <span className="games-text239 BigCard-Heading">
                   Baldi&apos;s Basics
                 </span>
                 <br></br>
               </h3>
-              <span className="games-text244">
+              <span className="games-text241">
                 <span>
                   snag notebooks, get sweep sweep sweeped, and escape in
                   baldi&apos;s basics!
@@ -668,7 +654,7 @@ const Games = (props) => {
                 href="https://snappyshortpie.github.io/baldis-basics/"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link47 button"
+                className="games-link46 button"
               >
                 <span>
                   <span>slapping the ruler!</span>
@@ -676,12 +662,12 @@ const Games = (props) => {
                 </span>
               </a>
             </div>
-            <div className="games-card-content46">
-              <h3 className="games-text250">
-                <span className="games-text251 BigCard-Heading">fnaf!</span>
+            <div className="games-card-content45">
+              <h3 className="games-text247">
+                <span className="games-text248 BigCard-Heading">fnaf!</span>
                 <br></br>
               </h3>
-              <span className="games-text253">
+              <span className="games-text250">
                 <span>
                   scratch version of fnaf, chromebooks can&apos;t handle the
                   real one.
@@ -697,7 +683,7 @@ const Games = (props) => {
                 href="https://watchdocumentaries.com/wp-content/uploads/games/five-nights-at-freddys/"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link48 button"
+                className="games-link47 button"
               >
                 <span>
                   <span>har, har, har har har-</span>
@@ -705,12 +691,12 @@ const Games = (props) => {
                 </span>
               </a>
             </div>
-            <div className="games-card-content47">
-              <h3 className="games-text259">
-                <span className="games-text260 BigCard-Heading">fnaf 2!</span>
+            <div className="games-card-content46">
+              <h3 className="games-text256">
+                <span className="games-text257 BigCard-Heading">fnaf 2!</span>
                 <br></br>
               </h3>
-              <span className="games-text262">
+              <span className="games-text259">
                 <span>
                   scratch version of fnaf 2, chromebooks can&apos;t handle the
                   real one as well. enjoy!
@@ -721,7 +707,7 @@ const Games = (props) => {
                 href="https://watchdocumentaries.com/wp-content/uploads/games/five-nights-at-freddys-2/"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link49 button"
+                className="games-link48 button"
               >
                 <span>
                   <span>we hate toy bonnie</span>
@@ -729,12 +715,12 @@ const Games = (props) => {
                 </span>
               </a>
             </div>
-            <div className="games-card-content48">
-              <h3 className="games-text268">
+            <div className="games-card-content47">
+              <h3 className="games-text265">
                 <span className="BigCard-Heading">cookie clicker!</span>
                 <br></br>
               </h3>
-              <span className="games-text271">
+              <span className="games-text268">
                 <span>
                   like cookies? click for cookies, and click for more cookies!
                   Now with cookie time machines!
@@ -745,7 +731,7 @@ const Games = (props) => {
                 href="https://guzuv.github.io/cookieclicker"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link50 button"
+                className="games-link49 button"
               >
                 <span>
                   <span>succumb to the cookie.</span>
@@ -753,12 +739,12 @@ const Games = (props) => {
                 </span>
               </a>
             </div>
-            <div className="games-card-content49">
-              <h3 className="games-text277">
+            <div className="games-card-content48">
+              <h3 className="games-text274">
                 <span className="BigCard-Heading">boxing random.</span>
                 <br></br>
               </h3>
-              <span className="games-text280">
+              <span className="games-text277">
                 <span>
                   boxing, but random?! hit the head, play with a buddy or with a
                   bot!
@@ -769,7 +755,7 @@ const Games = (props) => {
                 href="https://guzuvy.github.io/boxing-random/"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link51 button"
+                className="games-link50 button"
               >
                 <span>
                   <span>time to punch-out!</span>
@@ -777,12 +763,12 @@ const Games = (props) => {
                 </span>
               </a>
             </div>
-            <div className="games-card-content50">
-              <h3 className="games-text286">
+            <div className="games-card-content49">
+              <h3 className="games-text283">
                 <span className="BigCard-Heading">chess!</span>
                 <br></br>
               </h3>
-              <span className="games-text289">
+              <span className="games-text286">
                 <span>simple chess, has multiplayer and local gameplay.</span>
                 <br></br>
               </span>
@@ -790,7 +776,7 @@ const Games = (props) => {
                 href="http://plainchess.timwoelfle.de/"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link52 button"
+                className="games-link51 button"
               >
                 <span>
                   <span>&quot;checkmate.&quot;</span>
@@ -798,12 +784,12 @@ const Games = (props) => {
                 </span>
               </a>
             </div>
-            <div className="games-card-content51">
-              <h3 className="games-text295">
+            <div className="games-card-content50">
+              <h3 className="games-text292">
                 <span className="BigCard-Heading">slope</span>
                 <br></br>
               </h3>
-              <span className="games-text298">
+              <span className="games-text295">
                 <span>slope gaming! how far can you go, i hit 52 score.</span>
                 <br></br>
               </span>
@@ -811,20 +797,20 @@ const Games = (props) => {
                 href="https://watchdocumentaries.com/wp-content/uploads/games/slope/"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link53 button"
+                className="games-link52 button"
               >
-                <span className="games-text301">
+                <span className="games-text298">
                   <span>nyooom!</span>
                   <br></br>
                 </span>
               </a>
             </div>
-            <div className="games-card-content52">
-              <h3 className="games-text304">
+            <div className="games-card-content51">
+              <h3 className="games-text301">
                 <span className="BigCard-Heading">super mario bros.</span>
                 <br></br>
               </h3>
-              <span className="games-text307">
+              <span className="games-text304">
                 <span>
                   super mario bros! with a level creator, mods, and the original
                   game, all in one! if it&apos;s laggy, set fps to 30 and
@@ -836,20 +822,20 @@ const Games = (props) => {
                 href="https://foss2016.github.io/"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link54 button"
+                className="games-link53 button"
               >
-                <span className="games-text310">
+                <span className="games-text307">
                   <span>one up!</span>
                   <br></br>
                 </span>
               </a>
             </div>
-            <div className="games-card-content53">
-              <h3 className="games-text313">
+            <div className="games-card-content52">
+              <h3 className="games-text310">
                 <span className="BigCard-Heading">janissary battles!</span>
                 <br></br>
               </h3>
-              <span className="games-text316">
+              <span className="games-text313">
                 <span>
                   like random basketball? here&apos;s a new game by the same
                   people, now with sharp objects!
@@ -860,20 +846,20 @@ const Games = (props) => {
                 href="https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/yrgen73/janibatt@a9212750ab7fcdb5f37ae991c38fef738aa37eba/jb.xml&amp;container=ig"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link55 button"
+                className="games-link54 button"
               >
-                <span className="games-text319">
+                <span className="games-text316">
                   <span>2 player madness!</span>
                   <br></br>
                 </span>
               </a>
             </div>
-            <div className="games-card-content54">
-              <h3 className="games-text322">
+            <div className="games-card-content53">
+              <h3 className="games-text319">
                 <span className="BigCard-Heading">johnny upgrade.</span>
                 <br></br>
               </h3>
-              <span className="games-text325">
+              <span className="games-text322">
                 <span>
                   play as a hero, but broke! grab some cash and buy your way to
                   the top!
@@ -884,20 +870,20 @@ const Games = (props) => {
                 href="https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/f107b843-3661-4036-9397-2b0c6414a369%2Fjohnny-upgrade.xml&amp;container=ig"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link56 button"
+                className="games-link55 button"
               >
-                <span className="games-text328">
+                <span className="games-text325">
                   <span>get that bling!</span>
                   <br></br>
                 </span>
               </a>
             </div>
-            <div className="games-card-content55">
-              <h3 className="games-text331">
+            <div className="games-card-content54">
+              <h3 className="games-text328">
                 <span className="BigCard-Heading">rooftop snipers!</span>
                 <br></br>
               </h3>
-              <span className="games-text334">
+              <span className="games-text331">
                 <span>
                   fire away at your pals, and fling them off the rooftop!
                 </span>
@@ -907,20 +893,20 @@ const Games = (props) => {
                 href="https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/version@f8de953e5d955baef80e3994a1105d74ad76315b/Rooftop-Snipers.xml&amp;container=ig"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link57 button"
+                className="games-link56 button"
               >
-                <span className="games-text337">
+                <span className="games-text334">
                   <span>fire away!</span>
                   <br></br>
                 </span>
               </a>
             </div>
-            <div className="games-card-content56">
-              <h3 className="games-text340">
+            <div className="games-card-content55">
+              <h3 className="games-text337">
                 <span className="BigCard-Heading">Gunblood.</span>
                 <br></br>
               </h3>
-              <span className="games-text343">
+              <span className="games-text340">
                 <span>
                   place your mouse on the chamber, and fire at the enemy with
                   haste! now with friend leaderboards~
@@ -931,20 +917,20 @@ const Games = (props) => {
                 href="https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/f107b843-3661-4036-9397-2b0c6414a369%2Fgunblood.xml&amp;container=ig"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link58 button"
+                className="games-link57 button"
               >
-                <span className="games-text346">
+                <span className="games-text343">
                   <span>Draw!</span>
                   <br></br>
                 </span>
               </a>
             </div>
-            <div className="games-card-content57">
-              <h3 className="games-text349">
+            <div className="games-card-content56">
+              <h3 className="games-text346">
                 <span className="BigCard-Heading">bloons tower defense 5!</span>
                 <br></br>
               </h3>
-              <span className="games-text352">
+              <span className="games-text349">
                 <span>
                   a poptacular classic tower defense game. the game isnt broken,
                   it takes a while to load.
@@ -955,9 +941,9 @@ const Games = (props) => {
                 href="https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/f107b843-3661-4036-9397-2b0c6414a369%2Fbtd5.xml&amp;container=ig"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="games-link59 button"
+                className="games-link58 button"
               >
-                <span className="games-text355">
+                <span className="games-text352">
                   <span>pop!</span>
                   <br></br>
                 </span>
