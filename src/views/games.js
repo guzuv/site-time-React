@@ -787,7 +787,7 @@ const Games = (props) => {
                   </span>
                 </a>
                 <a
-                  href="https://watchdocumentaries.com/wp-content/uploads/games/five-nights-at-freddys/"
+                  href="https://lll69.github.io/turbo-warp-scratch-gui/fullscreen.html?interpolate#500148371"
                   target="_blank"
                   rel="noreferrer noopener"
                   className="games-link56 button"
