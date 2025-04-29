@@ -7,89 +7,105 @@
   flex-direction: column;
   background-color: #000000;
 }
+ 
 .bounty-card-content1 {
   width: auto;
   height: auto;
-  margin: var(--dl-space-space-fiveunits);
+  margin: var(--dl-layout-space-fiveunits);
   display: flex;
-  padding: var(--dl-space-space-fiveunits);
+  padding: var(--dl-layout-space-fiveunits);
   max-width: auto;
   align-items: center;
   flex-direction: column;
   justify-content: center;
 }
+ 
 .bounty-text10 {
   color: #ffffff;
   text-align: center;
-  margin-bottom: var(--dl-space-space-fourunits);
+  margin-bottom: var(--dl-layout-space-fourunits);
 }
+ 
 .bounty-text11 {
   color: var(--dl-color-primary-700);
   text-align: center;
-  margin-bottom: var(--dl-space-space-fourunits);
+  margin-bottom: var(--dl-layout-space-fourunits);
 }
+ 
 .bounty-link1 {
   text-decoration: underline;
 }
+ 
 .bounty-text23 {
   font-style: normal;
   font-weight: 700;
 }
+ 
 .bounty-card-content2 {
   width: auto;
   height: auto;
-  margin: var(--dl-space-space-fiveunits);
+  margin: var(--dl-layout-space-fiveunits);
   display: flex;
-  padding: var(--dl-space-space-fiveunits);
+  padding: var(--dl-layout-space-fiveunits);
   max-width: auto;
   align-items: center;
   flex-direction: column;
   justify-content: center;
 }
+ 
 .bounty-text25 {
   color: #ffffff;
   text-align: center;
-  margin-bottom: var(--dl-space-space-fourunits);
+  margin-bottom: var(--dl-layout-space-fourunits);
 }
+ 
 .bounty-text26 {
   color: var(--dl-color-primary-700);
   text-align: center;
-  margin-bottom: var(--dl-space-space-fourunits);
+  margin-bottom: var(--dl-layout-space-fourunits);
 }
+ 
 .bounty-text30 {
   color: #0fff00;
 }
+ 
 .bounty-link2 {
   text-decoration: underline;
 }
+ 
 .bounty-text37 {
   font-style: normal;
   font-weight: 700;
 }
+ 
 .bounty-card-content3 {
   width: auto;
   height: auto;
-  margin: var(--dl-space-space-fiveunits);
+  margin: var(--dl-layout-space-fiveunits);
   display: flex;
-  padding: var(--dl-space-space-fiveunits);
+  padding: var(--dl-layout-space-fiveunits);
   max-width: auto;
   align-items: center;
   flex-direction: column;
   justify-content: center;
 }
+ 
 .bounty-text39 {
   color: #ffffff;
   text-align: center;
-  margin-bottom: var(--dl-space-space-fourunits);
+  margin-bottom: var(--dl-layout-space-fourunits);
 }
+ 
 .bounty-text40 {
   color: var(--dl-color-primary-700);
   text-align: center;
-  margin-bottom: var(--dl-space-space-fourunits);
+  margin-bottom: var(--dl-layout-space-fourunits);
 }
+ 
 .bounty-link3 {
   text-decoration: underline;
 }
+ 
 @media(max-width: 1600px) {
   .bounty-text11 {
     color: var(--dl-color-primary-700);
@@ -108,6 +124,7 @@
     font-weight: 700;
   }
 }
+ 
 @media(max-width: 1200px) {
   .bounty-container {
     background-color: #000000;
@@ -165,6 +182,7 @@
     text-decoration: underline;
   }
 }
+ 
 @media(max-width: 479px) {
   .bounty-card-content1 {
     width: auto;

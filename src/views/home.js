@@ -31,13 +31,19 @@ const Home = (props) => {
                 <br></br>
                 <span>patch notes:</span>
                 <br></br>
-                <span>-fixed every game, again!</span>
+                <span>-fixed everything (i think)</span>
                 <br></br>
-                <span>-added fnaf 2!</span>
+                <span>
+                  -added a lot of now games
+                  <span
+                    dangerouslySetInnerHTML={{
+                      __html: ' ',
+                    }}
+                  />
+                </span>
                 <br></br>
-                <span>-added retro bowl!</span>
-                <br></br>
-                <span>-pruned games</span>
+                <span>(fnaf, papas games, fireboy/watergirl)</span>
+                <span>!</span>
                 <br></br>
               </span>
             </div>
@@ -54,8 +60,8 @@ const Home = (props) => {
       <div className="home-section-separator1"></div>
       <div id="features" className="home-features">
         <div className="home-heading-container">
-          <h2 className="home-text27">what i do.</h2>
-          <span className="home-text28">
+          <h2 className="home-text26">what i do.</h2>
+          <span className="home-text27">
             what i do when i&apos;m not doing chores or being outdoors.
           </span>
         </div>
@@ -69,7 +75,7 @@ const Home = (props) => {
             <span className="home-heading2 Card-Heading">
               playstation plays!
             </span>
-            <span className="home-text29">
+            <span className="home-text28">
               <span>I play ps4, i play call of duty, apex legends,</span>
               <span>, minecraft, and many others!</span>
             </span>
@@ -81,7 +87,7 @@ const Home = (props) => {
               className="home-image3"
             />
             <span className="home-heading3 Card-Heading">pc gaming!</span>
-            <span className="home-text32">
+            <span className="home-text31">
               <span>
                 i play on pc too! i have rust, minecraft, call of duty, tf2
                 (main medic) and others! i&apos;m always willing to try
@@ -97,7 +103,7 @@ const Home = (props) => {
               className="home-image4"
             />
             <span className="home-heading4 Card-Heading">say hi!</span>
-            <span className="home-text35">
+            <span className="home-text34">
               <span>
                 i&apos;m on discord! i have a discord server, contact me by
                 scrolling down!
@@ -107,7 +113,7 @@ const Home = (props) => {
           </div>
         </div>
       </div>
-      <span className="home-text38">
+      <span className="home-text37">
         <span>
           ignore me, just making seo better:
           <span
@@ -126,11 +132,11 @@ const Home = (props) => {
       <div className="home-blog-post-card">
         <div id="blog" className="home-container14">
           <div className="home-container15">
-            <span className="home-text42"> </span>
+            <span className="home-text41"> </span>
           </div>
           <div className="home-container16">
             <div className="home-container17">
-              <h1 className="home-text43">major maintainance!</h1>
+              <h1 className="home-text42">major maintainance!</h1>
             </div>
             <img
               alt="image"
@@ -138,8 +144,8 @@ const Home = (props) => {
               className="home-image5"
             />
           </div>
-          <span className="home-text44">Feb 22, 2024</span>
-          <span className="home-text45">
+          <span className="home-text43">Feb 22, 2024</span>
+          <span className="home-text44">
             Well, it has been a while. I&apos;ve left this site neglected for a
             while, and a change is due. I have fixed every single game, yes,
             even that one. Time Shooters 2 is back, since a few people wanted it
@@ -149,10 +155,10 @@ const Home = (props) => {
           <div className="home-container18">
             <div className="home-profile">
               <img alt="profile" src="/catpic.png" className="home-image6" />
-              <span className="home-text46"> me lol</span>
+              <span className="home-text45"> me lol</span>
               <Link to="/archive" className="home-navlink1">
                 <span>   </span>
-                <span className="home-text48">
+                <span className="home-text47">
                   want to see all of my blogs? here!
                 </span>
               </Link>
@@ -164,8 +170,8 @@ const Home = (props) => {
       <div className="home-container20">
         <div id="actual-games" className="home-container21">
           <div className="home-card-content">
-            <h3 className="home-text49 BigCard-Heading">hey!</h3>
-            <span className="home-text50">
+            <h3 className="home-text48 BigCard-Heading">hey!</h3>
+            <span className="home-text49">
               <span>
                 I got so many games, i had to put it somewhere else. just click
                 this epic button, and join the fun!
@@ -178,7 +184,7 @@ const Home = (props) => {
             </span>
             <Link to="/games" className="home-navlink3">
               <div className="home-container22">
-                <span className="home-text54">click here!</span>
+                <span className="home-text53">click here!</span>
               </div>
             </Link>
           </div>
@@ -186,7 +192,7 @@ const Home = (props) => {
       </div>
       <div className="home-container23"></div>
       <div className="home-testimonials">
-        <h2 className="home-text55">peeps i feature.</h2>
+        <h2 className="home-text54">peeps i feature.</h2>
         <div className="home-cards-container2">
           <div className="home-testimonial-card1">
             <div className="home-card-heading1">
@@ -236,7 +242,7 @@ const Home = (props) => {
                 </svg>
               </div>
             </div>
-            <span className="home-text56">
+            <span className="home-text55">
               the coolest nerd i know, check him out, he posts gaming and life
               videos.
               <span
@@ -292,7 +298,7 @@ const Home = (props) => {
                 </svg>
               </div>
             </div>
-            <span className="home-text57">
+            <span className="home-text56">
               good videos, does shorts, livestreams, and gameplay! dedicated and
               great!
             </span>
@@ -343,7 +349,7 @@ const Home = (props) => {
                 </svg>
               </div>
             </div>
-            <span className="home-text58">
+            <span className="home-text57">
               <span>
                 loves roblox bedwars, has some nice vids, go say hi to him!
               </span>
@@ -354,7 +360,7 @@ const Home = (props) => {
       </div>
       <div className="home-container24"></div>
       <div id="contact" className="home-content-container">
-        <h2 className="home-text61 Section-Heading">Contact me!</h2>
+        <h2 className="home-text60 Section-Heading">Contact me!</h2>
         <div className="home-locations-container">
           <div className="home-location1">
             <span className="home-heading5">most active on discord.</span>
@@ -368,7 +374,7 @@ const Home = (props) => {
               <svg viewBox="0 0 877.7142857142857 1024" className="home-icon42">
                 <path d="M585.143 512c0-80.571-65.714-146.286-146.286-146.286s-146.286 65.714-146.286 146.286 65.714 146.286 146.286 146.286 146.286-65.714 146.286-146.286zM664 512c0 124.571-100.571 225.143-225.143 225.143s-225.143-100.571-225.143-225.143 100.571-225.143 225.143-225.143 225.143 100.571 225.143 225.143zM725.714 277.714c0 29.143-23.429 52.571-52.571 52.571s-52.571-23.429-52.571-52.571 23.429-52.571 52.571-52.571 52.571 23.429 52.571 52.571zM438.857 152c-64 0-201.143-5.143-258.857 17.714-20 8-34.857 17.714-50.286 33.143s-25.143 30.286-33.143 50.286c-22.857 57.714-17.714 194.857-17.714 258.857s-5.143 201.143 17.714 258.857c8 20 17.714 34.857 33.143 50.286s30.286 25.143 50.286 33.143c57.714 22.857 194.857 17.714 258.857 17.714s201.143 5.143 258.857-17.714c20-8 34.857-17.714 50.286-33.143s25.143-30.286 33.143-50.286c22.857-57.714 17.714-194.857 17.714-258.857s5.143-201.143-17.714-258.857c-8-20-17.714-34.857-33.143-50.286s-30.286-25.143-50.286-33.143c-57.714-22.857-194.857-17.714-258.857-17.714zM877.714 512c0 60.571 0.571 120.571-2.857 181.143-3.429 70.286-19.429 132.571-70.857 184s-113.714 67.429-184 70.857c-60.571 3.429-120.571 2.857-181.143 2.857s-120.571 0.571-181.143-2.857c-70.286-3.429-132.571-19.429-184-70.857s-67.429-113.714-70.857-184c-3.429-60.571-2.857-120.571-2.857-181.143s-0.571-120.571 2.857-181.143c3.429-70.286 19.429-132.571 70.857-184s113.714-67.429 184-70.857c60.571-3.429 120.571-2.857 181.143-2.857s120.571-0.571 181.143 2.857c70.286 3.429 132.571 19.429 184 70.857s67.429 113.714 70.857 184c3.429 60.571 2.857 120.571 2.857 181.143z"></path>
               </svg>
-              <span className="home-text63">    Guzuvy</span>
+              <span className="home-text62">    Guzuvy</span>
             </div>
             <div className="home-phone">
               <img

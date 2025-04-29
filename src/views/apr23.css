@@ -6,6 +6,7 @@
   align-items: center;
   flex-direction: column;
 }
+ 
 .apr23-container2 {
   width: auto;
   height: 100%;
@@ -18,19 +19,22 @@
   padding-bottom: 32px;
   justify-content: space-between;
 }
+ 
 .apr23-container3 {
   width: 100%;
   display: flex;
   align-items: flex-start;
-  margin-bottom: var(--dl-space-space-halfunit);
+  margin-bottom: var(--dl-layout-space-halfunit);
   flex-direction: row;
   justify-content: space-between;
 }
+ 
 .apr23-text1 {
   color: var(--dl-color-gray-500);
   font-weight: 600;
   text-transform: uppercase;
 }
+ 
 .apr23-container4 {
   flex: 0 0 auto;
   width: auto;
@@ -40,6 +44,7 @@
   flex-direction: column;
   justify-content: flex-start;
 }
+ 
 .apr23-container5 {
   flex: 0 0 auto;
   width: auto;
@@ -48,10 +53,12 @@
   align-items: flex-start;
   justify-content: flex-start;
 }
+ 
 .apr23-text2 {
   color: rgb(255, 255, 255);
   margin-bottom: 32px;
 }
+ 
 .apr23-image1 {
   width: 50%;
   height: auto;
@@ -59,15 +66,18 @@
   border-color: var(--dl-color-gray-500);
   border-width: 3px;
 }
+ 
 .apr23-text3 {
   color: var(--dl-color-gray-500);
   font-weight: 300;
 }
+ 
 .apr23-text4 {
   color: var(--dl-color-gray-500);
   font-size: 1.25rem;
   margin-bottom: 32px;
 }
+ 
 .apr23-container6 {
   width: 100%;
   display: flex;
@@ -75,23 +85,28 @@
   flex-direction: row;
   justify-content: space-between;
 }
+ 
 .apr23-profile {
   display: flex;
   align-items: center;
 }
+ 
 .apr23-image2 {
   width: 48px;
   height: 48px;
   object-fit: cover;
-  border-radius: var(--dl-radius-radius-round);
+  border-radius: var(--dl-layout-radius-round);
 }
+ 
 .apr23-navlink {
   color: rgb(66, 251, 255);
   text-decoration: none;
 }
+ 
 .apr23-text5 {
   color: #ffffff;
 }
+ 
 @media(max-width: 1600px) {
   .apr23-container1 {
     background-color: #000000;
@@ -121,6 +136,7 @@
     font-size: 1.25rem;
   }
 }
+ 
 @media(max-width: 1200px) {
   .apr23-container2 {
     width: auto;
@@ -145,6 +161,7 @@
     text-decoration: underline;
   }
 }
+ 
 @media(max-width: 479px) {
   .apr23-container2 {
     width: auto;
