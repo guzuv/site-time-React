@@ -31,7 +31,7 @@ const Home = (props) => {
                 <br></br>
                 <span>patch notes:</span>
                 <br></br>
-                <span>-fixed everything (i think)</span>
+                <span>-brought back 1v1 lol gamemodes</span>
                 <br></br>
                 <span>
                   -added a lot of now games

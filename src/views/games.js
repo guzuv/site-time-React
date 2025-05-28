@@ -573,7 +573,7 @@ const Games = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://1v1-lol-online.github.io/1v1-lol-2/"
+                href="https://googleusercontent.b-cdn.net/one/one.html"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="games-link44 button"
