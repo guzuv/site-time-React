@@ -1,4 +1,4 @@
-.bounty-container {
+.bounty-container1 {
   width: 100%;
   display: flex;
   overflow: auto;
@@ -8,7 +8,7 @@
   background-color: #000000;
 }
  
-.bounty-card-content1 {
+.bounty-thq-card-content-elm1 {
   width: auto;
   height: auto;
   margin: var(--dl-layout-space-fiveunits);
@@ -41,7 +41,7 @@
   font-weight: 700;
 }
  
-.bounty-card-content2 {
+.bounty-thq-card-content-elm2 {
   width: auto;
   height: auto;
   margin: var(--dl-layout-space-fiveunits);
@@ -78,7 +78,7 @@
   font-weight: 700;
 }
  
-.bounty-card-content3 {
+.bounty-thq-card-content-elm3 {
   width: auto;
   height: auto;
   margin: var(--dl-layout-space-fiveunits);
@@ -106,127 +106,38 @@
   text-decoration: underline;
 }
  
-@media(max-width: 1600px) {
-  .bounty-text11 {
-    color: var(--dl-color-primary-700);
-  }
-  .bounty-text15 {
-    color: #0fff00;
-  }
-  .bounty-text16 {
-    color: var(--dl-color-primary-700);
-  }
-  .bounty-link1 {
-    text-decoration: underline;
-  }
-  .bounty-text23 {
-    font-style: normal;
-    font-weight: 700;
-  }
+.bounty-link4 {
+  display: contents;
 }
  
-@media(max-width: 1200px) {
-  .bounty-container {
-    background-color: #000000;
-  }
-  .bounty-card-content1 {
-    width: auto;
-    max-width: 100%;
-  }
-  .bounty-text10 {
-    color: rgb(255, 255, 255);
-  }
-  .bounty-text11 {
-    color: var(--dl-color-primary-700);
-  }
-  .bounty-text12 {
-    font-size: 16px;
-  }
-  .bounty-text15 {
-    color: #0fff00;
-  }
-  .bounty-text16 {
-    color: var(--dl-color-primary-700);
-  }
-  .bounty-link1 {
-    text-decoration: underline;
-  }
-  .bounty-text23 {
-    font-style: normal;
-    font-weight: 700;
-  }
-  .bounty-card-content2 {
-    width: auto;
-    max-width: 100%;
-  }
-  .bounty-text26 {
-    color: var(--dl-color-primary-700);
-  }
-  .bounty-text27 {
-    font-size: 16px;
-  }
-  .bounty-link2 {
-    text-decoration: underline;
-  }
-  .bounty-card-content3 {
-    width: auto;
-    max-width: 100%;
-  }
-  .bounty-text40 {
-    color: var(--dl-color-primary-700);
-  }
-  .bounty-text41 {
-    font-size: 16px;
-  }
-  .bounty-link3 {
-    text-decoration: underline;
-  }
+.bounty-container2 {
+  right: 50px;
+  border: 1px solid #ffffff5c;
+  bottom: 30px;
+  display: flex;
+  z-index: 22;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
+  min-height: auto;
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 12px;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  backdrop-filter: blur(6px);
+  background-color: rgba(41, 41, 41, 0.41);
 }
  
-@media(max-width: 479px) {
-  .bounty-card-content1 {
-    width: auto;
-    height: auto;
-    max-width: auto;
-  }
-  .bounty-text10 {
-    width: auto;
-    height: auto;
-    max-width: auto;
-  }
-  .bounty-text11 {
-    width: auto;
-    height: auto;
-    max-width: auto;
-  }
-  .bounty-card-content2 {
-    width: auto;
-    height: auto;
-    max-width: auto;
-  }
-  .bounty-text25 {
-    width: auto;
-    height: auto;
-    max-width: auto;
-  }
-  .bounty-text26 {
-    width: auto;
-    height: auto;
-    max-width: auto;
-  }
-  .bounty-card-content3 {
-    width: auto;
-    height: auto;
-    max-width: auto;
-  }
-  .bounty-text39 {
-    width: auto;
-    height: auto;
-    max-width: auto;
-  }
-  .bounty-text40 {
-    width: auto;
-    height: auto;
-    max-width: auto;
-  }
+.bounty-icon1 {
+  width: 24px;
+  margin-right: 4px;
+}
+ 
+.bounty-text50 {
+  color: white;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
 }
