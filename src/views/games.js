@@ -1095,7 +1095,7 @@ const Games = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://v6-f.knimedia.us/books/ultrakill/index.html"
+                href="https://map-l.github.io/play/ultrakill/"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="games-link77 button"
