@@ -576,7 +576,7 @@ const Games = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://guzuvy.github.io/fnf/"
+                href="https://map-l.github.io/play/fnf/"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="games-link49 button"
@@ -1143,7 +1143,7 @@ const Games = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://v6-f.knimedia.us/books/repo/index.html"
+                href="https://map-l.github.io/play/repo/"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="games-link79 button"
